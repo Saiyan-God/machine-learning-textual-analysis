@@ -1,0 +1,25 @@
+Imagine if you could fold up your tablet or smartphone. As Allison Vuchnich reports, UBC researchers have invented a flexible sensor that has the ability to detect touch while being stretched and bent.
+
+Imagine being able to fold up your tablet or smart phone and put it in your purse or pocket.
+
+Foldable touchscreens and robotic skins could soon be part of a new reality, thanks to a new flexible sensor developed by a team of researchers at the University of British Columbia.
+
+Using a conductive gel between two layers of silicon, they’ve created a flexible sensor that can also sense a hovering finger as well as touch, including swiping and tapping.
+
+ “There are other stretchable and bendable sensors. What really makes us unique is that we can stretch and bend and detect the finger while doing that,” said UBC electrical and computer engineering professor John Madden.
+
+The sensor could be wrapped or folded around the body, offering new possibilities in the world of interactive consumer products and environments.
+
+An interactive drug patch, for example, could allow someone to control their dosage using touch. That data could then be collected and sent to a device, such a computer or smartphone.
+
+In a hospital setting or care facilities, the sensors could be placed under carpets to detect falls, or under bedsheets to prevent bedsores.
+
+Mirza Sarwar, an electrical and computer engineering PhD student at UBC, said they have “high hopes” for this technology.
+
+Without the bulkiness of current electronics, Sarwar said wearables of the future will feel more like an extension of our bodies.
+
+“You [could] have it on your arm… then you would actually feel as if it’s an extension of you. It’s an extension of your skin, so you can interact with it much more seamlessly. And it wouldn’t feel like a bulky additional device,” he said.
+
+The UBC team says the prototype, which was outlined in Science Advances, measures 5 cm x 5 cm but could be easily scaled up. Besides its flexibility, the sensor is made with affordable and widely available materials — gel and silicone. Madden estimates it could cost as little as a dollar per square metre.
+
+According to industry analysts, the global market for flexible and printed sensors is skyrocketing – expected to reach US$9.7 billion by 2020.

@@ -1,0 +1,31 @@
+Video:  Engineers from the University of Toronto say they’ve combined artificial intelligence with game theory to come up with a smart solution to traffic lights that just don’t seem to get it right. Christina Stevens explains.
+
+We all know the feeling, stuck at what feels like a never ending traffic light in the midst of rush hour, or sitting at a red light late at night when there is no one going the other way.
+
+A pair of Toronto engineers think they have a solution. The University of Toronto professor and Phd student have come up with a traffic light which uses artificial intelligence to speed things up.
+
+A virtual test on 60 Toronto intersections found the system, dubbed MARLIN, could cut wait times by up to 40 per cent. Both academics and municipalities are taking notice.
+
+Samah El-Tantawy said she was inspired to work on the project by seeing the impact of traffic jams in Toronto and her hometown, Cairo, Egypt.
+
+Currently most traffic lights are controlled by timers or they use sensors hooked up to a centralized system. El-Tantawy’s concept uses cameras and computers in each individual intersection to instantly read traffic data in all directions and adjust the length of the green light accordingly.
+
+“It takes the appropriate action by adjusting the times in real time to minimize the delay in the intersection while also coordinating with the intersections in the neighbourhood,” she said, adding it employs something known as “game theory concept.”
+
+Picture a hockey team, each player knows where the other is and is constantly making decisions based not just on what is best for them, but what is best for the rest of the team. They know when and where to pass. That is how this works. Like humans, MARLIN learns. The more it learns, the better it works.
+
+“The traffic light keeps adjusting itself, it’s timing every second, every second there is a new decision, then observing the impact of that on traffic. Am I making things better or making things worse? If I am making things better the queue lines are reducing by how much?” said Professor Baher Abdulhai, head of the Intelligent Transportation Systems Centre at U of T.
+
+He explained this is all kept in memory, in a mental map, until MARLIN gets to the point where it knows exactly what to do on a second-by-second basis. That’s when you get the 40 per cent decrease in time at traffic lights and Abdulhai said that translates into a reduction of about 25 per cent off of your total commute time.
+
+Why is this so important? It is about a lot more than driver frustration. Several studies have found congestion takes a toll on the economy, the environment and even our health.
+
+The C.D. Howe Institute has taken a hard look at the economic toll. One common estimate is that traffic jams in the Greater Toronto and Hamilton area cost the Canadian economy about $6 billion per year. However the C.D. Howe Institute found it could be even pricier than that, estimating additional costs of between $1.5 billion and $5 billion a year.
+
+Study author Benjamin Dachis points out the problem is much larger than just traffic lights, and says Substantial infrastructure and public transit investments have to be made and other solutions like tolls considered.
+
+Abdulhai and El-Tantawy don’t dispute that, but say improving the time spent at intersections is still a factor. El-Tantawy has won two prestigious, international academic awards for MARLIN (one from the Institute of Electrical and Electronics Engineers’ Intelligent Transportation Systems Society, the other from the Institute of Operations Research and Management Sciences).
+
+El-Tantawy and Abdulhai are currently in talks with a number of municipalities about rolling out pilot projects in hopes of keeping traffic rolling right along.
+
+Watch: Dr. Samah El-Tantawy demonstrates the MARLIN-ATSC traffic light system which she developed. The system uses artificial intelligence to teach lights how to adjust to traffic patterns in real-time.

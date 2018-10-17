@@ -1,0 +1,77 @@
+Will it be harder to protect utilities as customers embrace smart grid technologies?
+
+There have been 25 serious incidents investigated involving nation-state attackers going after Canadian critical infrastructure. (Ryan Pilon/CBC)
+Electrical utilities around the world are under increasing attack by nation-states, organized crime, terrorist groups and activists, all seeking the capability to cause widespread disruption and chaos. 
+
+With two confirmed massive power outages in Ukraine now attributed to successful attacks by nation-state backed hackers, what used to be something out of a Hollywood movie has become a real threat to power utilities around the world. 
+
+And as utilities and their customers embrace smart grid technologies and internet-connected thermostats, refrigerators, heating and cooling units, televisions, lights and so much more, protecting an increasingly connected electrical system is about to get much more difficult. 
+
+What does Ukraine hack matter?
+In 2015, a group with suspected ties to the Russian government launched a fairly basic hack that took out power to 200,000 customers in Ukraine for a few hours. That was the first wakeup call.
+
+In 2016, they launched a second attack that was much more automated and used software that showed signs it could be adapted to target electrical utilities in North America. 
+
+In 2016, an access to information request revealed that Public Safety Canada had investigated 25 serious incidents involving nation-state attackers going after Canadian critical infrastructure, including our power grid. 
+
+And in 2016,  there were concerns raised by the opposition that the 4.6 million smart meters there were vulnerable to hacking. 
+
+Are there risks for New Brunswick?
+We know from warnings from the intelligence agencies in the U.S. that groups like ISIS are working day and night to figure out ways to turn off the lights in North America. Their lack of success to date has more to do with the fact they're still bad at it than it does with how secure or robust our systems are. 
+
+And keep in mind how integrated the power grid in North America is — remember the great northeastern outage of 2003? That was caused by a small utility in the United States becoming unstable, then a cascade failure that crippled large cities and communities from Toronto to New York. It affected 10 million Canadians in Ontario and another 45 million in the U.S.
+
+
+Protecting electrical utilities from hackers is a concern. (CBC)
+There are more than 3,000 utility companies in the U.S. and they range in size from large utilities with decent cybersecurity teams to small firms with fewer than 50,000 customers who don't have the full set of resources to combat modern sophisticated cyber threats.
+
+And that's with our present level of technology. As we embrace smart grid, the challenge in defending our electrical system will grow. 
+
+It's one thing to defend our current centralized power plants and distribution, it's another to defend the future smart grid. 
+
+Why is smart grid such an issue? 
+The first risk comes from so-called smart meters — these are the next generation power meters that would be attached to homes and businesses. Unlike today's meters, which function to measure electric and aren't networked, these new devices are networked computers that can send and receive information from the utility. 
+
+The ideal purpose is to optimize energy usages and energy supply planning, making sure the utility has just enough power to meet current and peak demand and providing ever more accurate forecasts.
+
+Future benefits, including being able to access energy stored in every home to help balance the power grid load, taking from homes that need less and turning your home (or your connected future electric or hybrid vehicle) into a giant battery. 
+
+For-profit energy companies love the idea of smart meters because they have another feature — they can remotely turn your power off if you're behind in payments without the expense of sending a crew out to your home or business.
+
+But if these devices provide that capability, how do we ensure that a malicious person or software doesn't gain this same power?
+
+Even worse than temporarily disabling the power, what if the smart devices are corrupted (accidentally or on purpose), when they fail? Will the power still flow or will it stop, causing a potentially larger impact than any storm outage we've ever seen?
+
+The next major issue aside from the smart meters, is all the so called smart devices or internet of things devices in a home.
+
+What happens if tens of thousands of New Brunswick refrigerators that are all internet-connected in the future all start drawing maximum power in an age where we've so closely analyzed supply and demand that we don't have the spare plants to spin up to meet the sudden and unexpected spike? 
+
+Or what if all these smart devices, which home users are expected to patch (but don't) are used to successfully attack the smart meters attached to the home and its devices? 
+
+How is New Brunswick handling this?
+The good news is we have some of North America's top minds in cybersecurity in NB Power, and we have some of the world's leaders in smart grid technology doing research in our province.
+
+I know NB Power is keenly aware of cyber risk, and it treats cybersecurity as an important management issue, which is a fantastic place to start. 
+
+But keeping our grid safe involves all of us, so we all need to understand the issues and the risks. Our politicians and media need to ask the right questions so that we can know we're getting the most out of the new technologies and approaches but also appropriately managing our risks. 
+
+Should we slow down smart grid? 
+The short answer is no.
+
+Smart grid and smart devices have tremendous benefits when it comes to helping us optimize energy supply and demand and for making our lives convenient, but we need to ask the right questions and demand the right kind of resiliency from device manufactures and energy utilities.
+
+As we've now seen with hacking cars and hacking health care, we can't (and absolutely shouldn't) assume this has all been thought out and is 100 per cent secure and redundant. 
+
+One key question our legislators should be asking is whether the smart meters we want to put in New Brunswick will fail open or closed in the event of a software issue, hack or device failure.
+
+Preferably, we'd like it so that the smart components if they fail would revert to a traditional "dumb" power meter that could still deliver energy to a home or business. 
+
+
+What is the province doing to protect the hacking of its electrical utilities, asks columnist David Shipley. (Jason Turnbull/CBC)
+Another key question for legislators and regulators and utilities is how they will secure smart devices from tampering, monitor the network of these devices constantly for any oddities, and patch them on a timely basis when bugs or vulnerabilities are found, so that we reduce the risk as much as possible.
+
+And we also need new cybersecurity standards for smart devices and the internet of things, requiring manufacturers to fix defects in a timely fashion and clearly informing customers of their responsibilities to protect devices/patch devices to prevent their abuse. 
+
+We shouldn't say no to the promise and benefits of smart grid, but we need to be clear about the risks and to be clear about how we are going to manage them. 
+
+Otherwise, our smart grid might feel like a super dumb idea when we're all shivering in the cold because our power got hacked.

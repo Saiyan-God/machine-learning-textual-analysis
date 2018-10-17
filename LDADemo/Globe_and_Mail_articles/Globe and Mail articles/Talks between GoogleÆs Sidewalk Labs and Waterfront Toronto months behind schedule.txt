@@ -1,0 +1,26 @@
+Talks between Google-affiliate Sidewalk Labs and Waterfront Toronto on a deal to create a community where new, data-driven “smart city” technologies will be tested are months behind schedule.
+
+Waterfront Toronto selected New York-based Sidewalk Labs, a unit of Google’s parent Alphabet Inc., last October as the “innovation and funding partner” for a controversial project to develop a prime 12-acre plot of land dubbed Quayside near the foot of Parliament Street in Toronto’s eastern waterfront.
+
+Since then, the two sides have been negotiating what they call a “plan development agreement,” which would lay out the scope of the complex project and allow talks on a final deal and master plan to begin. The final deal has been expected to come at year’s end or in early 2019.
+
+In February, Waterfront Toronto chief executive Will Fleissig said he expected the plan development agreement to be signed and made public in April. However, on Thursday, as Sidewalk held a second “roundtable discussion” for residents interested in its ideas, Waterfront Toronto officials said a plan development agreement is now not expected until at least the summer.
+
+Waterfront Toronto spokeswoman Carol Webb said the plan development deal is still “under active negotiation.” No specific issue is causing the delay, but there is “no fixed date” for a final deal, she said: “We just want to get it right.”
+
+Mr. Fleissig has also said that once the plan development deal is signed, Waterfront Toronto will release the preliminary deal the two sides signed last fall, which has so far been kept secret for what his agency calls commercial reasons.
+
+That secrecy caused an outcry among some Toronto city councillors, who have also raised concerns over Sidewalk’s ambitions to expand its experiments into the rest of the 800-acre eastern waterfront. Sidewalk officials have said they had no issue with releasing the text of that preliminary deal. The two sides released a brief summary of the deal last fall.
+
+Sidewalk has said little concrete about its plans, despite a lavish $50-million public-relations and consultations effort. It initially promised to test everything from robot garbage trucks to a fleet of self-driving cars to sensors that could detect pedestrians and re-time traffic signals.
+
+Many of the questions from the packed auditorium, the Daniels Spectrum in the redeveloped Regent Park along Dundas Street East, were from people concerned about the privacy implications of arrays of street-level sensors controlled by a Google affiliate.
+
+Sidewalk officials ran through a “responsible data-use policy framework” released earlier this week. In it, Sidewalk pledges to tell people why their information is being collected and how it will be used. Sidewalk also promised not to sell the information to third parties or use it for advertising. Residents will be asked to “opt-in” to use services that require collecting personal data. The information will otherwise be “de-identified,” Sidewalk said.
+
+STORY CONTINUES BELOW ADVERTISEMENT
+
+
+Sidewalk and Waterfront Toronto, which just appointed its own independent digital advisory panel, headed by University of Ottawa law professor Michael Geist, acknowledge they have not yet reached an agreement on one key data issue: where any data they collect will be stored. Some critics have said the data should remain in Canada, so that they would be subject to Canadian law and not potentially accessed by other governments.
+
+Rit Aggarwala, chief policy officer of Sidewalk Labs, also told Thursday night’s crowd the company is working with local consultants on a study of energy use in buildings, and the use of thermal energy.
