@@ -1,0 +1,58 @@
+Professor says it's a marriage between smart vehicles and smart infrastructure
+
+The University of Alberta is developing technology that allows vehicles to talk to each other through an integrated traffic system controlled by the city. (CBC)
+The University of Alberta and the City of Edmonton are lending new meaning to smart cars.
+
+Researchers from the university's engineering department are working on a pilot technology called "connected vehicles," aimed at creating a safer, quicker and more efficient commute.
+
+With the integrated system, vehicles will use wireless internet to share information, or "talk" with each other, through a central communications hub.
+
+Lead researcher Tony Qiu, an associate professor of transportation engineering at the U of A, describes it as a "marriage" between the "smart vehicle and the smart infrastructure to improve our daily life." 
+
+Dr. Tony Qiu of the University of Alberta's engineering department has been working on the Active Aurora project for five years. (CBC)
+Vehicles with the technology will be able to inform each other about road conditions, how long a green light will last or when pedestrians are about to cross the road.
+
+Qiu explained that the Chinese government aims to have these smart cars make up 50 per cent of its new vehicles by 2020. Smart vehicles, as opposed to self-driving vehicles, can collect information from inside and outside the vehicle and process data in real time.
+
+Aalyssa Atley, spokesperson for the university's Active Aurora project, said they've placed sensors along the roadside on the Anthony Henday, Whitemud Drive and 23rd Avenue. 
+
+These pick up on the activity around them and transmit the information to a central hub. 
+
+Jerry Zhang, left, a civil engineering co-op student, works on the connected vehicle technology. Aalyssa Atley, right, is the communications coordinator with the project. (CBC)
+"There's a lot of interest right now in this kind of technology that makes the driver more aware of the environment around them," Atley said.
+
+She said the the technology will improve safety and travel times by regulating traffic and allowing people to get to their destinations more quickly.
+
+"A lot of car manufacturers are starting to put this technology in the vehicles."
+
+Coun. Andrew Knack said the technology will enhance what he's expecting will be artificial intelligence installed at intersections around the city. 
+
+"I think it's critically important to being prepared as a city for the future of transportation," Knack said.
+
+Knack has asked city staff to compile a report on how the signals are operating, how they're designed to adapt to a change in traffic patterns, and compare information with new traffic signal infrastructure.
+
+He points to Pittsburgh as a prime example of where artificial intelligence is used to apply real-time information to what's happening on the road.
+
+There, technology has reduced wait times by 40 per cent, travel times by 20 per cent and, in turn, emissions by about 20 per cent, Knack said. 
+
+"The goal is to ensure people and goods are moving as efficiently as possible in the city," Knack said. 
+
+Cell phones may be a stepping stone to making sure the technology is available to the most drivers.
+
+The team has developed an app for people who don't have newer vehicles.
+
+Industry players
+"We're seeing how quickly companies are advancing self-driving vehicles, connected vehicle technology," Knack said.
+
+General Motors, he said, aims to operate a fleet of self-driving vehicles by 2019.
+
+Knack thinks it's important to get a head start on shaping policy and preparing to develop the city's 10-year transportation plan. 
+
+Sensors set up along Anthony Henday, Whitemud Drive and 23rd Avenue send signals to connected vehicles that allow them to share road information. (CBC)
+"The new ways that people are going to move will dramatically impact how we grow as a city." 
+
+The federal government has invested $1.3 million to the Active Aurora project, with other levels of government and private investors contributing $2.36 million.
+
+Most recently, the Active Aurora project got a funding boost of $934,000 from Western Economic Diversification Canada to explore clean technologies that reduce greenhouse gas emissions.
+
+The next phase of the project will be to recruit about 100 volunteers to drive around with the technology to test it on a larger scale.

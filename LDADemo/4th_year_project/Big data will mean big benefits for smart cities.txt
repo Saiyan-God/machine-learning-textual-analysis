@@ -1,0 +1,35 @@
+As technology evolves, massive amounts of new data are being generated every day. In the next few years, as the number of smartphones, sensors and other connected devices generating and sharing information grows by the tens of billions worldwide, the term ‘big data’ will seem like an understatement.
+
+Anyone who has used Google Maps during rush hour has already seen how data analytics can make our lives easier. By looking at large sets of traffic flow data, the system can predict travel times and recommend the fastest route. In the near future however, the benefits will extend far beyond helping Canadians get from point A to point B.
+
+Cities are starting to recognize the huge potential of big data to inform decisions that can dramatically improve the lives of their residents. Anonymized mass-movement patterns can help plan emergency routes, leading to faster response times for first responders, and can help city planners locate new roads, schools and services. Algorithms can even help law enforcement predict when and where crimes are most likely to take place.
+
+
+Big data helps commuters chose the fastest, most efficient routes.
+The city of Glasgow, Scotland, has set out to become a “Future City” with an ambitious plan to use technology and big data “to make life in the city smart and more sustainable.” The plan includes intelligent street lighting that can identify air pollution, detect disturbances like car crashes and monitor pedestrian and traffic flow to provide invaluable data to city planners. The city has also developed a customizable dashboard for citizens to create their own personal views of Glasgow’s data in real time.
+
+Here in Canada, Toronto is one of 10 cities globally that have partnered with Cityzenith, a firm that helps manage and interpret the massive amounts of data that cities can collect. Cityzenith has created visual traffic simulations, which allow local officials make better-informed decisions about new infrastructure planning and transit. Additionally, last year the city held a hackathon called TrafficJam, which brought together “engaged citizens, digital creatives and data detectives” to find data-driven solutions for Toronto’s traffic troubles.
+
+In Calgary, Steve Liang, associate professor of geomatics engineering at the University of Calgary and CEO of SensorUp, is piloting a project to help measure air quality in the city. Working with the City of Calgary, Liang enlisted the help of 50 local volunteers and provided them with air quality sensors for their homes. It was a simple plan that gave Calgary a comprehensive, real-time look at its air quality. In the future, this data could be combined with other inputs, like traffic patterns, to better understand how Calgary can improve air quality.
+
+“The maturation of affordable open-source sensors, ubiquitous networks and unlimited computing power is a perfect storm for smart cities,” Liang says.
+
+That perfect storm could make a big difference in the way cities deal with disasters. A joint project between the U.S. National Science Foundation and the Japan Science and Technology Agency is researching how data can improve disaster management.
+
+“Tokyo is disaster prone,” says Liang. “When a disaster strikes, if they can very easily aggregate people movement data, they can evacuate people in the most effective way.”
+
+
+Smart traffic lights could help reduce congestion in downtown grids.
+Canadian cities can also use this technology to save lives in the event of an earthquake, flood or fire.
+
+Maintaining privacy by creating and adopting new standards for big data will be critical, and organizations are emerging to help cities and businesses engage in data analytics programs that fully maintain citizens’ privacy.
+
+Ann Cavoukian, three-term Privacy Commissioner of Ontario now serving as the Executive Director of the Privacy and Big Data Institute at Ryerson University, says that realizing the potential of big data does not need to come at the expense of personal privacy.
+
+“Usually privacy is presented as a trade off, but it’s a false dichotomy,” she says. “We can — and must — develop big data programs that allow the achievement of multiple objectives, such as privacy and public safety, simultaneously.”
+
+Cavoukian says that when organizations install privacy protections up front, it ensures that data is de-identified and personal information is never part of the picture. When that information is then aggregated into massive data sets, it allows organizations to look at trends and patterns without compromising privacy.
+
+As cities gradually come to embrace the power of big data, the positive impacts on everyday life will be real. Liang imagines a world where sensors become so inexpensive that they will be deployed literally everywhere.
+
+According to Liang, “Whether it’s traffic or air quality or water usage, wherever we can quantify, we can optimize. This is the grand vision: that every inefficiency will be eliminated. It could completely change our world and we are only at the beginning.”

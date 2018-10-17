@@ -1,0 +1,68 @@
+This article was originally published on The Conversation, an independent and nonprofit source of news, analysis and commentary from academic experts. Disclosure information is available on the original site.
+
+——
+
+Authors: Blayne Haggart, Associate Professor of Political Science, Brock University and Zachary Spicer, Visiting Researcher, University of Toronto
+
+Toronto’s proposed Quayside community was supposed to be a brag-worthy global showcase for what a smart city, “built from the internet up,” would look like.
+
+Instead, the joint partnership between Waterfront Toronto and U.S.-based Sidewalk Labs is five months into a 12-month, $50 million negotiation and consultation process. Those involved in Quayside have been surprised by the concerns raised about the project and the resistance to it.
+
+
+A public meeting last month — only their second in five months — failed to fill in basic details about the nature of the partnership, including how the for-profit Sidewalk Labs would actually generate income from the project.
+
+RELATED STORIES:
+Sidewalk Labs advisory panel member Saadia Muzaffar resigns citing 'deep dismay'
+Perhaps most surprisingly, officials at the meeting revealed that they were still privately negotiating the most fundamental components of their partnership, namely what data would be collected, who would control and own this data, where it would be stored and how it would be used.
+
+The two sides are also negotiating who will control the intellectual property (IP) that comes from a project that has been designed to produce lots of IP.
+
+Coming to terms with a data-driven world
+
+These are not trivial issues. Smart-city infrastructure requires data collection — in fact, data is best conceived of as the fuel that powers smart cities. Without a constant stream of new data, smart cities cannot be as responsive in delivering public services.
+
+In this respect, Quayside is not unique. Infrastructure projects will increasingly include data components, and municipalities and other levels of government — to say nothing of the citizens whose data these projects will collect — will face challenges similar to those currently encountered by Waterfront Toronto.
+
+Government officials and our fellow citizens can learn a great deal about how not to approach such projects by examining Waterfront Toronto’s negotiations with Sidewalk Labs.
+
+We suggest three key principles to consider for future smart city infrastructure projects:
+
+1. In data-intensive projects, data is the whole game
+
+Most of the flat-footedness related to the Quayside project to date can be traced back to Waterfront Toronto’s original request for proposals (RFP). The document treats data instrumentally, focusing on what it can enable rather than treating it as the main product.
+
+There is very little in the RFP that directly references the issue of data control, and the RFP is silent on who will determine what data will be generated. Instead, these and other related issues are left to be determined after the fact, with the RFP requiring only that “the Partner will work closely with Waterfront Toronto to â?¦ create the required governance constructs to stimulate the growth of an urban innovation cluster, including legal frameworks (e.g., Intellectual Property, privacy, data sharing) â?¦ deployment testbeds and project monitoring â?¦ reporting requirements and tools to capture data.”
+
+2. Set your governance policies in advance
+
+Here, we cannot do better than Bianca Wylie, head of the Open Data Institute Toronto: “You don’t write policy with a vendor.”
+
+By not knowing — or not thinking through — what it wanted on data and IP governance, Waterfront Toronto has left itself to negotiate a deal that has fundamental implications for privacy and data security, and that may lead to de facto privatization of formerly public services.
+
+While issues such as privatization are potentially legitimate policy options, typically they are decided upon before the fact.
+
+3. Focus on data collection, control and use
+
+Everything about data — from the decision to collect it to the way it is used — has a societal impact and therefore requires careful thought. Data-governance policies should, at the very minimum, answer the following questions:
+
+Who controls the decision over what data is generated, its direct and indirect uses, the data itself and the platform through which the data is collected, including access to that platform?
+
+How are decisions about the generation, collection and use of data made?
+
+How will the data be used?
+
+What are the social and economic consequences of these actions?
+
+A national data-governance strategy
+
+Not all of the blame for this situation rests with Waterfront Toronto.
+
+Canada, as others have noted, lacks a data-governance strategy.
+
+As Wylie has remarked in the context of the Quayside project, our entire legislative framework is woefully out of date, and “we haven’t had a national discussion about our data, related public infrastructure, and the degree to which we want big tech influencing our governance and public services.”
+
+Nonetheless, Waterfront Toronto should have set their data-governance demands in advance, and then sought out vendors. Much of the resulting confusion about Quayside can be traced to this initial mistake.
+
+Fortunately, this is a learning opportunity for other governments. Almost everything government does now has a data component. This understanding must be built into their procurement prior to engaging with vendors.
+
+Better yet, governments should create an overarching data governance plan and use that to guide interactions with various stakeholders. The stakes are too high to leave such consequential policies to chance.

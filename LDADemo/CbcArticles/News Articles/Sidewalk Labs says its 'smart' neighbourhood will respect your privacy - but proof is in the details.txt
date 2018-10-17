@@ -1,0 +1,68 @@
+Halfway through a year-long consultation, little is known about how Toronto's 1st 'smart' district will work
+
+Cars are parked in the Port Lands, located along Toronto's eastern waterfront, where the Alphabet-owned Sidewalk Labs is developing a plan for a new technology-driven neighbourhood. (Mark Blinch/Reuters)
+
+Sidewalk Labs — which has proposed the construction of an ambitious, technology-driven neighbourhood on Toronto's eastern waterfront — held its second public roundtable on Thursday night. It was an opportunity, in part, to address concerns about data and privacy. 
+
+But the company, which is owned by Google's parent company Alphabet and bills itself as an "urban innovation organization," still offered little in the way of specifics about what exactly it has planned, and those details are not expected until summer at the earliest.
+
+Sidewalk Labs has partnered with Waterfront Toronto, a government agency, on a smart-cities project along the eastern waterfront of Lake Ontario in Toronto's downtown. The project, dubbed Quayside, will transform a 12-acre parcel of L-shaped land into a test bed for smart city technology — one that could include everything from intelligent traffic cameras to garbage cans and recycling bins that keep track of when and how often they're used. 
+
+But questions about privacy have emerged. Chief among them are concerns about the extent of the data that will be collected, whom it might be shared with, whether the data will be stored in Canada and the possibility that even anonymized data could still be linked back to individuals.
+
+
+Sidewalk Labs has proposed the redevelopment of what's currently a stretch of parking lots and former industrial space along Toronto's eastern waterfront. But its plan — still in development — will need a green light from the city. (Sidewalk Labs)
+Commitment to protect privacy but few details
+Thursday night, Sidewalk Labs offered little in the way of answers to those concerns, only abstract commitments to collect only as much data as is necessary and to put people's rights and needs first in principle. 
+
+Representatives from the New York-based company acknowledged frustrations with the lack of detail.
+
+Halfway through a year-long consultation period, the company insists it is on track, and that a lack of specifics is to be expected at this stage. Because no other smart cities exist on the scale that Sidewalk Labs has imagined, the company says it's still figuring things out and taking the time to get things right.
+
+Alyssa Harvey Dawson, the company's legal counsel, told the crowd that the lack of specifics about how exactly the company will protect residents' privacy was "not because we don't care, but because we care so much."
+
+Sidewalk Labs will present its final plan to the city by the end of the year — and the company says that citizens will get more specifics before then.
+
+'Meaningful consent' and no data sold to advertisers
+In the mean time, the company has taken a number of recent steps that suggest it is trying to take privacy concerns seriously. A third-party group will be advising the company on data use — though it will only offer recommendations that won't be binding.
+
+And earlier this week, the company released its "Responsible Data Use Policy Framework" — not the policy itself, but an outline of principles and commitments that the company says will inform the policy's eventual creation, which will evolve over time. 
+
+"One of the challenges that collectively we face in this process is thinking about privacy and responsible data use in the abstract," Micah Lasher, the company's head of policy and communications, told CBC News.
+
+"It's very hard to come up with policies that govern a project as complicated as this without concrete examples of how they would apply."
+
+
+Without specifics on what Sidewalk Labs has planned for the site, pictured here, it has been difficult for outsiders to know how the privacy principles laid out at Thursday's meeting will be applied in practice. (Mark Blinch/Reuters)
+The document contains a list broad principles that few would take issue with — such as how Sidewalk Labs will seek "meaningful consent" before it collects personal information; will be as transparent as possible about how data will be used; and won't sell personal information to third parties or make it available for advertising purposes (what will happen to non-personally identifiable information is less clear).
+
+But while it is useful to have such commitments written out, they say nothing about Sidewalk Labs' actual plans for Quayside — the specific site to which these principles will have to be applied. 
+
+Thursday's meeting could have been a chance to explore the applications of these principles further. Instead, the company merely reiterated the policy framework it had already released before turning the floor over to the audience for questions.
+
+Rit Aggarwala, the company's head of urban systems, deflected when asked about how the company plans to make money off the neighbourhood.
+
+"It's so early days we haven't really thought about the specifics of the business model yet," Aggarwala told the audience during the second of two Q&A sessions.
+
+Ditto for how the company plans to handle the sharing of data with police and government agencies. Lasher, the company's policy head, couldn't say one way or another whether the company has met with Toronto police to discuss how they might benefit from the data collected in the Quayside project.
+
+"We have lots of people that are engaged with lots of different government agencies," Lasher said. "I couldn't tell you offhand."
+
+Specifics still to come
+Without specifics, it's difficult — for citizens but also advocacy groups, lawyers, academics and journalists — to meaningfully consider how the principles Sidewalk Labs laid out Thursday are applied in practice.
+
+Sidewalk Labs says that citizens will hear more about its plans before the public consultation process is through — and before a final plan is delivered to the city toward the end of the year. But there is a legitimate concern that mere weeks or months may not be enough time for citizens to engage with what is being proposed — and, importantly, for Sidewalk Labs to take feedback into account.
+
+
+A mixed use path for runners and cyclists passes through the proposed development site for Sidewalk Labs' smart neighbourhood project, which could include intelligent traffic lights that adapt to the flow of traffic and heated paths that deter the build-up of snow in winter. (Mark Blinch/Reuters)
+Facebook's recent troubles around data privacy provide a timely, cautionary tale of the potential disconnect between principle and practice. Facebook has long painted itself as a benevolent company that, like Sidewalk Labs, puts the privacy of user data first — and yet the Cambridge Analytica scandal undermined that image.
+
+Similarly, Facebook's mission to help its users forge more meaningful connections seems to be contradicted by some of the activities the platform has facilitated. The social platform has been used to spread hateful messages that some say have helped fuel violence against Rohingya Muslims in Myanmar.
+
+That and other examples illustrate why it's difficult to have discussions about the impact of a product — let alone a neighbourhood — on principles alone.
+
+Facebook's principles — even if envisioned with the best of intentions — have frequently been at odds with how Facebook has functioned in practice.
+
+"We didn't take a broad enough view of what our responsibility is, and that was a huge mistake," Zuckerberg has said in response to criticism.
+
+And in the absence of more information from Sidewalk Labs, it's difficult to say whether it's taken a broad enough view of its responsibility, either.

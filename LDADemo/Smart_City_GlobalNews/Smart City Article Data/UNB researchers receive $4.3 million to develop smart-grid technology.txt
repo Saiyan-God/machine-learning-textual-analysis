@@ -1,0 +1,33 @@
+Scientists in one of Canada’s snowiest cities will help a sunny Caribbean island switch to a green energy grid, leaving fossil fuels in its wake.
+
+University of New Brunswick researchers have received $4.3 million from Ottawa and Emera Inc. – the parent company of Barbados Light & Power Co. – to develop potentially breakthrough renewable energy technology.
+
+The five-year project, led by electrical and computer engineering professor Liuchen Chang, will be based at the university’s smart-grid research lab in Fredericton.
+
+“At this stage, we’re getting the data from Barbados and doing the research and modelling,” Chang said Wednesday. “In the next stage, we are going to bring the technologies to Barbados and work with Emera on the installation and testing in the field.”
+
+With roughly 120,000 power customers and a grid capacity of 240 megawatts, the Lesser Antilles island is the right size to test green technology in a small-scale, energy-hungry market.
+
+“What we want to do is use the island as a demonstration project and showcase these technologies,” said Chris Huskilson, Emera president and CEO.
+
+“The reason we’re talking about Barbados is because it’s an economy that actually has the opportunity to go 100 per cent renewable more rapidly than most other places. It has a mandate from the government to do that, and also a tremendous solar resource and a very good wind resource.”
+
+In 2010, the island’s electricity generation was 100 per cent oil-fired, which has since been reduced by about 20 per cent. The country has pledged to transition to a fully renewable energy grid by 2045.
+
+However, one of the long-standing issues with renewable energy is its intermittent nature – the sun has to be shining or wind blowing for energy to be produced.
+
+It’s one of the challenges Chang and his UNB team plan to address through electric vehicle storage systems, shaping customer demand and encouraging a proliferation of small-scale generation.
+
+“We’re focused on … battery storage and electrical vehicles, small generators such as rooftop (photovoltaic) systems and customer load,” Chang said, adding that the smart-grid technologies can enable an electricity grid to shift to 100 per cent renewable energy without being crippled by the intermittent nature of renewables.
+
+A focus of the Barbados project is so-called distributed energy resources, which includes small-scale renewable projects like rooftop solar or wind systems.
+
+“About three-quarters of the solar energy that is being produced today is from rooftops, so there will be a combination of larger scale and distributed,” Huskilson said. “Part of what the smart-grid technology being developed at UNB will allow us to do is to control those rooftop devices and add storage and the ability to actually have them support the grid in a much better way.”
+
+Chang said rooftop solar and wind may be small in size “but you aggregate them together and they are huge.”
+
+Barbados Light and Power plans to offer incentives to customers to plug in their electric vehicles as a cost-saving measure.
+
+The Atlantic Canada Opportunities Agency is investing $2.8 million through the Atlantic Innovation Fund while the Natural Sciences and Engineering Research Council of Canada has contributed $82,100. Emera has put $1.4 million towards this project.
+
+Huskilson said the smart-grid technology being developed at UNB can be deployed anywhere in the world, including in Atlantic Canada.

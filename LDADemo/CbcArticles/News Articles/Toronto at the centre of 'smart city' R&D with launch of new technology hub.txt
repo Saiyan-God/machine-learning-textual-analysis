@@ -1,0 +1,61 @@
+The Smart City Sandbox seeks to spur innovation in urban development
+
+The 'Smart City Sandbox' is focused on fostering innovative technologies in the area of urban planning. (David Donnelly/CBC)
+A group of companies, including tech giants like Microsoft, is opening a new hub devoted to turning Toronto into a what it calls a "smart city."
+
+The facility will focus on developing high-tech products and services that the companies hope will improve the quality of life for people in big cities. 
+
+VIDEOSmart cities: better for life or too much information sharing?
+Toronto's new 'smart' traffic lights will sense congestion and adjust themselves
+Led by IBI Group, an architectural and engineering company that's already involved in major projects like the Eglinton Crosstown LRT, the "Smart City Sandbox" will also assist with bringing smart-city technologies to market.
+
+So what will Torontonians see?
+
+The organization is already thinking of traffic lights that sense congestion and adjust themselves accordingly, a mobile app to report potholes and batteries large enough to store energy at night and reduce demand on the city's power grid during peak times.
+
+"The sandbox is a platform for different organizations to come together to address some of the challenges that are faced by urban environments," IBI Group CEO Scott Stewart told CBC Toronto.
+
+Stewart hopes to support "new, innovative solutions that touch on the planning, design, implementation and operation of cities."
+
+
+Representatives of the corporate partners at a launch event for the 'Smart Cities Sandbox' on May 10, 2018. (Submitted by IBI Group)
+Toronto a hub for smart city tech
+The announcement is the latest in a series of recent moves by organizations in Toronto that make it a major centre for research and development of smart-city technology and urban planning expertise.
+
+The University of Toronto recently created the School of Cities, for example, which brings together academic experts from different fields to address the problems facing Toronto and other cities around the world. Additionally, Toronto may soon have a futuristic, technology-driven neighbourhood created by Sidewalk Labs, which is owned by Google's parent company, Alphabet.
+
+Technology provider Microsoft is a partner with the 'Smart City Sandbox' and will provide access to the machine learning and artificial intelligence capabilities of Microsoft’s Azure cloud-computing platform. (Eduardo Munoz/Reuters)
+Approximately 55 per cent of people in the world live in urban areas, according to the United Nations Department of Economic and Social Affairs. That number is expected to rise to 68 per cent by 2050.
+
+City planners and technology companies have developed the concept of a smart city as one way to manage the burdens of urbanization.
+
+A city sandbox
+While major companies are leading the way on the Smart City Sandbox, the hub will look for ideas from smaller companies, too.
+
+An application process will open in September to small- and medium-sized businesses, entrepreneurs and start-up companies worldwide. The Ontario Centres of Excellence will help to identify prospective candidates.
+
+Each cohort will focus on a specific urban theme — health, mobility, energy, living, among others — and participants will have three to six months to work on their ideas.
+
+Companies that are accepted will receive workspace at IBI Group's headquarters in Toronto. The corporate partners will provide help in the form of software, consulting services and data to help participants develop their ideas.
+
+One of the most attractive parts, says Stewart, is the access to the machine learning and artificial intelligence capabilities of Microsoft's Azure cloud-computing platform.
+
+
+A sketch depicts the hyper-connected new Toronto neighbourhood envisioned by Sidewalk Labs. (Sidewalk Labs)
+Participants will also have the opportunity to present their innovations to venture capital funds at regular presentations every six weeks.
+
+Stewart said IBI Group has already put aside $500,000 to invest in the project. He estimates the total cost to run the incubator at around $3 million per year.
+
+A holistic approach to urban development
+Chris De Souza, director of the School of Urban and Regional Planning at Ryerson University, says Toronto's openness to new ideas makes it fertile ground for technology companies to experiment.
+
+"There has historically been a lot of interest in this city in trying out different types of development," said De Souza.
+
+De Souza pointed to the sustainable design requirements of the Green Standard and the public-private partnership that implemented the Regent Park Revitalization Plan as examples of Toronto's embrace of innovative urban planning.
+
+Google sister company makes 'bold bet' with new tech-focused neighbourhood 'Sidewalk Toronto'
+Sidewalk Labs says 'sketch' of plan for Toronto coming in July
+ANALYSISSidewalk Labs says its 'smart' neighbourhood will respect your privacy — but proof is in the details
+But Stewart said the sandbox concept goes beyond sensors, routers and apps. He said his company takes a holistic approach to urban planning and development that incorporates technology as a tool to achieve a larger goal: a city that is a great place to live and work.
+
+"I think you're missing something if you don't fully understand that cities really are quite dynamic," said Stewart.

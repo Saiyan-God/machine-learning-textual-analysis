@@ -1,0 +1,32 @@
+In the past month alone, officials from five different cities have asked me for introductions to Canadian companies with “smart city” technologies.
+
+These days, it seems every mayor of a major city – including Toronto – is on the smart-city bandwagon, and for good reason. Population growth has led to increased traffic congestion, longer lineups, worsening pollution and added strain on urban infrastructure. Better technologies for keeping traffic and people flowing, improving how we deliver public services, modernizing the construction and maintenance of critical infrastructure, managing our waste and reducing our consumption of energy and water will only become more essential over the coming decades.
+
+The good news is that Canada is well equipped to deliver, both at home and abroad. In Southern Ontario alone, there are dozens of promising new technology companies working hard to ease the aches and pains of cities by making them more efficient, resilient and livable.
+
+Take Pantonium, which has developed intelligent-traffic-routing algorithms for fleet operators. The company’s technology works by constantly adjusting to feedback from riders, vehicles and other factors to automate the management of vehicle routes. It’s basically a control system for autonomous vehicles, and offers a way for transit agencies, health-care facilities and campuses to offer Uber-like, self-driving transit services.
+
+Another promising venture is Liscena, which uses computer vision and machine learning to help people find city parking before they even leave their homes, as well as enter and exit parking garages without stopping – no machines, tickets or attendants. It’s not obvious, but drivers can burn a lot of fuel over the course of a year simply looking for parking and waiting in lines. Eliminating the lines and prebooking the parking can significantly reduce a city’s greenhouse gas emissions.
+
+In commercial buildings, a company called CircuitMeter creates a network of connected sensors to track and analyze energy consumption data on a variety of systems, from lighting to boilers to escalators and elevators. Facility managers use the information to drive building efficiencies and reduce energy costs. Another venture, Feedback Solutions, uses sensors to track building occupancy so that the operation of ventilation systems can be automated, while Alert Labs installs intelligent devices that track water use, detect leaks and send mobile-phone alerts to property managers when flooding is suspected. No doubt insurance companies love it.
+
+Even waste collection is getting smarter. Sensa Networks puts internet-connected sensors on commercial garbage bins and compactors to track the amount of waste that goes in. When a bin reaches a certain level the device triggers a pickup request, meaning waste collection trucks only roll when needed, saving the customer money and the collection company fuel. Fewer trucks on the road also means less city congestion.
+
+What do all of these neat little companies have in common? They collect an enormous amount of data that, when combined into a single pool, can tell us how a city operates, day to day, minute to minute, including the movement of citizens at home, work and everywhere in between.
+
+And who owns that data? How will it be protected? Those are questions Ontario’s privacy commissioner has rightly asked, and they’re particularly relevant now that Alphabet’s Sidewalk Labs is working with Waterfront Toronto to build a truly smart community from the ground up. In the wake of Facebook’s recent privacy scandal, citizens have more reason than ever for concern.
+
+Yet, it’s the direction we need to go. “Data privacy is like a lot of things – handled well, handled responsibly, it can create a lot of good,” Stuart Lombard, chief executive of smart-thermostat maker Ecobee, recently told me.
+
+STORY CONTINUES BELOW ADVERTISEMENT
+
+
+Ecobee’s thermostats collect a tremendous amount of data about energy use in homes, as well as how people use and come and go from their homes. For two years now, Ecobee has been asking its customers to voluntarily disclose their data for research purposes, and so far more than 40,000 across Canada and the United States have obliged.
+
+Already, researchers in Indiana have used the data to demonstrate to public officials that the state didn’t need to spend US$1-billion on a new gas-fired power plant. “If you don’t have the data, decision makers are flying blind. They’re making choices based on gut feelings,” Mr. Lombard says.
+
+Ecobee is being transparent, responsible and earning the trust of its customers by telling them how their data will be used. But as cities become smarter and the pools of data being collected become more plentiful and diverse, there will be a need for a neutral custodian to aggregate, help standardize and responsibly manage access to the richer, larger, more comprehensive pool that emerges.
+
+Without such a neutral third party, smart cities risk becoming a Wild West of data silos. Accountability (not to mention public trust) could be diminished, if not lost. More than that, the opportunity to tap into all this data for the greater good – to build better, more sustainable and livable cities – could very well be squandered.
+
+And that’s not very smart.
