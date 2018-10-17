@@ -1,0 +1,48 @@
+Drivers on Highway 401 near Pickering, Ont., can be forgiven for thinking that a new art installation has opened up at the city’s busy GO commuter train station.
+
+At night, the station’s recently completed, 250-metre pedestrian bridge – which crosses 14 lanes of traffic to connect to the Pickering Town Centre mall – is a dazzling sight. Awash in 297 undulating blue and purple lights, it’s an oasis of colour splashed across an otherwise drab environment.
+
+It’s also the latest example of a trend sweeping cities around the world: the replacement of dull, single-purpose outdoor lights with dynamic LEDs that promise a host of benefits, swirling colours among them.
+
+“It takes a public space that was really boring and makes it very dynamic,” says Venkat Venkataramanan, director of scientific operations of the Impact Centre at the University of Toronto and head of the Smart Sustainable Lighting Network. “It contributes to the overall vibrancy and happiness of the city.”
+
+Canadian municipalities are full-in on the trend, with buildings, bridges and landmark attractions in Toronto, Montreal and Calgary – such as the Bloor Viaduct, Autoroute 20 and the Calgary Tower, respectively – adding or converting to LEDs over recent years.
+
+Creating something interesting out of nothing is one of the key drivers, made possible by relatively new lighting technology.
+
+LEDs, or light-emitting diodes, are capable of changing colour because they are tiny – just a few millimetres in size – and can be rapidly switched on and off by computerized microcontrollers.
+
+A grouping of three red, green and blue lights can therefore quickly simulate a wide range of colours in programmed sequences. Deployed in large numbers, LEDs can be used to dynamically transform exteriors and mark special occasions.
+
+The CN Tower in Toronto, for example, can glow red and white on Canada Day or in rainbow colours during the city’s annual Pride festival.
+
+LEDs don’t necessarily have to change colours, but their programmability, better quality and efficiency are also driving municipalities to replace existing mundane street lighting nevertheless.
+
+LEDs generally cost more upfront than traditional fluorescent and halogen bulbs, but they use an estimated 20 to 40 per cent less energy. They also last longer – up to 10 or 20 years, compared to just two to four years for older types. Cities are finding those potential cost savings appealing, especially given that many are growing and having to add more lighting over time.
+
+Montreal, for example, expects to cut its lighting energy bill by 35 per cent and its maintenance costs by 55 per cent after its current conversion of 132,000 street lights is complete. Calgary, which completed a conversion of 80,000 street lights last year, expects $5-million in annual electricity cost savings.
+
+The psychological effects of converting to exterior LEDs, meanwhile, are still being studied, but evidence of positive trends is also emerging.
+
+Los Angeles, for example, attributed a 10.5-per-cent drop in street crime to better visibility resulting from its conversion of 140,000 LED street lights since 2013, according to a report published last year by the World Council on City Data.
+
+The same report also expects clearer visibility on roads to result in a 30-per-cent decrease in night-time car accidents.
+
+“If the lighting quality is better, people make fewer mistakes and they misbehave less. That’s what you see happening,” says Harry Verhaar, head of global public and government affairs at Signify, a unit of Philips Lighting, which sponsored the report. “People go out more often, they feel safer.”
+
+Concerns have arisen, however, that LED lights can also result in negative effects if incorrectly deployed. The American Medical Association, for one, warned in 2016 that blue-rich LED lights – which appear as harsh white to the human eye – can actually decrease visibility and public safety.
+
+Municipalities that have converted, or are in the process of doing so, have had to adjust their plans as a result.
+
+Montreal, for example, initially planned to deploy LEDs with a “temperature” rating of 4,000 Kelvin, but ultimately decided on a “warmer” 3,000K. The city of Davis, Calif., also recently had to replace its 4,800K LED street lights with warmer 2,700K options at a cost of US$350,000 after residents complained.
+
+Cities that have been slower to convert are thus benefiting from the mistakes made by early adopters. Toronto, for example, is looking to switch hundreds of thousands of street lights over the next few years, but planners are aware that they’ll need to avoid overly bright LEDs.
+
+The city last year issued a best practices report that suggests any conversion will need to be “dark sky compliant,” or keeping with standards issued by the International Dark Sky Association. Such rules would require LED street lights to be on only when needed, to point down and be fully shielded, and to minimize the amount of blue light emitted.
+
+“We do still need to be careful with how they’re designed, keeping in mind issues such as glare and light trespass,” says Kelly Snow, an environmental policy planner for the City of Toronto who authored the report. “We’re learning as we go with these things.”
+
+Despite the early issues, lighting experts nevertheless believe that switching to LEDs will result in better cities overall.
+
+“Things look brighter,” Mr. Venkataramanan says. “People are starting to see things differently, more vibrantly.”
+

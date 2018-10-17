@@ -1,0 +1,70 @@
+Emergent technologies are poised to radically change how we work and live. They will transform our cities and workplaces, shifting jobs and entrepreneurship in new directions, and spur new ways to manage our lives. All of society will be affected, up to and including how we interact with machines themselves.
+
+Sophisticated machines and applications that communicate online will accelerate demand for broadband internet and challenge existing information and telecommunication norms.
+
+
+All of this will require ongoing discussions about security, infrastructure and open-data policy and planning. We now need action. We must move past: “We know it’s coming and have to do something” to “Here is how we can implement and collaborate to make it happen.”
+
+As a researcher focused on digitalization of cities for 20 years, I have authored two books and multiple articles. I have led teams of consultants to develop intelligent communities across Canada, and been the chief jurist for the International Intelligent Community Awards for the last 12 years.
+
+Here’s why I believe we’re about to start turning these visions into reality:
+
+Robots and AI
+
+Robotics and artificial intelligence (AI) will “permeate a large part of our daily life by 2025 and affect most of our industries,” according to the Pew Research Center. We see some of these changes today.
+
+Robots already perform tasks as diverse as dispensing frozen yogurt in malls, monitoring rail systems and keeping millions of elevators running smoothly. IBM’s Watson AI technology is used in health care to analyze DNA and help us determine trends and future options for our health.
+
+Wearable fitness devices with personal plans link us to team members to set and achieve group goals (I call these personal nagging devices). I have a robot to vacuum my floors (I love it) and I am closely watching the progress of personal robot assistants with amazing capabilities already being showcased around the world.
+
+I’d love to have Honda’s ASIMO at my faculty’s front entrance to answer questions and be a tutor for students.
+
+Mobile devices and Internet of Things
+
+Over the next five years, more than a million new mobile broadband subscribers will be added per day worldwide, Ericsson’s 2017 mobility report estimates. More people have multiple mobile phone subscriptions, and more will choose mobile instead of conventional wired, landline phones.
+
+Desktop computer demand is now flat in contrast to growing demand for tablets, laptops, drones, smartphones and other mobile gadgets, causing broadband internet subscriptions to increase exponentially. This will strain our broadband infrastructure as we expand the Internet of Things, in which every object has a wireless chip that connects it to everything else.
+
+The number of connected objects — including sensors in cars, wearable devices, electricity and gas meter readers in homes, point-of-sale terminals in businesses and drones — grew 31 per cent between 2016 and 2017, to 8.4 billion devices, according to Gartner analysts. And the number of devices is forecast to grow to 81 billion by 2025, according to IDC research.
+
+Demand for sensors in fixed locations such as our homes (security cameras and motion sensors, smart fridges, meter readers, etc.) continue to increase. They save money and labour, and make our lives easier and safer.
+
+That volume of devices will give us a lot of data to analyze, which calls for improved policies on security and privacy as mobile sensors monitor our personal spaces and bodies for our activities and health care.
+
+Population, urban and automation growth
+
+The proportion of the world’s population living in cities is expected to grow from 54 per cent to 66 per cent by 2050, adding another 2.5 billion people to urban areas, the United Nations predicts. We must prepare by creating high-quality, sustainable communities through smart use of technology.
+
+For example, we’re finally seeing more telework or home-based work. This has been possible for 20 years but slow to take hold, mostly due to our desire to hang on to old paradigms despite an increasing proportion of knowledge workers. Telework can limit stress on roads, families and result in decreased operating costs while lessening our carbon footprint.
+
+AT&T’s predictions for automation, growth and change are staggering. Tasks performed by bots grew 200 per cent over the past year and are expected to triple this year. This could be scary for cities that are job creators, but bots could also improve quality of life, acting as personal robot assistants.
+
+Of course, technology has good and bad sides. Drones can pose threats to privacy but also have benefits: AT&T uses them for cellphone service in disaster areas, new four-rotor “quadcopter” drones safely provide imagery to firefighters and Airbus uses drones for airplane safety inspections.
+
+These applications can be extended to communities and to meet industrial challenges in many sectors. Cities concentrate talent, which will bring new innovations, and we will need them to deal with the negative effects of expanding cities and the side-effects of increased technology use.
+
+These trends suggest a third industrial revolution. Are our infrastructure and policies ready for it, and our industries prepared to innovate?
+
+Are we ready for the future?
+
+The Conference Board of Canada identified lags in innovation, with Canada ranking 13 out of 16 in our peer group of industrialized countries. Much of that evaluation was based on our use of information and communication technologies (ICT), the main element in the next wave of change. Clearly, we can do better.
+
+Canada must evolve its policies if it’s going to develop new entrepreneurial ventures, infrastructure and help its citizens to adjust to the changes while sustainably managing our cities.
+
+This isn’t only a government responsibility. It requires leadership at all levels that collaboratively plans for efficient, effective and safe use of automated systems such as artificial intelligence, the Internet of Things, driverless cars and more.
+
+For example, at least 33 U.S. states have passed or are considering driverless-car legislation, and Michigan had its first driverless pizza delivery in a public-private partnership with MCity. In Europe, Eindhoven already has driverless buses, and fleet transport trucking will be among the first to use the technology. Some technologies and applications will evolve on their own, as Uber did, but others will need concerted planning and action to flourish.
+
+Some of the most interesting machine-learning applications will only be successful if we’re more open to sharing data. As a society, that’s been difficult. Canada has some of the world’s toughest spam regulations (CASL), which limits our ability to use data. Most of our data is in private databases with little open access.
+
+International leadership
+
+Canada has been a leader throughout the short history of digitalization, with pilot projects in every province as early as the mid-’90s to demonstrate what smart communities could look like.
+
+Despite a lack of a strong national agenda, Canadian communities have punched far above their weight, receiving international awards from the Intelligent Community Forum every year since 2002. Now, new federal leadership and initiatives promise to reignite a Canadian vision of digitalization.
+
+Ottawa recently announced a Smart Cities Challenge that could help the country improve and innovate along with technology accelerator programs and geographic “technology super-clusters.”
+
+These initiatives support researchers and entrepreneurs in next-generation fields such as quantum computing, optics and materials in Waterloo. That’s good news for Canada and an opportunity to mobilize a quadruple helix of stakeholders (academia, governments, private sector, consumers) to innovate.
+
+Canada will get the chance to examine all of these topics at The Global Forum on Digitalization (GF) in Winnipeg from Oct. 1 to 3. The two-day discussion and networking event with global leaders is being held in Canada for the first time in its 25-year history. It’s the perfect opportunity to show how we’re preparing for the economic transformation looming ahead.

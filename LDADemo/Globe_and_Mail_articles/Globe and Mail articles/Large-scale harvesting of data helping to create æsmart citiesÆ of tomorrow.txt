@@ -1,0 +1,46 @@
+As anyone who ever rode Toronto’s King Street streetcar before 2017 can tell you, speed is of the essence.
+
+But speed was one thing notably absent from North America’s busiest surface transit route, at least until the King Street pilot project, which gives priority to transit vehicles over cars, was implemented last November.
+
+Jesse Coleman, who leads the City of Toronto’s Big Data Innovation Team, says that after monitoring the abysmally slow traffic conditions along Toronto’s third busiest transit artery, after the city’s two main subway lines, something had to be done. After trying moves such as prohibiting left turns at certain intersections, the King Street pilot project, which allows vehicles to travel only one city block before they are required to turn off the busy artery, was born.
+
+“We have the data that shows [the streetcar] was moving essentially at five kilometres an hour so people were literally like, ‘Why would I get on that thing? I might as well just walk,’ ” he says. “So something new had to be tried.”
+
+While data has played an important part in the strategy and deployment of the King Street pilot, its application will have many varied uses, including those yet to be discovered, in building the cities of tomorrow. Mr. Coleman and other experts elaborated on that potential at The Globe and Mail’s Innovation Summit, held on Wednesday in Toronto.
+
+Using a Bluetooth reader, Mr. Coleman’s team was able to collect travel times downtown at every intersection, picking up a signal from each car’s in-dash Bluetooth unit and identifying its unique media access control (MAC) address. That process was also applied to tracing the MAC addresses of smartphones belonging to pedestrians and cyclists, to discover whether the King Street pilot is resulting in more people using the road for walking and riding.
+
+It also gave the city insight into how the shutdown of much of King Street to regular traffic was affecting travel times on other roads in the downtown core.
+
+“Probably counter to a lot of people’s expectations is that traffic for cars has not really been affected by the pilot on parallel streets in downtown,” Mr. Coleman said. “We have a lot of hard data that shows that travel times are up and down plus or minus a minute from Bathurst [Street] to Jarvis [Street] on all the parallel streets downtown.”
+
+One of the major concerns about this large-scale harvesting of data in any “smart city” is privacy and the possibility that individuals might be tracked.
+
+Beth Coleman, associate professor of experimental digital media at the University of Waterloo, says it is vital that cities make the consumer, or the person receiving the benefits that come from pulling data, a collaborator or participant in the process. That way they will be able to understand the greater good that comes from gathering the data.
+
+STORY CONTINUES BELOW ADVERTISEMENT
+
+
+“If we can move toward that, then I think we will be doing better, and we will have an actually smarter city,” she said.
+
+WE Charity, one of Canada’s foremost youth organizations, certainly leaned heavily on data when it was planning its new global learning centre, which opened at the intersection of Queen and Parliament streets in Toronto last year.
+
+The former furniture store was more than 100 years old, but a $15-million retrofit dragged it into the present day and beyond.
+
+As a result, the 43,000-square-foot interior is now home to 40 different microclimates in which the temperature, humidity and carbon dioxide levels are constantly adjusted to provide the best working conditions for occupants. WE also installed a daylight harvesting system that saved around 25 per cent of its energy costs on lighting.
+
+“We really wanted to be future forward,” says Jeff McLeod, WE’s director of the global learning centre. “We really wanted to set ourselves up so that we could be a little future-proof, because who knows what 20 or 30 years is going to look like?”
+
+That’s the pivotal question that so many city planners and developers are desperate to answer.
+
+At First Gulf, which is leading the redevelopment of the former Unilever soap factory site on the east side of the Don River in downtown Toronto, technology will be relied upon to create a more comfortable, energy efficient and sustainable environment for customers and tenants.
+
+While that will extend to HVAC, lighting and other such systems, the rise of autonomous vehicles adds another wrinkle to the smart cities of the future. Uber announced on Thursday that it would invest more than $200-million in Toronto over the next five years to open an engineering office and to expand its self-driving car centre.
+
+How that all plays out will have a direct impact on how smart cities are built, with First Gulf planning on making its East Harbour district at least 80 per cent non-car, and possibly more depending on the implementation of autonomous vehicles.
+
+“What do you do with a parking garage in the era of autonomous vehicles?” asked David Gerofsky, chief executive officer at First Gulf. “There are places like [London’s] Canary Wharf that have turned their parking garages into retail, but what’s going to happen to retail in the next 20 years?”
+
+The possible introduction of Google’s tech-reliant Sidewalk Toronto district in the city’s docklands might provide an interesting blueprint for smart cities of the future, but Mr. Gerofsky is quick to point out that while his company is happy to use data, First Gulf is not in the data business.
+
+“We are interested in knowing how our public spaces are being used, time of day, does waste need to be removed from a certain area,” he said. “What are the traffic patterns and how can we make them more efficient? … These are the sorts of things that we like to use data for.”

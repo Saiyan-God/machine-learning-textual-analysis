@@ -1,0 +1,27 @@
+Expansive public spaces, roads that can change in colour and use, and buildings that act as open malls are some of the design ideas Google affiliate Sidewalk Labs shared in a public meeting Tuesday evening, as part of the consultation process for its proposed “smart city” development on Toronto’s waterfront.
+
+The five-hectare parcel of land known as Quayside, which sits at the end of Parliament Street, will be comprised of a dense collection of mid-rise buildings surrounded by a network of narrow, walkable streets that focus on pedestrian access while barring regular cars, representatives from Sidewalk Labs LLC, a unit of Google Inc. parent Alphabet Inc. explained in a media prebriefing ahead of the meeting on Tuesday.
+
+After months of talks, Sidewalk and Waterfront Toronto, a corporation comprised of three levels of government, released a “plan development agreement” on July 31, detailing some of the company’s plans for its futuristic proposal and naming Sidewalk as the “funding and innovation partner.” Sidewalk has so far put up a US$50-million investment, some of which is being spent on a series of public consultations and planning.
+
+“Waterfront streets will be renamed as ‘places’ with distinct identities, to act as lively urban connections as well as traffic arteries,” Pina Mallozzi, director of design with Waterfront Toronto, said on Tuesday, adding that streets also need to function as a part of the environment. "Streets are an integral element of our public realm,” said Ms. Mallozzi, ahead of the third of four planned public roundtables on the project.
+
+That means that many of the streets within the development will be pedestrian-only, while others only allow bicycles and, in the future, slow-moving autonomous vehicles. As The Globe and Mail reported last week, Sidewalk Labs is testing plans for a unique road surface made up of hexagon-shaped tiles that can change colour and be swapped out to add green spaces or other uses for the street.
+
+But details on how this technology will operate and what kind of data it will need to actually function are still sparce. Sidewalk Labs was unable to give any estimates on potential costs and faces many hurdles before being allowed to develop a multi-use district that could run contrary to local zoning bylaws. Even the company’s plans to build timber structures more than six storeys high are not yet approved in Canada.
+
+The development will incorporate the use of a number of sensors that gather complex data about people’s movements, and interactions with the neighborhood, and it is unclear how that data will be handled and protected. This remains a contentious issue among critics like Bianca Wylie, head of the Open Data Institute Toronto, who says that it’s deeply troubling that the owner of all this data hasn’t been established.
+
+“The fact that it hasn’t been defined is problematic,” said Ms. Wylie. “Those are things that Waterfront Toronto could have made requirements, and now we’re sitting in an unknown.”
+
+Hundreds of visitors showed up at the public consultation Tuesday night, the third such event since the project was announced in the fall, where an hour-long presentation described some of the design aspects of the Quayside development.
+
+Questions ranged from the availability of public housing – 20 per cent of land will be dedicated to affordable housing – to the safety of wood as a building material. Residents also asked about the ability for emergency vehicles to access some of the smaller streets. Sidewalk said all buildings will be accessible to emergency services.
+
+By designing streets without cars, Sidewalk Toronto says it’s trying to make their streets more livable. Cars will instead be able to access the general area through larger roads on the outer edges of the Quayside development, which will also feature transit thoroughfares. They envision the ground floor of every building as an extension of the public realm. Sketches of the development show buildings with completely open foyers, which will house retail and food facilities, as well as community spaces such as libraries.
+
+Making all of this possible in Toronto’s four-season climate will involve new technologies like road tiles with sensors that can detect when a person is walking on them and can heat up to melt snow. The open foyers in each building will be automatically shielded by barriers during cold weather, high winds or rain, Sidewalk staff said.
+
+“We believe we can actually double Toronto’s usable outdoor hours and plan to test this in Quayside,” said Rit Aggarwala, head of urban systems with Sidewalk Labs.
+
+Sidewalk Labs will present the same information at another public meeting at its Quayside office on Wednesday evening, and has future consultations about data collection scheduled for the fall.

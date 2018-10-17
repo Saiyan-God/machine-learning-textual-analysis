@@ -1,0 +1,38 @@
+Digital initiatives could soon be hitting Ottawa’s streets with the goal of turning the capital into a “smart city,” according to a report going before the city’s Finance and Economic Development Committee next week.
+
+Smart city strategies have been gaining momentum worldwide, says the report prepared by city staff, and Ottawa is well-suited to build on its existing infrastructure in developing a connected city.
+
+While smart cities have been a topic of conversation for years, advancements in the Internet of Things and analysts’ forecasts for the future of the field have brought the concept closer to reality. According to the report, an estimated 50 billion devices will be connected to the internet by 2050.
+
+In this not-so-distant future, autonomous vehicles will need to communicate with smart infrastructure, and a connected home could call a plumber on its own if the basement pipes spring a leak. The city sees these developments as an opportunity to improve service delivery for residents and accelerate Ottawa’s digital economy.
+
+If the report is approved by FEDCO, the next step would see an “action plan” commissioned, ordering priorities and detailing how suggested initiatives might be implemented.
+
+Below are a few of the initiatives suggested by the report. Empowering knowledge-based businesses, integrated municipal services and higher connectivity speeds are all facets of staff’s vision for a smarter Ottawa.
+
+Connected city
+Smart cities are quite literally better connected through broadband networks. The report outlines Ottawa’s strengths in this sector, as the city has an already-extensive fibre optic infrastructure and accessible 4G mobile connectivity in most areas.
+
+It also suggests building on the work of numerous telecom companies and the CENGN, where a great deal of research is already going towards the development of 5G connectivity commercializations.
+
+The report recommends piloting state-of-the-art services in newly-built communities by partnering with developers. New residential developments could integrate technologies connected to the internet that monitor service delivery, collect data and send analytics back to the city to refine those services.
+
+To better connect citizens, the report also suggests expanding access to public Wi-Fi, minimum connectivity standards and improving access to low-cost broadband options.
+
+Smart economy
+Smart cities need smart workers. To this end, the report puts a spotlight on talent, and mentions Invest Ottawa’s “Work in Ottawa” campaign as a driver for building knowledge-based businesses.
+
+Invest Ottawa’s Bayview Yards home may see an expansion under the smart city’s plan as well. In addition to the often-discussed second phase of the Innovation Centre development, which would see an office tower rise from the space, the report also mentions a potential “innovation district” at Bayview Yards. The area would be a mixed-use housing, retail and office space focusing on housing startups and entrepreneurs in a compact geographic area.
+
+Another aspect of Ottawa’s smart economy could focus on “precision agriculture” in order to engage the city’s agricultural sector and meet rising demand for tools that help to maximize farmers’ yields.
+
+The report also indicates support for Ottawa as an “autonomous vehicle testbed,” a movement that has generated significant momentum in recent months.
+
+Innovative government
+The third piece of Ottawa’s smart city plan revolves around improving the processes of government. Sample initiatives include a mobile-first strategy, improving access to the city’s open data and generating better feedback through service delivery analytics.
+
+The city would also investigate how artificial intelligence and machine learning could improve and scale city operations.
+
+The report suggests one method of improving services would be better engaging the city’s knowledge-based businesses. This could be achieved by refining procurement models, the report says, where private sector partners suggest improvements rather than responding to city requests.
+
+Ottawa has already made a series of investments in smart infrastructure for the city, according to the report. Examples include OC Transpo’s real-time service updates, an automated water meter reading process and a partnership with Rogers and Ericsson on an IoT “connected water” solution to maintain the quality of the city’s watershed.

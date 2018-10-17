@@ -1,0 +1,41 @@
+RALEIGH, N.C. — Electric utilities are pouring billions of dollars into a race to prevent terrorists or enemy governments from shutting down the power grid and everything that depends on electricity in America’s hyper-connected society.
+
+The U.S. Department of Homeland Security detailed last month how Russian hackers have targeted the nation’s energy grid. Officials said they could have caused major blackouts, but instead, the hackers appeared more focused on reconnaissance.
+
+The concern over cyber-threats comes as power companies shift focus to pursue extensive upgrades in software, switches and wires to enable a much more flexible distribution of electricity.
+
+That means the likelihood of rate increases for consumers. Utilities have long based their business on building power plants and selling the juice to customers, adding a regulator-approved profit margin to pay for it all. But the need for big generation projects has fallen after decades of energy conservation, fewer factories and the swapping of coal-fired power plants for cheaper and cleaner-burning natural gas.
+
+So electricity companies are telling Wall Street they’re shifting their business plans. Now they’re having customers pay to replace aging equipment, block malicious hackers, minimize outages, accommodate the upsurge of wind and solar power and allow consumers more control over when and how much power they use.
+
+The investment research firm SSR projects that increased investment in the distribution grid will be the primary source of growth for most utilities over the next five to 10 years. Those investments mean a stream of new revenue that could last decades.
+
+“This infrastructure will provide significant benefits to our customers, including improved customer control and convenience, and cyber and physical security enhancements while creating thousands of jobs and supporting the state’s economy,” Duke Energy CEO Lynn Good told Wall Street analysts this month. Her spokesman declined an interview request.
+
+The message that big spending is needed is amplified by U.S. government warnings of dire consequences if the grid isn’t refashioned to make it tougher to black out and easier to restore. The Department of Energy’s latest cybersecurity plan, a National Academy of Sciences report last year and advocacy groups like Protect Our Power are among the voices calling for sustained federal support for grid improvements.
+
+Congress created grants for “smart grid” investments a decade ago, but hasn’t appropriated funds for them since the 2009 stimulus package.
+
+“The grid” was essentially built to carry electricity in one direction, from power plants to homes and businesses over a network of poles, wires and high-voltage transmission equipment. Now it has to be updated to accommodate renewable energy that can surge and flow in many directions, be stored in massive batteries and even move in reverse as solar-equipped homes and businesses sell their excess power.
+
+Key pieces of equipment, such as transformers and transmission wires, are 25 years or older. And hackers aren’t the only threat: The power supply must be protected against physical attacks, from criminals shooting out transformers to severe weather and even solar storms.
+
+“Old infrastructure needs to be replaced. It’s that simple. And that’s terrific for the industry, because companies do earn a very competitive rate of return on new investment and so there’s a reason to invest,” said Ronald Silvestri, managing director of global equity research at investment management firm Neuberger Berman. “This gives the sector a very long tail of attractive growth for many years.”
+
+More than three dozen regulated electric companies last year devoted almost half their more than $120 billion in total capital spending to grid improvements, according to the Edison Electric Institute, the trade association for investor-owned utilities. Spending on new power plants fell to less than a third of the total, the trade group said, as electricity demand decreased to its lowest since Recession-marred 2009.
+
+Some of the fastest-growing utilities over the past decade, including American Electric Power, California’s Edison International and Florida’s NextEra Energy, are the same ones that led the way into grid upgrades, said Eric Selmon of SSR. Profits over the next decade will hinge on increased investment in updating and modernizing the distribution grid, Selmon said.
+
+“We’re at the early stages of infrastructure modernization. It’s a multi-decade theme that I believe is being vastly underappreciated,” Silvestri said.
+
+Columbus, Ohio-based American Electric Power plans to invest nearly $18 billion in grid improvements in the next four years, across 11 states from Virginia to Oklahoma. AEP said it delivered a total shareholder return of 21 per cent in 2017, and the investments will help keep profits growing at 5 per cent to 7 per cent year after year, chairman and chief executive officer Nicholas Akins said.
+
+Charlotte-based Duke Energy plans to invest $25 billion on grid improvements over the next decade across its territories in the Carolinas, Florida, Ohio, Kentucky and Indiana.
+
+Utilities won’t say exactly how they plan to thwart hackers, but their defences partly include installing more “smart-grid” communication technology across the network, such as remote sensors and transmission equipment that can better detect suspicious activity and automatically reroute power around outages, Duke Energy said.
+
+Duke Energy already is collecting grid modernization charges in Florida, Ohio and Indiana. But North Carolina regulators this year wouldn’t approve the company’s proposal to start charging the average household an extra $3,000 to $4,000 over the coming decade to bury power lines and modernize electricity delivery systems.
+
+Good has told analysts Duke Energy can deliver profit growth of around 6 per cent a year if state regulators approve the spending and associated profit margins the company wants on grid investments. That compares to an average annual return of 8.3 per cent over the past decade for companies on the S&P 500 Index. Including stockholder dividends, Duke Energy’s return should be more like a steady 8-10 per cent a year, the company is telling investors.
+
+“I see over the next decade more investment in the grid, relatively, than any other part of the supply chain of electricity,” Good said in June at a talk in Washington
