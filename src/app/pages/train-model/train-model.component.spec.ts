@@ -8,7 +8,7 @@ describe('TrainModelComponent', () => {
 
   beforeEach(async(() => {
     TestBed.configureTestingModule({
-      declarations: [ TrainModelComponent ]
+      declarations: [ TrainModelComponent ],
     })
     .compileComponents();
   }));
