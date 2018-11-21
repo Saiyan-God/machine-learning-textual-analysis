@@ -5,17 +5,15 @@ export const MENU_ITEMS: NbMenuItem[] = [
     title: 'E-commerce',
     icon: 'nb-e-commerce',
     link: '/pages/dashboard',
+  }, {
+    title: 'Document Classifier',
+    icon: 'nb-home',
+    link: '/pages/document-classifier',
     home: true,
-  },
-  {
+  }, {
     title: 'IoT Dashboard',
     icon: 'nb-home',
     link: '/pages/iot-dashboard',
-  },
-  {
-    title: 'Train Model',
-    icon: 'nb-home',
-    link: '/pages/model-trainer',
   },
   {
     title: 'FEATURES',
