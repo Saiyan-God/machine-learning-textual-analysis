@@ -10,7 +10,7 @@ warnings.filterwarnings("ignore", category=FutureWarning)
 
 
 def get_csv_textdata(csv_filename, print_info=False):
-    data = pd.read_csv(csv_filename, error_bad_lines=False)
+    data = pd.read_csv(csv_filename, error_bad_lines=False, encoding="ISO-8859-1")
     data_text = data[['Article']]
     data_text['index'] = data_text.index
     return data_text
@@ -45,7 +45,7 @@ def visualize_model(model, corpus, dictionary):
 
 def main():
     # Retrieve training data
-    documents = get_csv_textdata('Articles.csv', print_info=True)
+    documents = get_csv_textdata('MilitaryArticles.csv', print_info=True)
     print('Number of Articles: {}'.format(len(documents)))
     print('First five documents:\n{}\n'.format(documents[:5]))
 
@@ -56,13 +56,13 @@ def main():
     dictionary, bow_corpus = bag_of_words(processed_docs)
 
     # Run LDA model with training data
-    lda_model = gensim.models.LdaMulticore(bow_corpus, num_topics=3, id2word=dictionary, passes=100, workers=3)
+    lda_model = gensim.models.LdaMulticore(bow_corpus, num_topics=5, id2word=dictionary, passes=50, workers=3)
     for idx, topic in lda_model.print_topics(-1):
         print('Topic: {} \nWords: {}'.format(idx, topic))
     print('\n')
 
     # Read LL File
-    with open('SmartTrafficArt.txt', 'r') as myfile:
+    with open('LLDocument.txt', 'r') as myfile:
         lldata = myfile.read().replace('\n', '')
 
     # Test model with LL Document
