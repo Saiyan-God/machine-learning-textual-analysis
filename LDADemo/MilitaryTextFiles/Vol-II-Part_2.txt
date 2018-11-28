@@ -1,0 +1,5019 @@
+﻿KASSERINE PASS
+BATTLES
+Doctrines and Lessons Learned
+Volume II, Part 2
+U.S. ARMY
+CENTER OF MILITARY HISTORY
+Contents
+5. FM 17-22, Armored Force Field Manual: Reconnaissance Battalion
+(Extract), 1942
+6. FM 17-30, Armored Force Field Manual: Tank Platoon (Extract),
+1942
+7. FM 17-32, Armored Force Field Manual : The Tank Company, Light
+and Medium (Extract), 1942
+8 . FM 17-33, Armored Force Field Manual: The Armored Battalion,
+Light and Medium (Extract), 1942
+5
+FM 17-22, Armored Force Field Manual : Reconnaissance
+Battalion (Extract), 1942
+WAR DEPARTMENT,
+WASHINGTON, August 18, 1942 .
+FM 17-22, Armored Force Field Manual, Reconnaissance
+Battalion, is published for the information and guidance
+of all concerned .
+[A . G . 062 .11 (7-14-42) .]
+BY ORDER OF THE SECRETARY OF WAR :
+G. C. MARSHALL,
+Chief of Staff .
+OFFICIAL :
+J . A . ULIO,
+Major General,
+The Adjutant General.
+DISTRIBUTION:
+D 2, 7 (5) ; D 17 (20) ; IR 2, 5, 7, 8 (5) ; Bn and H 17
+(10) ; IBn 2,5-10 (3) ; C 17 (5) ; IC 2,5-11 (3) .
+(For explanation of symbols see FM 21-6 .)
+II
+TABLE OF CONTENTS
+SECTION I . General, Paragraph Page
+Purpose 1
+1
+Mission 2
+1
+Support 3
+2
+Organization 4
+2
+Method of employment 5
+2
+II . Training .
+General 6
+3
+Procedure 7
+3
+III . Control, orders, liaison .
+Control 8
+4
+Orders 9
+9
+Liaison 10
+10
+IV . Maintenance,
+General 11
+11
+Battalion maintenance platoon-_-_
+12
+11
+Maintenance plan 13
+11
+V. Evacuation .
+General 14
+12
+Battalion medical detachment____
+15
+12
+Plan for employment of battalion
+medical detachment 16
+13
+VI . Marches and security .
+General 17
+17
+March procedure 18
+17
+March security 19
+21
+Security at the halt 20
+27 Security in bivouac 21
+31
+VII:" Information and reports .
+General 22
+32
+Information sought 23
+32
+Collecting and recording information
+24
+33
+Transmittal of Information 25
+33
+VIII . Offensive combat .
+General 26
+33
+Advance to contact 27
+33
+Cooperation with regimental reconnaissance
+28
+37 Action In a penetration 29
+39 Envelopment 30
+39 Seizing critical areas 31
+39 Pursuit 32
+39 IX, Defensive action and retrograde movements
+.
+G=-neral 33
+41
+Counterreconnaissance 34
+41
+Defense of a position 35
+41
+Retrograde 36
+41 X. Special operations .
+Attack of a river line 37
+42 Defense of a river line 38
+46 Operations in' jungle 39
+47 Desert warfare 46
+51
+III
+RECONNAISSANCE BATTALION
+ARMORED FORCE FIELD MANUAL
+SECTION I
+GENERAL
+E 1 . PURPOSE.-a. The purpose of this manual is to outline
+general methods of training and employing the reconnaissance
+battalion of the armored division . Tactical employment
+of the reconnaissance company is covered in
+FM 17-20, and that of the tank company In FM 17-32 . The
+subject of reconnaissance in general is covered in FM 100-5
+and FM 17-10 .
+b. This manual is intended as a guide only . It is not
+expected that it will be followed blindly . Rigid application
+of a fixed set of rules is liighly undesirable . Each situation
+must be solved on its own merits . Individual initiative must
+be encouraged .
+c . Following is a key to symbols used in illustrations in this
+manual
+CAR, HALF TRACK
+GUN, ASSAULT, SELF -PROPELLED
+CZCAR, ARMORED, RECONNAISSANCE
+0 TRUCK,' q TON
+4 MOTORCYCLE, SOLO
+O TANK
+COMBAT COMD, ARMD DIV
+∎ 2. MIssIoN .-a. The primary mission of the reconnaissance
+battalion is, In conjunction with observation aviation,
+to furnish the division commander with Information upon
+which to base a decision for employment of the division .
+1
+FM 17-22
+1-2
+2 -5
+ARMORED FORCE FIELD MANUAL
+Before any other mission is assigned, a careful estimate
+should be made as to the probable effect on this primary
+mission.
+b . Additional missions that may be assigned are counterreconnaissance,
+security, and combat. The reconnaissance
+battalion is not given the mission of covering development
+of the division or its elements, Such mission would interfere
+seriously with the primary mission of reconnaissance . Such
+covering is incidental to reconnaissance and counterreconnaissance
+.
+∎ 3, SUPPORT, a. Depending upon its mission, terrain, width
+of zone, and the enemy situation, the reconnaissance battalion
+may be reinforced by engineers, infantry, artillery,
+tank destroyers, and air bombardment . Observation aviation
+attached to an armored division habitually cooperates
+with the reconnaissance battalion .
+b . When numerous streams are to be crossed and the terrain
+is otherwise difficult, one or more companies of engineers
+should be attached,
+c. When the battalion is given counterreconnaissance, security,
+or combat missions, infantry and artillery may be
+attached. Combat aviation if available, should be in support .
+d, When the reconnaissance battalion is given a mission
+of seizing and holding critical points it should be relieved at
+the earliest practicable moment by other troops in order
+that it may perform its primary mission of reconnaissance .
+∎ 4 . ORGANIZATION.-The battalion is composed of a battalion
+headquarters and headquarters company, three reconnaissance
+companies, and a tank company . For details of
+organization see current Tables of Organization .
+8 5. METHOD OF EMPLOYMENT .-a, The reconnaissance battalion
+operates under direct orders of the division commander .
+Rarely will it or any of its elements be attached to other
+units of the division, as this will dissipate its strength .
+b. Clearly defined missions must be assigned. If two or
+more missions are assigned, the primary mission must be
+indicated .
+c. A zone of reconnaissance is assigned . This varies with
+the terrain, road net, mission, and enemy situation . A zone
+2
+RECONNAISSANCE BATTALION
+5-7
+30 to 50 miles in width may be reconnoitered at a speed of
+10 to 15 miles per hour. (See FM 17-10 and FM 17-20 .)
+d. The battalion may reconnoiter as far as 150 miles in
+front of the division . This distance, however, will be exceptional
+. Normally the reconnaissance battalion will not precede
+the division by more than 100 miles,
+SECTION II
+TRAINING
+8 6. GENERAL.-a. Tactical training of the battalion as a
+whole commences near the end of the company training
+period. The company should have completed each phase of
+training as listed below before such phase is scheduled for
+battalion training . During company training periods the
+battalion commander and his staff, in addition to supervising
+training, prepare tactical exercises for the battalion .
+Battalion headquarters should hold frequent command post
+exercises . Combined operations with other units, air, infantry,
+tank, artillery, tank destroyer, and engineer, should be
+held when practicable .
+b . The battalion as a whole, in addition to company training
+(see FM 17-20), should be trained in-
+Marches.
+Security .
+Collection of information and reports .
+Offensive action .
+Defensive action,
+Retrograde movements .
+Special operations .
+E 7. PROCEDURE .-a . To be of value in training, exercises must
+be carefully planned and vigorously executed . Plans for an
+exercise must be made well in advance and not left to the
+last moment . (See FM 21-5 .)
+b . The following is a guide to steps taken in preparation
+of field exercises :
+(1) Decide upon the type of exercise (par . 6) and the particular
+points of such exercise that are to be emphasized .
+(2) Make a map reconnaissance to determine suitable
+terrain for the exercise and find out if that terrain is available
+at the time desired .
+3
+7-8
+ARMORED FORCE FIELD MANUAL
+(3) Plan the exercise on the map. Make a terrain reconnaissance
+of the area . Next, with the staff, war-game the
+exercise on the map until satisfied that the situation is sound
+and that the points to be emphasized will be brought out .
+(4) The exercise should then be played as a war game
+by the battalion commander, his staff, and the company
+officers. At this time company commanders and, junior
+officers should be required to' make decisions and issue orders .
+Interest is maintained by injecting various small situations
+requiring immediate decision and action .
+(5) The exercise is next played on the terrain . Before
+proceeding in the exercise, make sure that all equipment
+and personnel are complete as far as available. From the
+time the unit moves from the vehicle park until the end of
+the problem, each individual must understand that he is to
+act as though he were under actual combat conditions . Toleration
+of any laxity will invariably lead to poor performance
+in the exercise and a consequent loss in training time .
+(6) After the exercise, hold a critique at which the exercise
+is explained. Bring out the good and bad points of performance
+. Where solutions were in error point out a correct
+solution . Do not try to hold to one solution if others may
+be equally good. Care must be taken not to ridicule the work
+of individuals .
+c . In all problems try to inject realism . Whenever possible
+use a two-sided maneuver . In any case outline the enemy
+position with small groups,
+SECTION III
+CONTROL, ORDERS, LIAISON
+>t 6 . CONTROL.-Control is exercised by giving definite orders,
+by use of radio and messengers, and by use of zones, boundaries,
+axis of advance, and phase lines .
+(t . Radio,-(1) The battalion is amply equipped with long
+and short range radio sets for communication within the
+battalion, to higher headquarters, and with supporting air
+units .
+(2) When voice radio is used, and it is used for all short
+distance radio communication, the commander or his staff
+4
+CE~2RCN
+RECONNAISSANCE BATTALION
+8
+officers must use it in person . For long range operation,
+messages are sent by key and usually in code .
+(3) Figure 1 shows the battalion radio net . By use of
+different crystals these nets may be changed to meet any
+situation .
+F5
+FIGURE 1 .-Radio nets, reconnaissance battalion .
+(4) Strict radio discipline must be maintained . Messages
+must be brief .
+(5) For radio identification codes see current Signal
+Operations Instructions . FM 17-20 also covers radio Identification
+codes,
+(6) Do not send orders or information in the clear when the
+information to be transmitted, if intercepted by the enemy,
+474172'--42-2
+5
+AoRCN
+a
+FIGURE -Airplane message pick-up field . Do not place pick-up field near the CP ; the enemy may find it .
+FIGURE 3 -Airplane message pick-up field . Place pick-up field away from CP and use messenger to
+take message to panel personnel .
+Go
+DO
+8 ARMORED FORCE FIELD MANUAL
+FIGURE 4 .-Zone of advance for reconnaissance battalion, showing
+boundaries, axis of advance, and phase lines A, B, C, and D .
+8
+RECONNAISSANCE BATTALION
+8-9
+can be acted upon in time to influence the situation in question.
+Do not send messages in code and repeat any part
+in the clear, Brevity codes may be used for certain messages
+. For rules governing radioo security, see FM 24-5 .
+b. Messengers .-Use messengers for short distances, as
+they will be faster than radio, There are only a few messengers
+in the battalion headquarters, so use them sparingly.
+A messenger sent to division headquarters 50 miles
+away will probably not return within 4 hours .
+c . Panels and pick-up and drop messages .-(1) The use
+of pick-up and drop messages is convenient for transmission
+of overlays, maps, and aerial photographs . The slowflying
+liaison airplane is valuable for this service . Do not
+have the pick-up field near the CP. The enemy observation
+may find it . For use of panels see FM 24-5 .
+(2) When radio silence is essential, when radio communication
+has broken down, or when it is necessary to identify
+location of the CP or pick-up field to the air observer, panels
+may he used .
+d. Zones, boundaries, axis of advance .-Direction and lateral
+extent of movement is controlled by designation of zones
+of advance and boundaries, or by giving an axis of advance
+and a frontage . The division commander designates a zone
+for the battalion . The battalion commander divides the zone
+into zones for his companies . (See fig . 4 .)
+e. Phase lines .-The rate of advance is controlled and coordination
+is obtained by designating phase lines and report
+lines. These are easily identified terrain features on
+the route of advance . The battalion commander prescribes
+the time leading elements of the companies will pass the
+phase lines . Companies report when they reach and pass
+a phase line .
+1 9. ORDERS.-a. Orders are usually oral. They may be, and
+usually are, supplemented by use of marked maps, overlays,
+or aerial photographs . A sketch such as figure 4 might well
+be issued as part of the order for an advance . Orders follow
+the form given in FM 101-5 . They must be short and clear .
+Missions must be unmistakably stated,
+b. Clear orders are necessary for correct execution. Every
+officer must strive by continuous practice to make himself
+9
+9-10
+ARMORED FORCE FIELD MANUAL
+perfect in the issuance of such orders . Thorough training
+in this subject should be given during the war game period
+of preparing tactical problems .
+E 10 . LIAIsoN.-a. The use of liaison officers must be habitual .
+Reconnaissance battalion headquarters has one liaison officer
+who remains at division headquarters . This officer must
+know the plans of the battalion commander . He must keep
+the battalion commander informed of any changes in division
+plans . His duties are prescribed in FM 101-5 .
+b. Each combat command sends one liaison officer to the
+CP of the reconnaissance battalion . This officer must know
+the plans of the combat command commander . He keeps this
+commander informed on the situation as found by the reconnaissance
+battalion . He should have a radio set for communication
+with the combat command and should also be
+provided with messengers .
+c. The reconnaissance company of the armored regiments
+should maintain liaison personnel at the CP of the reconnaissance
+battalion . This also applies to the infantry regiment
+when it is leading the division . As the combat com=
+mand closes on the reconnaissance battalion, its liaison party
+joins that company of the reconnaissance battalion in the
+zone of advance of the combat command. When the regimental
+reconnaissance company operating with the combat
+command closes on the reconnaissance battalion, the liaison
+party joins the company commander and furnishes him all
+information available .
+d. Artillery liaison officers from the combat commands
+should also join the reconnaissance battalion and remain with
+it until the combat command closes on the reconnaissance
+battalion. By this means the artillery will gain early information
+of positions, terrain, and targets . The liaison officer
+is also able to give necessary information to any supporting
+artillery that may be detailed to assist the reconnaissance
+battalion .
+e. The engineer reconnaissance platoon of the headquarters
+company, engineer battalion, accompanies the reconnaissance
+battalion . It performs reconnaissance and liaison
+functions .
+1 0
+RECONNAISSANCE BATTALION
+11-13
+SECTION IV
+MAINTENANCE
+0 11, GENERAL,Each company of the reconnaissance battalion
+has a maintenance section which performs second
+echelon maintenance for the company . In addition, the
+battalion headquarters company has a maintenance platoon
+which performs second echelon maintenance for the battalion
+as a whole . The battalion may be reinforced by elements of
+the division maintenance battalion . In combat the distinction
+between echelons of maintenance is slight, Each maintenance
+unit does such work, with the tools, spare parts, and
+mechanics available, as time and the tactical situation permit.
+Company maintenance will not undertake work so
+extensive that service to a large number of other vehicles
+is prevented . Vehicles must be kept r olling. FM 17-50 covers
+in general the subject of maintenance,
+12 . BATTALION MAINTENANCE PLATOON This platoon is organized
+into a platoon headquarters, two maintenance sections,
+a maintenance section (trains), and a wrecker section .
+When the battalion is advancing, with two companies leading,
+a maintenance section is assigned to each of the two
+leading companies. When three reconnaissance companies
+are leading, the train section will service the center company .
+1 13 . MAINTENANCE PLAN.-a. Before starting an operation,
+the battalion commander, after acquainting his staff with
+plans for employment of the battalion, calls upon the maintenance
+officer for a plan of maintenance . The plan is based
+upon a maintenance estimate of the situation which
+includes-
+(1) Probable enemy resistance.-If enemy resistance is expected
+to be heavy, maintenance needs will be high . If resistance
+is expected to be light, maintenance needs will
+probably be low .
+(2) Terrain,Rough terrain will increase maintenance
+needs .
+(3) Width of zone.-If the zone of advance is wide, the
+work of maintenance detachments will be made difficult,
+owing to the long distances which they must travel to reach
+disabled vehicles .
+11
+21-23
+ARMORED FORCE FIELD MANUAL
+some protection from the enemy . However, the battalion
+must provide for its own security . The reserve reconnaissance
+company furnishes the outpost .
+b. Security in bivouac is obtained by-
+(1) Taking advantage of natural barriers such as wide
+streams, swamps, lakes, or extremely mountainous country .
+(2) Detail of an outpost, (See FM 17-10 and FM 17-20 .)
+c. When practicable, select bivouac in daylight, move billeting
+parties in and occupy bivouac after dark; the enemy
+may observe these movements in daylight .
+d . Make sure a definite system of recognition is in effect.
+Supply vehicles, kitchens, vehicles for evacuation of wounded,
+and messengers will be moving in and out all night. (See
+FM 17-20.)
+e, Security from air attack is obtained by concealment,
+dispersion, and use of available weapons . Do not fire at hostile
+airplanes unless attacked or unless sure your location has
+already been discovered, as, this will disclose your position .
+Dig slit trenches for protection .
+SECTION VII
+INFORMATION AND REPORTS
+• 22 . GENERAL. Information, no matter how accurate, is
+useless if not placed in the hands of the commander in time
+to be evaluated . Therefore, there must be a systematic and
+fast method of recording information and transmitting it
+to division CP.
+• 23. INFORMATION SOUGHT .-All information which may be
+of any value to the commander must be sought and reported.
+FM 17-10 lists specific items of information which should be
+obtained . In general, information required isa
+. Location of the enemy, his flanks, disposition, composition,
+direction of movement, strength .
+b. Location of gaps or weak points In enemy defense .
+c . Confirmation of information obtained by air observation,
+d. Identifications .
+e. Terrain, such as obstacles, cover, concealment, ground
+suitable for tanks, ground suitable for dismounted men only,
+impassable ground.
+3 2
+RECONNAISSANCE BATTALION
+24-27
+• 24. COLLECTING AND RECORDING INFORMATION .-Collection
+and transmission of information by reconnaissance companies,
+is covered in FM 17-20 . At reconnaissance battalion
+headquarters, information is recorded and evaluated to some
+extent . However, information which may appear of little
+or no value may be of great value to the division G-2 when
+evaluated in conjunction with information received from
+other sources .
+• 25. TRANSMITTAL OF INFORMATION,-The division G-2 may
+designate which information is to be transmitted at once
+and which is to be sent in periodic reports . This may be
+covered in standing operating procedure . Should this not
+be indicated, then the battalion commander must decide .
+Usually information of first contact with the enemy, any
+large body of troops encountered, and any terrain information
+which is vital to the division commander in his plan of
+employment is transmitted at once . For methods of transmitting
+information, see paragraph 8 .
+SECTION VIII
+OFFENSIVE COMBAT
+126. GENERAL.-Offensive combat in general is covered in
+FM 100-5. To gain information, the reconnaissance battalion
+must act quickly and aggressively . It must be prepared to
+fight for information . In addition to the armored cars, it
+has a tank company which it may use to overcome enemy
+counterreconnaissance or to repel an enemy attack.
+•
+27. ADVANCE TO CONTACT,--a. Zones, boundaries, axis of
+advance, and phase lines are covered in paragraph 8 .
+b. As the battalion advances in its zone, increasing enemy
+resistance usually is met. Reconnaissance companies spread
+out and seek the enemy's flanks and rear, constantly reporting
+the situation to the battalion headquarters .
+c. When the hostile covering force can be penetrated, the
+reconnaissance elements feel out and determine the enemy
+dispositions. They seek weak spots in the enemy defenses .
+The reserve reconnaissance company may be committed to
+move around the enemy flanks to his rear areas .
+33
+27 ARMORED FORCE FIELD MANUAL
+FIGURE 20 .-Reconnaissance elements seek location of enemy flanks
+and move to his rear, if practicable . Battalion commander must
+watch road net so he can shift his reserve .
+34
+RECONNAISSANCE BATTALION
+35
+27
+27
+(3)WHEN PENETRAT!ONJS
+COMPLETED RCN , 8N
+PASSES THROUGH
+ARMORED FORCE FIELD MANUAL
+FIGURE 22 .-When passed through in a penetration, the battalion
+reorganizes and follows the last echelon of attack,
+3 6 '
+RECONNAISSANCE BATTALION
+27-28
+d. When the enemy flanks are unassailable and his covering
+forces cannot be penetrated by reconnaissance elements, a
+weak place in the covering force is sought . The reconnaissance
+battalion commander then attacks through this weak
+spot with his tank company, supported by air bombardment
+and artillery, if available . Available assault guns of the
+reserve reconnaissance company and of reconnaissance platoons
+near the point of attempted penetration support the
+tank company attack . The reserve reconnaissance company
+moves through behind the tank company and proceeds to
+feel out the enemy main defenses. The tank company seeks
+to destroy the covering forces, thus permitting other reconnaissance
+elements to advance .
+∎ 28. COOPERATION WITn REGIMENTAL RECONNAISSANCE .-AS
+combat commands close on the reconnaissance battalion,
+liaison details from regimental reconnaissance companies join
+their reconnaissance units . These units make detailed terrain
+reconnaissance and contact elements of the reconnaissance
+battalion in their zone . They may relieve elements
+of the -reconnaissance battalion, thus permitting the battalion
+to extend reconnaissance farther to the flanks . How-
+FIGURE 23,-Operation when exploiting a penetration made by
+other troops,
+37
+28 ARMORED FORCE FIELD MANUAL
+FIGURE 24. Envelopment .
+RECONNAISSANCE BATTALION
+28-32
+ever, such maneuver usually is impractical, and regimental
+reconnaissance companies may move to the flanks or be
+placed in division reserve . When the reconnaissance battalion
+is employed over a large front, regimental reconnaissance
+companies may take over part of the front .
+• 29, ACTION IN A PENETRATION,-a . When passed through by
+assaulting troops, the battalion is reorganized and follows
+the last echelon of attack, ready to move out on reconnaissance
+missions when the penetration has been made .
+b . When the division passes through a gap in the hostile
+line to exploit a penetration made by other troops, the reconnaissance
+battalion leads .
+• 30. ENVELOPMENT,-a . When the division attacks by envelopment
+of one flank, the bulk of the reconnaissance battalion
+reconnoiters on the exposed flank and seeks enemy vital
+installations .
+b . When the division attacks by double envelopment, the
+battalion operates on both flanks .
+• 31, SEIZING CRITICAL AREAS .In offense, the reconnaissance
+battalion may be given the mission of seizing and holding a
+critical area until the arrival of other troops . It may be given
+the mission of moving forward rapidly to assist paratroops
+in holding such areas . The battalion moves swiftly to these
+areas, fighting to obtain them if necessary . It must be relieved
+as soon as practicable .
+132, PURSUIT.When the division engages in a pursuit, the
+reconnaissance battalion operates with the encircling force .
+It gains contact with the retreating columns ; operates on their
+flanks : locates routes that will permit reaching the heads of
+these enemy columns ; finds and reports on routes that will
+enable the encircling force to avoid obstacles and hostile
+security elements; and locates key positions from which the
+encircling force may operate against the heads of the retreating
+enemy columns, and thus facilitate the destruction of the
+enemy by the direct pressure forces . This reconnaissance
+during a pursuit must be pushed with great vigor, (See also
+FM 100-5.)
+32 ARMORED FORCE FIELD MANUAL
+40
+RECONNAISSANCE BATTALION
+33-36
+SECTION IX
+DEFENSIVE ACTION AND RETROGRADE MOVEMENTS
+133, GENERAL .-In defense, the primary mission of the battalion
+is to detect the strength and direction of movement of
+the enemy . As the enemy approaches, the battalion may be
+assigned a counterreconnaissance mission.
+• 34 . COUNTERRECONNAISSANCE The width of the counterreconnaissance
+zone will vary with the terrain and the road
+net. Normally no more than nine roads can be covered . For
+counterreconnaissance missions the regimental reconnaissance
+companies and one or more light tank companies may
+be attached to the reconnaissance battalion .
+. 35. DEFENSE OF A POSITION,-When the division is engaged
+in defending a position, the reconnaissance battalion, reinforced
+as necessary, contacts the enemy, reports his strength
+and movements, and performs counterreconnaissance missions.
+It may fight a delaying action to give the defenders
+time to organize positions . It withdraws along previously
+reconnoitered routes . It seeks to lead the enemy into a false
+conception of the defensive position, and deceives him as to
+its extent and strength . For this mission the battalion may
+be reinforced with artillery . It is reinforced with engineers
+for performing demolition work . The battalion then reconnoiters
+to the flanks and prepares to resume the offensive or
+to protect a withdrawal,
+136. RETROGRADE In a retrograde movement, the reconnaissance
+battalion operates on the hostile flanks to establish
+road blocks, and to locate, harass, and delay hostile pursuing
+forces, Withdrawal must be effected before becoming too
+closely engaged . The delaying force must be kept constantly
+informed of the progress of the hostile troops . Contact is
+maintained and enemy progress reported by elements of reconnaissance
+companies observing the hostile route of march
+from positions along the flanks . These detachments harass
+the enemy by firing into the flank of the hostile force and
+quickly retiring to other points of observation . During a
+retrograde movement, there will be frequent opportunities
+41
+36-37
+ARMORED FORCE FIELD MANUAL
+for elements of the reconnaissance battalion to prepare well .
+planned ambushes into which enemy troops, especially security
+groups, can be drawn and then annihilated. The tank
+company may be used with the delaying force, or may move on
+routes parallel to the hostile route, prepared to crush enemy
+security forces or other small groups . Unit commanders will
+ordinarily be given mission type orders in an action of this
+nature . Every means of communication will be used to effect
+coordination and control . Air cooperation is invaluable in
+maintaining hostile and friendly contact and In reporting
+targets of opportunity . This cooperation is not restricted
+to observation aviation but envisages the utmost use of combat
+aviation to operate against the heads of enemy columns
+and reconnaissance elements .
+hl
+ENEMY
+OWN TROOPS' I
+Y
+RC N lol
+RCN UNITS RECONNOITER
+ON FLANKS
+RCN
+42
+toRONENEMY
+w
+OWN TROOPS I
+lol
+AS DIVISION WITHDRAWS RON
+ON CLOSES IN BEHIND IT
+RCN
+FIGURE 26.-Withdrawal .
+SECTION X
+SPECIAL OPERATIONS
+1 37. ATTACK OF A RIVER LINE.-a. The fundamental principles
+governing attack of a river line are covered in FM
+100-5 and FM 17-10 .
+RECONNAISSANCE BATTALION 37
+FrauRE 27 .-Delaying action. Select position where weapons may
+be used from defilade . Select next position that will cover withdrawal
+from forward position . Use tanks to counterattack .
+Engineers destroy bridges and place mines .
+43
+6
+FM 17-30, Armored Force Field Manual: Tank
+Platoon (Extract), 1942
+WAR DEPARTMENT,
+WASHINGTON, October 22,1942 .
+FM 17-30, Armored Force Field Manual, Tank Platoon, is
+published for the information and guidance of all concerned .
+II
+[A . G . 062 .11 (9-18-42) .]
+TABLE OF CONTENTS
+Paragraphs Page
+CHAPTER 1 . General
+BY ------------------------------ 1-4 1 ORDER OF THE SECRETARY OF WAR : CHAPTER 2 . Trainir.g,
+G. C. MARSHALL, SECTION I . General 5-5 6
+II. Terrain
+Chief of Staff . -------------------------- 7-8 8
+III, Weapons and ammunition 9-11 30
+OFFICIAL : CHAPTER 3 . Control, orders, and reconnaissance_ ._ 12-14 54
+J . A . ULIO, CHAPTER 4 . Marches 15-18 59
+CHAPTER 5 . Security 19-29 70 Major General,
+The Adjutant General .
+CHAPTER 6 . Offensive action,
+SECTION I . General 30-32 121
+DISTRIBUTION : II. Tank crew 33-35 ,;125 7 III. Tank platoon 38-42 135
+D 2, 7 (5), 17 (20) ; Bn and H 17 (10) ; IBn 2,.5-10 (3) ; f CHAPTER 7 . Defense 43-45 156
+C 17 (20) ; IC 2, 5-11 (5) . INDEX 159
+(For explanation of symbols see FM 21-6 .) i III
+ARMORED FORCE FIELD MANUAL
+TANK PLATOON
+CHAPTER 1
+GENERAL
+• 1 . PURPOSE AND SCOPE.-a. This manual is written as a
+guide for the tactical training and combat procedure for
+the individual tank, the tank section, and the tank platoon,
+both light and medium . The tactical procedures and methods
+set forth herein are not to be followed as inflexible rules,
+as such practice would stifle individual initiative . The
+methods of procedure given must be varied to meet the particular
+situation at hand,
+b. Key to symbols used in this manual will be found on
+page 2.
+• 2. ORCANIZATroN .-The tank platoon, both light and medium,
+consists of five tanks . The platoon is divided into
+a platoon headquarters consisting of the platoon leader and
+the crew of his tank, and two sections of two tanks each,
+• 3 . CHARACTERISTICS, a . The tank is characterized by great
+mobility, fire power, armor protection, and shock action .
+These characteristics are possessed in varying degree by different
+types of tanks. The characteristics dictate the manner
+of employment . All types of tanks are limited by their
+restricting vision devices.
+b. Light tanks, as compared to medium tanks, have less
+fire power, lighter armor and armament, greater speed, and
+better maneuverability . They are particularly fitted for-
+(1) Feeling out and developing weak spots in the enemy
+position through which medium tanks may attack .
+(2) Screening the advance against light enemy resistance.
+(3) Leading an attack against an unarmored enemy weak
+in antitank defense, when speed is essential .
+(4) A fast maneuvering force to exploit the success of other
+tanks .
+(5) Maneuver to flank or rear to strike the enemy command
+posts, communication centers, reserves, and vital
+installations .
+FM 17-30
+1
+3
+0 OBSERVATION POST
+0 RIFLEMAN
+~C RIFLEMAN (OUT OF
+ACTION)
+--lb- LIGHT MACHINE GUN
+0120- CAL 50 MACHINE GUN
+HANTITANK GUN
+0-0 MOTORCYCLE
+SCOUT CAR
+O TANK IN MOTION
+TANK IN POSITION
+ARMORED FORCE FIELD MANUAL
+<5 TANK SECTION LEADER
+TANK PLATOON COMDR
+A
+MORTAR CARRIER
+2
+ASSAULT GUN (SELF
+PROPELLED)
+ll AMMUNITION CARRIER
+OBSTACLE
+BUNKER
+EXPLOSIVE SHELL
+FIRE
+SMOKE SHELL FIRE
+-LD--LINE OF DEPARTURE
+(6) Pursuing a defeated enemy .
+c . Medium tanks, because of their greater fire power, guns
+of heavier caliber, increased armor protection, and shocking
+power are used to-
+(1) Lead an attack against an enemy whose position and
+strength are known .
+TANK PLATOON
+3-4
+(2) Support by fire the attack of either light or medium
+tanks .
+d. It is essential that tank crew members know the strength
+and weaknesses of their tank and its weapons . Furthermore,
+they must know the strength of their weapons as compared
+to enemy weapons likely to be encountered.
+14. OPERATION .-The tank platoon is the smallest tank battle
+unit . It normally operates as part of the tank company .
+However, it may operate as an independent unit as advance,
+flank, or rear guard or on similar missions .
+a. Methods.-Tanks operate by surprise, fire and maneuver,
+and in mass. The violation of these fundamentals will
+lead to ineffectual effort and perhaps disaster .
+(1) .Surprise.-Surprise is gained by striking the enemy
+at an unexpected time, from an unexpected direction, with
+all strength possible. Speed of movement, use of covered
+approaches, and coordination of fires assist in gaining surprise
+. Seek to surprise the enemy but do not let yourself
+be surprised . Give the enemy credit for being as capable
+as yourself. Do not underestimate his ability . Do not become
+careless. Expect the unexpected and be prepared for it .
+(2) Fire and maneuver.-An advancing unit is covered by
+the fl re of weapons in stationary position. This is important
+as the tank in the open is not only extremely vulnerable
+but movement, dust, and restricted vision make the locating
+of new targets extremely difficult. Tanks in defiladed position
+can quickly locate and promptly bring fire upon hostile
+weapons that fire upon the advancing tanks . This procedure
+of fire and movement may be by section, platoon, or company.
+(3) Mass .-Concentrate effort . Do not waste strength on
+numerous unimportant targets . Strike on a key position with
+all power that can be mustered. If this falls, others may
+then be taken . If effort is made on several positions, the
+enemy may easily destroy you by concentrating successively
+on each attacking element .
+b. Coordination .-Coordination of effort, that is, timing of
+all elements, is essential . An uncoordinated effort violates
+the fundamental of the use of mass . Therefore, in attack,
+time the movement of the tanks and the opening of fire by
+4 ARMORED FORCE FIELD MANUAL
+supporting weapons or supporting tanks so that maximum
+effect is obtained . Teamwork is essential .
+c . Initiative and aggressiveness.-In order to obtain success
+in battle, leaders must exercise initiative and act aggressively .
+A small force acting under direction of an aggressive, alert,
+leader can overcome a much larger force whose leader is slow
+and nonaggressive. Do not let the enemy have time to get
+set . Conversely, do not rush headlong into battle with no
+plan of action . Think clearly, give clear orders, then act
+fast .
+d . Striking weakness .-Seek to strike the enemy where he
+is weak in antitank defense. Do not drive headlong against
+strong antitank defense. Bypass it or call for assistance to
+reduce it .
+e. Mission and echelons of attack(1) The mission of
+tanks in the armored division is to attack and destroy vital
+hostile installations such as command posts, communication
+centers, supply installations, reserves, and artillery.
+(2) The mission of tanks in the separate tank battalions
+is to assist infantry, cavalry, or motorized divisions to advance
+by destroying hostile machine guns, personnel, arid vital
+installations .
+(3) A tank attack will usually be launched in three echelons,
+each echelon in a series of waves . ,
+(a) The first echelon of attack, preceded by neutralization
+by combat aviation and artillery, if available, is directed
+against the antitank defenses, artillery, command posts, and
+other rear installations . (See FM 17-33 and FM 17-32.)
+Tank, platoons of this echelon destroy first the enemy antitank
+defenses and second, enemy artillery. They attack
+enemy infantry only when hindered by it in fulfilling their
+primary missions .
+(b) The platoons of the second echelon follow the first
+echelon at such distance that the enemy will not have time
+to re-form his antitank defenses, These platoons destroy
+hostile automatic guns and personnel and clear the way for
+the advance of infantry . Antitank guns passed over by the
+first echelon must be silenced by the leading waves of the
+second echelon. (See par . 38c.)
+(c) The tank platoons of the third echelon advance with
+4
+TANK PLATOON 4
+the infantry, destroy hostile machine guns passed over by
+the second echelon, and hostile personnel . The mission of
+this echelon is to assist the advance of the infantry. They
+may lead the infantry attack if resistance is still heavy.
+If resistance has been broken by the first two echelons, tanks
+of the third echelon will follow the infantry, prepared to
+attack isolated resistance as necessary. These tanks also
+protect the infantry from counterattack, particularly of
+mechanized forces.
+5
+9 10
+ARMORED FORCE FIELD MANUAL
+SECTION III
+WEAPONS AND AMMUNITION
+• 9, GENERAL .-The tank is armed with several weapons of
+different calibers each of which is provided with more than
+one type of ammunition . The tank crew must be carefully
+trained in the characteristics of these weapons, their capabilities
+and limitations, and the proper use of each . The
+gunner and tank commanders must know instinctively what
+weapons to use and the proper type of ammunition for each
+target .
+• 10. DESCRIPTION,-a . Depending upon the type of tank, the
+weapons available are the caliber .30 machine gun, the 37-mm
+gun, and the 75-mm gun. In addition, the tank has 12
+grenades, fragmentation, incendiary, and smoke, and the
+individual weapons of the crew, submachine gun and pistol .
+b. The machine gun is an antipersonnel weapon . When
+fired from a stationary tank it may be effective at ranges
+up to 2,500 yards . However, it will normally not be used
+beyond 1,000 yards . From a moving tank not equipped with
+the gyro stabilizer, the machine gun should not be used at
+ranges greater than 300 yards . With the gyro stabilizer,
+ranges are the same as from a stationary tank . The M1919A4
+caliber .30 machine gun cannot deliver sustained fire like
+the M1917 water-cooled gun . Caliber .30 armor piercing ammunition
+will penetrate the shield of antitank weapons at
+200 yards.
+c. The 37-mm gun has three-types of ammunition : cannister,
+high explosive, and armor piercing .
+(1) Cannister ammunition is used against personnel at
+ranges up to 200 yards. (See FM 23-80 and FM 23-81 .)
+(2) High explosive ammunition is used against unarmored
+weapons in position, such as machine guns or antitank guns,
+from an unprotected side . It is no good against armored
+vehicles or bunkers .
+(3) 37-mm armor piercing ammunition is effective against
+most hostile light and medium tanks up to a range of 800
+yards . It is also used against emplacements .
+30
+TANK PLATOON
+d, The 75-mm gun is equipped with armor piercing, high
+explosive, and smoke shell,
+(1) Armor,piercing ammunition is effective against most
+hostile tanks up to a range of 1,600 yards. The armor piercing
+shell itself is effective against unarmored vehicles beyond
+limit of vision of the firer, normally 2,500 to 3,000 yards.
+(2) High explosive ammunition is used against antitank
+guns, machine-gun emplacements, and occasionally against
+personnel . It is effective beyond the limit of vision (see (1)
+above) . By indirect fire with an observer, it may be used at
+ranges of 7,500 yards .
+(3) Smoke ammunition is effective as in (1) and (2) above .
+It is used to screen antitank guns so that the tank may move
+to a more favorable position . The smoke cloud from this
+projectile is effective 50 yards downwind and the smoke element
+burns for 10 seconds . The smoke is placed in front of or
+on the target. For the greatest effect, fire to the windward
+and just in front of the target. If wind direction cannot be
+determined, fire just in front of the target on the line tanktarget.
+Note direction of smoke cloud and fire another shell
+if necessary. If wind is blowing indirectly toward you, fire
+in or just behind the target . The smoke shell is also effective
+against personnel and is incendiary .
+E 11 .'CONSERVATION OF AMMUNrTION,-Each exercise scheduled
+for company training must include training in ammunition
+conservation . Although exercises are conducted without
+ammunition, this subject must always be kept in mind .
+During exercises, the 37-mm and 75-mm gunner should be
+required to simulate firing and assistant gunners should keep
+track of the number of rounds the gunner has simulated
+firing . When all ammunition is fired, the gunner ceases
+firing. This is one of the principal ways in which troops
+can be trained in conservation of ammunition . If promiscuous
+simulated firing without thought of ammunition supply
+is permitted, wasteful habits will be developed . The tank
+commander requires frequent reports from gunners concerning
+ammunition supply . The chart below shows in a startling
+manner what a comparatively small amount of ammunition
+is available .
+31
+f
+10-11
+Light tank, M3:
+32
+Number of
+targets. that
+can be engaged
+with
+ammunition
+available
+at 5
+rounds per
+target
+TANK PLATOON 11
+0 Without a gyro stabilizer, do not fire from a moving tank at a
+point target 300 yards distant (see par. lob) . This is a waste of
+ammunition.
+p Fire from stationary tank . Move nearer if It is only an enemy
+machine gun .
+FIGURE 22 .-Firing on a point target from moving target.
+33
+3 caliber .30 machine
+guns
+1 37-mm gun
+4,000
+103
+125
+10
+10
+10
+2 1
+Medium tank M3 :
+2 caliber .30 machine
+guns 4,000 125 16
+1 37-mm gun 150 10 15 30
+1 75-mm gun 50 6 8 10
+Medium tank M4 :
+2 caliber .30 machine
+guns 4,000 125 16
+1 caliber .50 machine
+gun 300 125 2. 5
+1 75-mm gun 96 6 16 15
+11
+ARMORED FORCE FIELD MANUAL
+Usable Number of
+rate of minutes
+ammuni
+Weapons Rounds
+carried
+fire per
+minute tion will
+per last, firing
+weapon at usable rate
+I1 ARMORED FORCE FIELD MANUAL
+0 Do not attack a dismounted column with the slow-firing 37-mm
+gun with armor piercing or high explosive shell; the effect will not
+be great enough .
+0 Make a surprise attack with the fast-firing machine gun. If
+column is within 200 yards, use 37-mm cannister .
+FIGuRE 25 .-Attacking a column of foot troops or horse cavalry .
+36
+TANK PLATOON
+0 When you are not under fire, do not fire at 500 yards, or greater
+range, from a moving tank at an enemy antitank gun which is
+firing at some other target . The effect of your fire is too uncertain
+and discloses your position .
+0 Coo into position at once and shoot with all guns at the crew of
+the antitank gun ; the effect of fire from a stationary tank at 800
+yards range is excellent,
+FIGURE 26 .Attacking hostile antitank gun which is firing at some
+other target.
+37
+11
+11 ARMORED FORCE FIELD, MANUAL
+.' a
+0
+FIGURE 27 .-Attacking hostile antitank gun that is firing at another
+target . (See also fig . 26 .)
+38
+i TANK PLATOON
+0 Attack at once ; fire with atl guns at the enemy antitank gun .
+Frousa 28 .-Attack more dangerous target.
+39
+11
+0 Do not shoot at a larger but less dangerous target (ammunition
+section) while an enemy antitank gun is moving into position .
+11 ARMORED FORCE^ FIELD` MANUAL
+Do not fire with a machine gun at an antitank gun going into
+position at ranges in excess of 800 yards .
+© Fire with the 37-mm or 75-mm gun at the antitank gun going
+into position .
+FIeuaE 29 .-Firing at an antitank gun going into position .
+40
+TANK PLATOON
+0 Do not attack an antitank gun frontally at 350 yards or greater
+range by machine-gun fire . The machine-gun projectiles do not
+penetrate the armor plate at ranges greater than 350 yards .
+® Fire at the target with the 37-mm armor piercing or 75-mm high
+explosive or armor piercing shell . It will penetrate the armor
+plate, destroy the weapon, and eliminate the crew .
+FIGURE 30 .-Attacking an antitank gun frontally.
+41
+11
+11 ARMORED FORCE FIELD MANUAL
+Q Do not
+yards away) pointing
+gun
+a
+any
+direction .
+gun
+(400
+© Fire with all guns at the unprotected flank of the antitank gun .
+Frau= 31 .-Firing at a hostile antitank gun.
+4 2
+TANK PLATOON
+p Do not fire at antitank gun with 37-mm tank gun at close range .
+QIt is sufficient to use the machine gun, as armor piercing
+machine-gun ammunition will penetrate the armor plate at short
+ranges .
+FIGURE 32 .-Firing at hostile antitank gun .
+43
+11
+11 ArtMORED FORCE FIELD MANUAL
+Q When an oncoming enemy tank is'met, do not keep moving toward
+it, firing during movement, if suitable stationary positions are
+available .
+Q Move into position at once and take the enemy tank under fire
+with armor piercing projectiles from your stationary tank .
+FIGURE 33.Attacking enemy tanks.
+4 4 486462°-42--4
+45
+TANK PLATOON
+11
+/000 ros
+Q Do not attack an enemy tank with the 37-mm tank gun at more
+than 800 yards . This is a waste of ammunition,
+(D Let enemy tank approach to within at least 800 yards range .
+FIGURE 34 .-Firing at hostile tanks .
+O-~ 0
+Q Do not attack an enemy tank with explosive shells .
+0
+r7
+Q Fire with armor piercing shells .
+FIGURE 35 .-Attacking enemy tanks .
+11 ARMORED FORCE FIELD MANUAL
+ODo not . fire at an enemy machine gun, not emplaced, with the
+slow-firing 37-mm tank gun using high explosive or armor
+piercing shell . This is a waste of ammunition .
+0 Eliminate the enemy machine-gun crew by fast-firing machine
+guns or use 37-mm cannister if within 200 yards .
+FIGURE 36.Attacking hostile machine guns.
+4 6
+TANK PLATOON
+e
+0 Use 37-mm or 75-mm explosive or armor piercing ammunition .
+Ptom tz 37.-Attacking an emplaced machine gun .
+47
+0 Do not fight an emplaced machine gun with a machine gun .
+it
+11 ARMORED FORCE FIELD MANUAL
+0 Do not try, tq destroy the crew of an enemy machine gun at
+close range with explosive shells .
+CAt°"close rarige,°'use machine guns to -destroy living targets . If
+range is less than 200 yards, use cannisters .
+FIGURE 38 .-Attacking a hostile machine gun at close range .
+48
+TANK PLATOON
+p Do not fire with machine gun at loopholes of the bunker . This
+will probably not be successful,
+0 Destroy the loopholes by 37-mm or 75-mm tank gun fire, using
+armor piercing projectiles .
+FIGURE 30,Firing at loopholes in a bunker .
+49
+11 ARMORED FORCE FIELD MANUAL
+0 Do not fire with high explosive on a target not exactly determined .
+I
+WINO
+0 Screen with smoke shell the view of the suspected weapon, thus
+hindering its effectiveness .
+Frouu 40.-Firing at target the position of which has not been
+exactly determined .
+WIdID
+(9
+-4
+or-r 0
+0 When the wind is blowing from the side, do not aim smoke shell
+at the front of the target .
+~(!dD
+0 Aim the shell to the windward side . The wind will blow the
+smoke in front of the target .
+FIGORE 41 .-Use of smoke shell, flank wind .
+50
+0 When the wind is blowing from your front, do not place the
+smoke shell in front of the target . This does not blind the
+antitank gun.
+- s- h'rND
+X' Yos
+0
+shell against definitely located Infantry
+weapons .
+/J
+0 O 700 YO5 ~~
+0
+00 Destroy infantry weapons by high explosive shel :s and ricochet
+firing .
+FIGURE 43 .-Use of smoke shell against small arms .
+51
+0 Do not use smoke
+TANK PLATOON
+-Woo)
+Ar.
+0In this case, place the shell behind the target ; then the wind will
+screen it completely .
+FIGURE 42 .-Use of smoke shell, head wind .
+WI~D
+0
+11
+11 ARMORED FORCE FIELD MANUAL
+900YDS
+0 While changing position, do not answer antitank gun . fire with
+explosive shells .
+0 Blind the antitank gun immediately with smoke shell, proceed to
+the next position, and from there destroy the antitank gun with
+explosive shell .
+FIGURE 44 .-Use of smoke shell to cover maneuver.
+52
+TANK PLATOON
+53
+11
+0 Do not try to eliminate an observation post with explosive shell .
+Q Blind the observation point with smoke shell and then destroy it .
+FIGURE 45,Use of smoke shell to, .blind an observation point .
+CHAPTER 3
+CONTROL, ORDERS, AND RECONNAISSANCE
+• 12 . CONTROL,-a. Purpose.--Control is essential to coordinated
+action . Loss of control leads to uncoordinated and
+uneffectual effort . The platoon leader must at all times be
+able to direct the maneuver of his platoon and to concentrate
+the fire power of the platoon as desired,
+b . Tactical control.-The platoon leader controls the platoon
+initially by clear, definite orders as to direction of attack,
+zones, and objectives. During the attack he controls movement
+by means of radio orders and flag signals . Less frequently,
+orders will be given to assembled tank commanders
+during lulls in the fighting.
+c . Fire control .-For fire control of individual weapons by
+the tank commander, see Field Manual for the weapon concerned.
+For list of Field Manuals and Technical Manuals,
+see FM 21-6 . Prior to the attack the platoon leader points
+out known targets and indicates which weapons are to fire
+on these targets. For the advance, he designates tanks to
+guard to the front, right, and left . (See FM 17-12, 23-80,
+23-81, and 23-95 .) ' During the attack the platoon leader by
+radio directs the fire of his platoon or of a .tank or section
+upon certain targets if these targets have not already been
+adequately engaged .
+∎ 13 . ORDERS,-a. Initial orders are given to the assembled
+tank commanders from a point from which as much as practicable
+of the area over which the platoon is to advance can
+be seen . If this is impracticable, show the zone and direction
+of advance on a map, sketch, or aerial photograph . Indicate
+objectives and rallying points . Make the order brief
+but clear . The order should include-
+(1) Information of the enemy and terrain .
+(2) Mission of the company .
+(3) Mission of the platoon .
+(4) Fire support, that is, mortar, assault gun, or artillery .
+(5) Attack position .
+(6) Direction of attack .
+54
+TANK PLATOON
+1 3-14
+(7) Objectives.
+(8) Formation of platoon .
+(9) Scheme of maneuver, that is, attack straight to front
+or one section making envelopment, orders for each section .
+if platoon does not attack in one wave.
+(10) Time of attack or signal for the attack,
+(11) Rallying point.
+(12) Alternate rallying point .
+(13) Special signals, if any.
+b. During, the advance, orders are given by radio or by flag
+signal, except during lulls in combat, when section leaders
+or tank commanders may be assembled for receiving orders .
+FIGURE 46.-Do not give orders from map or by description alone if
+you can reach a position from which terrain and enemy may be
+pointed out .
+∎ 14 . RECONNAISSANCE .-..a. The tank platoon is not a reconnaissance
+unit although at times it may be used for
+reconnaissance purposes. When on purely reconnaissance
+missions, its functions are as described in FM 17-20 . This
+paragraph covers employment and battle reconnaissance .
+b. The tank has limitations as a reconnaissance vehicle due
+to limited observation and noise . However, in many situations
+tanks must be used for reconnaissance because of their
+55
+14
+ARMORED FORCE FIELD MANUAL
+armament and armor protection . Much of the employment
+reconnaissance, because of these restrictions and also to prevent
+discovery of the presence of tanks, must be made on
+foot. However, every effort should be made to thoroughly re=
+connoiter the terrain and the enemy positions . Employment
+reconnaissance may be classified as hasty and deliberate .
+FIGURE 47.-Give order from point where terrain and enemy can
+be seen .
+i
+(1) When attacking from march column or when making
+a deep movement into enemy held terrain, deliberate reconnaissance,
+because of the lack of time, may not be possible .
+In such case the platoon leader makes a hasty map
+reconnaissance, gains all the information he can from his
+company commander, and passes all information along to
+his tank commanders . He tentatively selects his route of advance
+from the map or carefully studies the route designated
+by the company commander. He notes what will apparently
+be difficult places, places where cover Is meager or lacking,
+and available cover . As he advances, he moves from observation
+point to observation point and continuously studies
+the ground to the front and flanks.
+(2) (a) During combat, reconnaissance Is continuous . The
+platoon leader and individual tank commander constantly
+56
+TANK PLATOON 14
+observe in order to choose routes, select positions, and find
+enemy installations . The platoon leader must keep his company
+commander informed concerning the situation, He
+should constantly ask himself the following questions :
+1. Where am I?
+2. Where is the enemy?
+3. What is my mission?
+4. What is the enemy doing?
+5. What weapons is he using?
+6. How can I best use the terrain?
+(b) In his reports to the company commander, the platoon
+leader should answer all or part of the following questions :
+1. Where am I?
+2. What am I doing?
+3. Where is the enemy?
+4. What is the enemy doing?
+5. What weapons is he using against me?
+6. What is enemy's strength?
+7. What is on my flanks?
+8. What are my losses?
+9. What am I going to do?
+(3) In a coordinated attack, particularly In the penetration
+of a position, there will usually be more time for reconnaissance.
+If infantry or reconnaissance units are in contact
+with the enemy and time Is available after receipt of
+orders (see FM 17-22), the platoon leader, section leaders,
+tank commanders, and drivers if possible, reconnoiter the
+ground from the attack position to the line of departure .
+From an observation point, the zone of advance is studied
+as far forward as practicable and routes for each tank
+selected . Maps or aerial photographs are studied to determine
+character of terrain beyond, the limit of vision . This
+reconnaissance cannot be too detailed .
+c. During battle, reconnaissance is continuous to discover
+enemy positions and weapons, routes of approach, detours
+around Impassable ground, and anything that will affect the
+progress of the platoon .
+d. The platoon leader must keep his company commander
+fully informed of the results of reconnaissance. When reporting,
+be sure to give your own position .
+57
+1 4 ARMORED FORCE FIELD MANUAL
+FIGURE 48 .--Observation.
+58
+COVERED APPROACHBUT
+MAY BE MARSHY
+CHAPTER 4
+MARCHES
+15. GENERAL .-For detailed discussions of marches, see FM
+17-10, 17-50, 17-32, 17-33, and 25-10 . For security on the
+march, see chapter 5 .
+a . A good march places men and equipment at their destination
+at the proper time and in condition to fight . The success
+of a march depends upon good march discipline which
+can be obtained only by practice and rigid enforcement of
+march rules .
+b . The platoon, except when detailed on security missions,
+marches as part of the company. The platoon leader, when
+contact with the enemy is not imminent, marches at the head
+of the platoon and is responsible for the proper distance from
+the unit ahead . He frequently observes to the rear to check
+on his platoon . When contact is imminent, platoon leaders
+will usually march at the head of the company and platoons
+are conducted by the platoon sergeant,
+c. Radio silence is maintained when in the presence of the
+enemy and as otherwise ordered. However, radio receivers
+are turned on and tuned to the battalion or other frequency as
+directed in order that immediate air alarm may be transmitted
+to all tanks .
+d . A march must not be considered as a joy ride . All men
+must be alert . Weapons must be ready to repel a ground or
+air attack. Tank commanders observe from the turret and
+keep close watch for enemy air or ground troops and for distance
+to the tank ahead .
+e . The following should be particularly stressed (see also
+FM 17-32) :
+(1) Keep proper distance from vehicle ahead.
+(2) Glance to rear occasionally to observe march of other
+vehicles .
+(3) Watch for air or ground attack .
+(4) Keep to right of road when there is two-way traffic .
+Travel in center of high-crowned road when there is one-way
+traffic but watch out for vehicles trying to pass .
+59
+29
+ARMORED FORCE FIELD MANUAL
+29 . COVERING DETACHMENT .As a covering detachment, the
+platoon precedes the company or battalion from an assembly
+position to the line of departure and protects from surprise .
+The covering detachment moves on a broad front, 100 to 200
+yards between tanks, and precedes the leading echelon by
+500 to 1,000 yards .
+T 0 0
+1000-
+2000
+YDS
+120
+FIGURE 100 .-Covering detachment.
+CHAPTER 6
+OFFENSIVE ACTION
+.
+SECTION I
+GENERAL
+• 30. GENERAL .-Offensive action of armored force units is
+discussed in FM 100-5 and 17-10 . The tank is primarily an
+offensive weapon. Opportunity is sought at all times to
+exploit its characteristics of fire power, mobility, armor protection,
+and shock action .
+• 31 . FORMATIONS The various formations described herein
+are suited for particular types of operation . They should
+be practiced constantly so that one formation maybe quickly
+assumed from any other formation . (See FM 17-5 .)
+a. Line.-This formation develops great fire power to the
+front . It is suitable for leading waves of the attack when
+heavily supported by other weapons . It has no depth. It is
+useful for a covering force .
+b . Line of sections.This formation might also be column
+of sections . It does not develop as much initial fire power
+to the front as does line . . However, it lends itself readily to
+fire and maneuver, one section occupying firing positions to
+protect the advance of the other . The formation is easy to
+control .
+c. Column .-This formation develops little fire power to
+the front. It is useful primarily for approach marches,
+passing through heavy woods, and passing defiles . It is easy
+to control
+d. Echelon .-This formation is useful for a flank platoon .
+It develops great initial fire power either to the front or flank .
+It is difficult to control .
+121
+Paragraphs
+BECTIOx I . General 30-32
+II . Tank crew 33-35
+III . Tank platoon 36-92
+31 ARMORED FORCE FIELD MANUAL
+200-800 YDS --
+0100-
+400
+YDS 0
+01 r240000 v-
+LINE OF SECTIONS
+/1 YDS_~
+-200.400 YDS2
+WEDGE INVERTEDWEDGE
+FIGURE 107 .-Formations .
+e . Wedge,-Wedge is a modified line-of-sections forma
+tion . It affords good fire power to the front and either flank,
+It is easy to control as far as direction is concerned . However,
+its ire power is difficult to control due to the fact that
+the platoon leader is not in a position to see his sections
+readily.
+122
+TANK PLATOON
+31-32
+f . Inverted wedge .-Without radio, this formation is difficult
+to control as far as direction is concerned. However,
+when radio is operating ; the platoon leader can keep his platoon
+under close control -as, he is able to see all tanks and at
+the same time search the terrain for targets . He can by
+radio readily direct the movement of either section . This
+formation often results in combat when the platoon leader
+sends one section on an enveloping movement, covers its
+movement by the fire of the other section, and orders both
+sections to assault when the enveloping section is in position .
+IN 32 . INSTALLATIONS .-The installations with which the tank
+platoon or section is primarily concerned are the assembly
+area, attack position, line of departure, and rallying point .
+a. Assembly area.-The assembly area is an area in which
+troops preparing to attack are assembled . In this area the
+tank platoon checks tanks, makes necessary adjustments on
+tanks and equipment, refuels tanks, checks on food and water,
+and receives information of the enemy and of the terrain .
+Orders for the attack may be issued in the assembly area . .
+Usually the general plan of attack will be given here and .
+final orders issued in the attack position . The assembly
+area is normally beyond hostile medium artillery range .
+b . Attack position.-The attack position is the last covered .
+or concealed position before the line of departure is reached . .
+Here last-minute checks are made on vehicles and final Ordersissued.
+Here the final coordination with infantry is effected . .
+Tanks must not stay in the attack position more than a few
+minutes. A long stay will cause surprise to be lost and will .
+expose the platoon to hostile artillery fire .
+c . Line of departure.-The line of departure is a well
+defined, easily recognizable terrain feature such as a small
+stream line or edge of a woods . Separate lines of departure
+may be given for individual platoons or companies . This is,
+particularly true when a portion of the unit is making an
+envelopment .
+d. Rallying point,The rallying point is a position where
+the unit reorganizes after the attack . It should be a welldefined,
+easily recognizable terrain feature. It should afford
+concealment . It is usually in front of an objective. An_
+123
+32
+ARMORED FORCE FIELD MANUAL
+alternate rallying point, usually the attack position, is designated
+to be occupied in case the rallying position is unobtainable
+or untenable . A series of rallying points may be
+designated, one for each objective . The platoon leader may
+designate a rallying point but ordinarily this point will be
+designated by the company commander . At the rallying point
+4,000-
+10,000
+YDS
+LD
+F ataa 108,-Installations,
+124
+33 . COOPERATION .-a. The speed, fire power, armor protecon,
+and crushing power of the tank must be used to the
+tmost . To secure the maximum effectiveness of these
+haracteristics, the tank commander must control his crew
+nd the crew must have the maximum of coordination and
+ooperation .
+b, The tank commander in accordance with orders of the
+llatoon or section leader, or on his own initiative when such
+rders are lacking, controls the direction of movement by
+rders to the driver and controls the fire by orders to the
+pinners. Crew members must be trained, however, to act
+nstinctively. The tank commander should not have to give
+ong, detailed orders. In fact, he will not have time to do
+that. His orders must be brief .
+c. The tank commander directs the driver to drive in a
+ertain direction or on a certain point . From time to time he
+ells him to vary the direction as necessary . The driver makes
+hanges of directionao avoid irregularities in the ground, to
+ake advantage of good terrain, and to avoid antitank gun fire .
+He must not make a sudden change of direction or stop
+without notifying the tank commander and gunner. Such
+action will interfere with the aim of the gunners .
+d. The tank commander designates targets to the gunners
+and controls the fire of the guns by specifying the type of
+ammunition, if necessary, and by adjusting fire . The gunner
+must instinctively know and use the proper type of ammunition
+.
+1 34 . .O-PEFRiAgTuIrOeNs 109 to 117, inclusive, depict
+methods of operation and technique for the individual tank .
+486462°--42-9
+1 2 5
+TANK PLATOON
+32-34
+e platoon posts security, reorganizes, makes adjustments in
+mmunition, and cares for casualties, and the platoon leader
+ports the status of the platoon to the company commander.
+SECTION II
+TANK CREW
+34
+ARMORED FORCE FIELD MANUAL
+I
+FIGURE 109 .-Beat down crew of enemy machine gun with fire, and
+then crush the gun . Tanks are permitted to move somewhat
+(about 60 yards) to the right or left of their line of advance to
+do this . Beware of antitank mines,
+I
+p Tank No . 1 should hold its line of advance and let tank No . 2
+take care of the enemy machine gun. Tank No . 1 may Indicate
+location of enemy machine gun by firing tracer .
+FraURE 110,Leaving direction of advance .
+126
+TANK PLATOON
+1 2 7
+34
+Q Tank No. 1 should not leave its line of advance to crush an
+enemy machine gun` lying a considerable distance (more than 50
+yards) to the right or left .
+34 ARMORED FORCE FIELD MANUAL
+1 2 8
+TANK PLATOON
+T Do not disregard members of enemy machine-gun crew who have Q Do not fight against the plainer suu £ L5 uw6ou
+fled to shell holes .
+there is a more dangerous, although smaller, target (machine
+gun) .
+0 Mop up enemy crew by running over the shell hole .
+p Destroy the most dangerous target although it is small and
+FIGURE 111 .-Crush machine guns near direction of advance . Be.
+indistinct .
+ware of antitank mines .
+FIGURE 112-Strike more dangerous target.
+129
+34
+34 ARMORED FORCE FIELD MANUAL
+0 Do not immediately abandon a tank which has become
+immovable .
+0 Remain in the tank and participate in the combat as long as
+possible .
+FIGURE 113.-Abandoning tank.
+1 3 0
+TANK PLATOON
+© When tank No . 1 becomes immovable and Its crew is endangered
+by attack of the enemy, tank No . 2 must support and assist
+tank No . 1 .
+Q Tank No . 2 assisting tank No . 1 .
+FIGURE 114 .-Assist disabled tanks .
+131
+34
+34 ARMORED FORCE FIELD MANUAL
+Q Do not use saddle between two hills without seeing what is
+behind the hills .
+Q Seek out and destroy heavy weapons in position behind the hills .
+FIGURE 115 .-Beware of ridges .
+1 3 2
+i r
+TANK PLATOON
+133
+34
+34 ARMORED FORCE FIELD MANUAL
+194
+135
+TANK PLATOON
+85-37
+•
+35 .. ABANDONING TANK .-For procedure in abandoning tank
+see FM 17-5 .
+SECTION III
+TANK PLATOON
+• 36. GENERAL,-The tank platoon usually operates as a unit
+although sections or individual tanks may operate alone in
+certain situations . The platoon commander controls his
+! tanks by section or by individual tank .
+5 37. FIRST ECHELON.--a. Tanks of the first echelon advance
+rapidly under support of all available supporting weaponsartillery,
+infantry weapons, and other tanks . When they
+meet resistance, platoons use fire and maneuver to reduce
+,that resistance . Tank platoon leaders keep their company
+(commander constantly informed of the situation, their losses,
+lenemy resistance, and action taken. Call upon the company
+commander for artillery fire as needed.
+b. The platoon commander of the leading wave of the first
+echelon should comply with the following :
+(1) Do not permit tanks to be diverted from their primary
+mission by firing at unimportant targets .
+(2) When resistance is met, use fire and maneuver.
+(3) Select targets and give fire missions to the platoon .
+(4) Use speed and terrain to accomplish mission .
+(5) After a local attack, concentrate the platoon, reorganize,
+and continue on mission.
+(6) Keep company commander constantly informed of
+the situation.
+c. The tank platoons in the second wave of attack advance
+by bounds from firing position to firing position and give
+continuous support to the leading wave .
+(1) Figure 118 shows diagrammatically a method of advance
+and support. The arrows show the bounds made by
+each tank in supporting the leading wave . The circled symbols
+show firing positions taken by each tank .
+(2) Tanks of the second wave must advance rapidly behind
+the first wave. Some tanks must always be within supporting
+distance. Crews of the tanks in position must be
+37
+ARMORED FORCE FIELD MANUAL
+extremely alert for targets . The tank cannot remain in .position
+very long as it will become a very vulnerable target .
+(3) Tanks emerging from the edge of woods or approaching
+within 800 yards of a ridge must always be supported by
+tanks in position .
+(4) Tank platoons of the second wave may support the
+leading wave by indirect fire methods when such methods
+can give prompt support.
+d. Tank platoons in the second wave of attack protect the
+flanks and are ready to repel counterattacks,
+}
+}
+0 0
+0
+00 0
+.ACV,A/W7N SET MOPLWCOEVAMCWNS I TAOAF CENOT SWAVE
+(4001
+00
+0 AV,
+FIGURE 118 .-Support of leading wave by second wave .
+I
+136
+MCPMYWECME( NOTE TOMfE EMNE7 MYP°o WSAiVTEIW AMA
+171E I"WAVE E AU APVAMCIAE S~Cf~p~1PTEP NV
+PLATOOT'I POOP
+EPICMT SEC770M SONFCMTTASAPRNWS8 OAS/I7KW
+EITIAM WAiNEECITTAM~ESyVPTNEPR1STH
+IONT AYTEAPST TTAIE F(AAAC EtCf r1WAAEPT IESECOCYTTIIAOSINA7Y oMPYTOS m7n Ia^v W ATVFMI SSaTymPFR AT WOKE TMIE THE 2 WAVE GOES INTO
+ATLAMKAE SO OANP I/RNONATT~P ZT~EORWREAAWI NC ,CAE,N,TA.A.T.E ST OA AONSDC IOMf EHTIOSWN PIAHEAPYAMCF11rAWI ARW
+TOCA;
+TANK PLATOON
+ENEMY
+137
+SECOND WAVE
+FIGURE 119 .-A method of support of leading wave by indirect fire .
+• 38. SECOND ECHELON. a. The second echelon follows the
+first echelon close enough so that the enemy will not have
+time to reconstitute his antitank defense . This echelon, in
+addition to its mission of destruction of hostile automatic
+weapons and antitank guns passed over by the first echelon,
+protects the flanks and repels counterattacks from the flanks .
+b. Some platoons of the second echelon may be detailed
+to support by fire the first echelon . In such operations, their
+action is the same as the second wave of the leading echelon .
+c. The infantry may attack with the second echelon . The
+infantry attacks with the leading wave. The tanks do not
+38
+LEADING WAVE
+38-40
+ARMORED FORCE FIELD MANUAL
+slow down to the pace of the infantry but keep on moving
+fast. Succeeding waves pass through, the infantry .
+0 39. THIRD ECHELON,-a. The third echelon of attack usually
+attacks with the infantry and assists the infantry to advance .
+The infantry may advance with the second echelon (see
+par. 38) . This echelon will run away from the infantry
+and the third echelon of tanks then takes over the task of
+assisting the infantry.
+b. The infantry may advance behind the second echelon of
+attack in carriers until forced to dismount. When the infantry
+is forced to dismount, the tanks first take position to
+cover this action and then, assisted by the infantry, attack
+the enemy resistance by fire and maneuver .
+∎ 40. ATTACK WITH INFANTRY.-a. When the infantry attacks
+first to secure ground from which a tank attack may be
+launched, tanks when practicable take position to assist the
+attack by fire . This assistance may be either by direct or
+indirect fire . , Targets are machine guns and other automatic
+weapons . Pill boxes or emplacements may be demolished
+by armor piercing ammunition . The tank platoon
+leader is assigned a sector in which to support the infantry .
+He may be assigned targets or may fire on targets as they
+disclose themselves,
+b. When attacking through infantry in position, arrangements
+are made with the infantry for a . passage of lines .
+These arrangements include paths to be taken by the tanks
+and means for infantrymen to identify themselves so they
+will not be run down by the tanks . All members of the tank
+crew must be particularly alert to prevent injury to their
+own infantry.
+c. When attacking with infantry, the following should be
+observed when applicable :
+(1) The platoon advances by fire and maneuver, one section
+always covering the advance of the infantry and the
+other section .
+(2) The platoon joins in the fire fight only against dangerous
+targets . Do not waste ammunition on hostile riflemen
+at long range . The infantry supporting weapons will take
+care of that .
+1 3 8
+(3) Be prepared to protect the infantry against a mechanized
+attack .
+(4) Destroy antitank guns immediately .
+(5) If the platoon attacks ahead of the riflemen, hold the
+ground gained until the riflemen close up .
+(6) Keep close contact with the rifle unit commander .
+Q In approach, do not use a wide formation which may cause part
+of the tanks to strike an obstacle and be lost .
+TANK PLATOON
+0
+0
+139
+0
+40
+p In approach, use a deep formation so the platoon commander has
+all the tanks behind him and can guide or halt them as necessary .
+FIGURE 120 .-Formation in approach,
+40 ARMORED FORCE FIELD MANUAL
+p) Do not begin a fire fight from a deep formation because fire of too
+few weapons can be brought Into play .
+0
+Begin the fire fight from a wide front so fire power of all weapons
+can be Immediately brought into play .
+FIGURE 121 .-Formation for beginning fire fight.
+1 4 0
+I
+I
+~
+I
+I
+I
+I I 0
+I O
+Q Do not move all tanks of the platoon forward at one time . This
+causes many targets to be overlooked . Observation from a moving
+tank is difficult .
+0
+(KD
+TANK PLATOON
+0
+Q Move platoon forward by having some tanks observe while others
+move. By alternating movement and halts, the great advantage
+of shooting and observing from a stationary tank can be fully
+utilized .
+FIGURE 122 .-Method of advance .
+486462 °-42-10
+141
+1 0
+40
+40 ARMORED FORCE FIELD MANUAL
+0 Do not have all tanks of the platoon shoot at a discovered antitank
+weapon while moving .
+G Part of the platoon fires from halted tanks In defilade and the
+remainder of the platoon moves to envelop the enemy. The
+antitank weapon can usually be destroyed by the well-aimed fire
+of stationary tanks .
+FIGURE 123 .-Attacking an antitank gun .
+14 2
+TANK PLATOON 40
+FIGURE 124,-Observe occasionally from a halted tank . The field of
+view of the observer (especially In flank tanks) is increased by
+halting, Fire against an antitank target can better be observed .
+Halt in defilade or concealment .
+142
+40 ARMORED FORCE FIELD MANUAL
+0 4
+J Do not advance the platoon on an open flank in a line or wedge
+formation . In such formation, the observation and ability to
+fire to a flank is limited .
+T
+0 Echelon the platoon on the open flank . In this formation, the
+weapons of all tanks have a full field of fire toward the Ranks .
+FIGURE 125-Formation for an open flank .
+1 4 4
+TANK PLATOON
+0 0
+p, When confronted with both an antitank gun and a machine gun,
+do not attack the machine gun first and thus allow the more
+dangerous weapon, the antitank gun, to continue firing .
+® Destroy by fire and movement the enemy antitank gun,
+disregarding the less dangerous targets .
+FIGURE 126,-Destroy more dangerous targets .
+145
+40
+40 ARMORED FORCE FIELD MANUAL
+Q Do not continue movement when the leading wave of tanks halts.
+The platoon then becomes bunched, providing an excellent target
+for the enemy . Bunching also limits use of tank weapons .
+9A 9
+9
+p When the leading wave of tanks is stopped, halt the platoon at
+once under cover at a distance from the leading platoon .
+FIouaE 127 .-Halt platoon when leading wave of tanks stops .
+14 6
+TANK PLATOON
+Q Do not cross a hill with all tanks in movement and no tanks
+ready to fire .
+p The platoon should cross a hill by alternating movement with
+halts, In this way, belted tanks cover movement of remainder
+of platoon.
+FIouaE 128.-Crossing a hill or ridge .
+147
+40
+40 ARMORED FORCE FIELD MANUAL
+A
+0 Do not hold to the mission to fight enemy infantry In spite of
+the fact that the leading platoon has suffered heavy losses from
+antitank weapons .
+1 4 8
+® When the leading wave has suffered losses from enemy antitank
+guns, Immediately abandon the infantry mission and attack, by
+fire and movement, the most dangerous weapons .
+FIGURE 129,-Attack more dangerous target .
+TANK PLATOON
+149
+41-42
+0 41, TANK VERSUS TANK ACTION .-a. In tank versus tank
+action, it is essential that tank crews be able to recognize readily
+hostile tanks, that they know the capabilities of these tanks,
+the vulnerable points at which to fire, and the capabilities of
+their own and enemy tank weapons . In tank versus tank
+action, every advantage must be taken of terrain, the sun,
+direction of wind, weather, and your own weapons .
+b . If outranged by hostile weapons the following may be
+done:
+(1) Move to concealed positions and send some tans to
+the enemy flanks .
+(2) Withdraw behind your own antitank gun defenses,
+keeping out of range of the enemy weapons,
+(3) Close on the enemy at maximum speed, attacking from
+direction of the sun if practicable,
+c. If your weapons out-range those of the enemy, close to
+effective range of your weapons but keep out of range of the
+enemy and halt to fire.
+0 42. ATTACKING FORTIFICATIONS .Tanks avoid attacking fortifications
+when possible. However, it may be necessary to
+attack bunkers, pill boxes, and fixed gun emplacements in
+order to effect a break-through, These fortifications are
+attacked by small teams consisting of a tank platoon, an
+infantry platoon;°and engineers, supported by artillery and
+mortars, The method of attack will vary with the terrain,
+the armament of the emplacement, and the wind direction .
+a. Attacking machine-gun emplacements .-In attacking a
+machine-gun emplacement, a section of tanks covered by the
+remainder of the platoon rush the emplacement and destroy
+it by crushing . If the emplacement cannot be destroyed by
+crushing, infantry or engineers following the tanks destroy
+the personnel by dropping a grenade in an opening or by
+use of a flame thrower .
+b. Destroying antitank gun emplacement .-In attacking an
+antitank gun emplacement, methods must be varied according
+to wind and terrain conditions,
+(1) If wind conditions are favorable, that Is, from flank or
+down range-
+(a) Artillery and air bombardment destroy enemy artillery .
+42 ARMORED FORCE FIELD MANUAL
+FIGURE 130 .-When enemy tanks are encountered, place some tanks
+in defilade and maneuver others to flank .
+1 5 0
+2000 YDS
+TANK PLATOON
+ENEMY GUNS
+EFFECTIVE
+AT 1500 YDS
+151
+42
+FIGURE 131 .-If you cannot maneuver to the flank or take up
+defiladed position, withdraw to your own antitank defense .
+42
+ARMORED FORCE FIELD MANUAL
+2000 YDS
+~ \
+EFFECTIVE
+RANGE
+rA
+ENEMY GUNS
+l
+1500 YARDS
+\~ 1
+FrcunE 132 .-If you cannot withdraw to antitank defenses, close
+with enemy at maximum speed and attack him from the sun .
+Your supporting mortars should place smoke on the enemy 1f
+within range,
+1 5 2
+000 000
+N} 0LO }
+TANK PLATOON
+42
+EFFECTIVE
+RANGE
+ENEMY GUNS
+800 YARDS
+rt
+( V )
+(`v)
+(`V )
+1500 YARDS ,
+T
+0 0 0
+FIGURE 133 .-If you outrange the enemy, close to effective range but
+keep out of his range .
+153
+EFFECTIVE
+RANGE
+A `
+rq\
+A1)
+YOUR GUNS \A '
+800 YARDS
+V V V J EFFECTIVE
+RANGE
+YOUR GUNS
+42
+TANK PLATOON
+42
+ARMORED FORCE FIELD MANUAL
+(b) Just before the attack, artillery places a concentration
+/500YDS-~
+on the emplacement and adjacent infantry.
+i
+(c) Smoke is placed on the emplacement and those adj
+acent .
+(d) The tanks, followed closely by engineers and infantry,
+rush forward . The tanks crush the protecting wire and the
+infantry and engineers destroy the hostile gun crew .
+(e) Infantry automatic weapons keep down the fire of adjacent
+riflemen. After the emplacement is taken, tanks and
+infantrymen destroy the adjacent troops .
+(2) If wind direction is not right, that is, if it is blowing
+toward you, the procedure is as follows :
+(a) Artillery and air bombardment is used as in (1) above .
+(b) Smoke adjacent emplacements .
+(c) 'Infantry protected by automatic weapons and fire of
+one section of tanks moves forward,
+(d) One, section of tanks precedes the infantry .
+(e) The other section of tanks fires on the loopholes of the
+emplacement .
+(() The leading section of tanks finds a good position and
+brings fire on the loopholes and the rear section then advances .
+(g) One section of tanks crushes protective wire while
+other section covers this action .
+(h) Infantry' and engineers then destroy the emplacement .
+c . Attacking emplacements by platoon alone .-Should the
+platoon have to attack the emplacement alone, use 75-mm
+smoke shell to blind the defenders while one sections rushes
+the emplacement.
+0ENEMY
+0 Do not fight an enemy antitank gun when an enemy tank is
+approaching ; the enemy tank is the more dangerous weapon .
+T From position, defend at once against the enemy tank attack .
+FIGURE 134 .-Attack more dangerous target .
+0 Do not ram an enemy tank . Your own tank may be rendered
+useless .
++0 Destroy enemy tank by fire .
+FIGURE 135.-Do not ram an enemy tank. Destroy it by fire .
+1 5 4
+155
+CHAP hi-t VII
+DEFENSE
+i 43 . GENERAL .-Defensive action by armored units is covered
+in FM 100-5 and FM 17-10. Tank plattons in defense are
+used as counterattacking units . They are not used as armored
+pill boxes .
+∎ 44. PROCEDURE IN DEFENSE.--a . The tank platoon will be part
+of a larger unit used as a counterattacking force . This force
+makes limited objective attacks . The platoon functions as in
+any other attack .
+b, When in a defense position the tank platoon leader, his
+tank commanders, and drivers make a thorough reconnaissance
+of the ground over which they may attack ., Several
+plans of attack may be given and the ground over which each
+will take place must be thoroughly known . Some of this
+reconnaissance must be made on foot . Landmarks must be
+noted and complete plans made for the attack,
+9 45. WITHDRAWAL,--a . The tank platoon, will usually be part
+of a larger force. With this force it makes fast limited objective
+attacks to disorganize the enemy and then rapidly withdraws
+. In this action'the platoon may be used to give supporting
+fires as in offensive action .
+b . The platoon may also be used to cover road blocks . In
+such action, tanks take position where they can cover by fire
+the approaches to the road block and also be mutually supporting
+in case the enemy sends dismounted men around the
+block .
+1 5 6
+TANK PLATOON
+486462
+42----11 157
+45
+0a
+0Nz0
+U
+to
+45 ARMO3ED FORCE FIELD MANUAL
+Frouar. 137 .-Attacking emplacement, wind conditions not favorable .
+1 58
+INDEX
+159
+Paragraphs Page
+Abandoning tank
+Advance party
+Ammunition
+Antitank guns 11,
+Artillery support
+Assembly area
+Attack :
+35
+25
+9-11
+125
+85
+30
+34, 40 31, 125, 139
+13, 25
+54, 85
+23,32 85, 123
+135, 149
+121
+31,
+125,138
+149
+123
+125
+135
+149
+138
+73
+1
+54
+125
+3
+120
+156
+3, 135
+Echelons 37-39, 41
+Formations 31
+Of antitank guns 11,34,40
+Of fortifications
+Position
+Tank crew In
+Tank platoon in
+Tank versus tank
+With infantry
+Bivouac
+Characteristics
+Control
+Cooperation
+Coordination
+Covering detachment
+Defense
+42
+32
+33
+36-42
+41
+40
+22
+3
+12
+33
+4
+29
+43,44
+Echelons of attack 4,37-39
+Fire and maneuver 4 3
+Fire control 12 54
+Flank guard 26 104
+Formations 31 121
+Fortification, attack 42 149
+Fundamentals 4,37 3,135
+Halts 17,21 60,73
+Infantry, attack with 40 138
+Installations 32 123
+Line of departure 32 123
+Maintenance 18 60
+Marches :
+Discipline 15 59
+Distance 16 60
+General 15 59
+Halts 17 60
+Maintenance 18 60
+Rate 16 60
+Security 20,21 .25-27 70,73,85
+Mass 4 3
+FM 17-32, Armored Force Field Manual : The
+Tank Company, Light and Medium (Extract),
+1942
+II
+D 2, 7 (5) ; B 6 (5) ; IR 2, 7 (5) ; Bn and H 17, 18 (10) ;
+I Bn 2, 5-10 (3) ; C 17 (20) ; IC 2, 5-7, 11 (5) .
+(For explanation of symbols see FM 21-6 .)
+z
+III
+WAR DEPARTMENT,
+WASHINGTON, August 2, 1942 .
+FM 17-32, Armored Force Field Manual, The Tank Company,
+Light and Medium, is published for the information
+and guidance of all concerned . TABLE OF CONTENTS
+[A.G.062 .11 (8-28-42) .] Paragraphs Page
+BY ORDER OF THE SECRETARY OF WAR : SEcrroN I . General 1-8 1
+G. C. MARSHALL,
+Chief of Staff.
+II . Training 9-10
+III, Control, orders, liaison, reconnaissance,
+maintenance 11-16
+it
+IV . Security 13 OFFICIAL : V. Marches 16-21 21 22-23 34
+J . A . ULIO, VVIII .. ODfeffeennssiev e action 24-37 35 Major General, VIII . Jungle warfare 38-42 43-45
+75
+The Adjutant General . APPENDIX . Troop leading 77 78
+DISTRIBUTION :
+INDEX 85
+ARMORED FORCE FIELD MANUAL
+THE TANK COMPANY, LIGHT AND MEDIUM
+SECTION I
+GENERAL
+1. ScopE.-a. This manual covers the tactics and technique
+of the light and the medium tank company, and is
+applicable to the tank companies of both armored regiments
+and separate tank battalions . It supplements pertinent
+matter contained in FM 17-10 . It covers the action
+of the company when acting as part of the battalion and
+when acting alone . The company will habitually be reinforced
+whether acting alone or as part of the armored
+battalion.
+b . Key to illustrations :
+ASSAULT GUN
+AMMUNITION CARRIER
+MORTAR CARRIER
+INFANTRY
+PERSONNEL CARRIER
+TANK IN MOTION
+TANK IN POSITION
+1/4 TON
+TRUCK
+MOTORCYCLE
+EXPLOSIVE
+SHELL
+FIRE
+SMOKE
+SHELL
+FIRE
+SYMBOLS TO INDICATE CERTAIN
+COMPANY COMMANDER'S VEHICLE (HT
+SECOND-IN-COMMAND'S VEHICLE (HT
+PLATOON LEADER'S TANK
+1
+FM 17-32
+VEHICLES
+OR TANK)
+OR TANK)
+2-4
+ARMORED FORCE FIELD MANUAL
+• 2 . PURPOSE.-This manual is only a guide to the employment
+of the tank company. The formations and actions
+described herein are not inflexible . Each tactical situation
+must be solved on its own merits and not by blind application
+of a set of inflexible rules . Initiative of all commanders
+must be encouraged,
+• 3. PRIOR TRAINING, Individual crew, section, and platoon
+training should be completed before proceeding to company
+training. The technique of operation of vehicles and
+weapons and of the employment of the various weapons
+should have been covered in earlier instructions. (See
+sec . II .)
+8 4. ORGANIZATION .-a. The tank company, both light and
+medium, consists of a company headquarters and three
+tank platoons of five tanks each .
+b. Company headquarters .-(1) Company headquarters is
+composed of a-
+(a) Command section.
+(b) Tank section.
+(c) Communication-liaison-reconnaissance section .
+(d) Maintenance section.
+(e) Administrative and supply section .
+(1) Mess section.
+(2) On the march when combat is imminent and when
+the company is in combat the administrative and supply
+section and the mess section are with the battalion or higher
+unit trains,
+(3) The command section consists of the company commander
+and various individuals mounted in a half-track
+vehicle . During combat the company commander rides in
+one of the tanks of company headquarters . The command
+section half-track joins the maintenance officer .
+(4) One tank of the tank section is used by the company
+c'mmander. The other tank is used by the maintenance
+officer who is also second-in-command of the company, This
+tank is used as a replacement for the company commander's
+or a platoon leader's tank .
+(5) The communication-liaison-reconnaissance section is
+equipped with a 1/4-ton truck. It is used on the march for
+2
+0S
+U
+THE TANK COMPANY, LIGHT AND MEDIUM
+0
+3a
+o , a ~I d I
+/ a l0
+N
+a to
+a !I
+0A I A
+2
+Ja • z
+O 0 i N
+f
+N
+4
+J
+a S
+a
+•
+o
+3
+4' 204
+i 0 q
+H
+w
+4
+a a
+n
+0
+0
+Nm x
+II~-
+•
+• m
+00
+w
+0
+4
+C"
+GO .-LN a
+C O
+C O
+RCN SEC
+~_
+_-• Co HO
+PLAT LOR
+MAINT 0
+Frouza 2 .-Medium tank company.
+NORMAL ATTACHMENTS
+MORTAR
+AMMUNITION
+ASSAULT GUN
+H
+FROM ON HQ
+x
+Haz
+*04
+aft
+VI
+x
+0
+LIGHT MG SQUAD
+60 MM MORTAR SOD RIFLE SOD
+RIFLE SOD
+PLAT LOR
+x
+INFANTRY
+_-• PLATOON
+r
+AT GUN
+0
+MAY BE ATTACHED
+01114
+004
+PLAT LDR
+PLAT LDR
+MAINT 0
+MESS
+EQUIPMENT
+EQUIPMENT
+1sT SGT
+NoOft0" 000%
+NORMAL ATTACHMENTS SAME AS LIGHT TANK COMPANY
+MAY BE ATTACHED SAME AS LIGHT TANKCOMANY
+PLATOON
+PLATOON
+PLATOON
+MAINTENANCE
+ADM-SUPPLY
+& MESS
+.P
+z
+PLAT LOR aft r•%.,
+:
+r0`}
+0_
+FIGURE 3 .-Attachments, tank company, light and medium .
+ON RCN
+PLATOON
+aea
+4-5
+ARMORED FORCE FIELD MANUAL
+reconnaissance short distances to the sides and for liaison
+with higher headquarters, especially when the company is
+attached to another unit such as an infantry battalion . When
+not used for liaison this section remains with the maintenance
+officer and proceeds with him to the company rallying point .
+Here the staff sergeant in charge makes such repairs and
+adjustments on radio sets as time and means permit .
+(6) The maintenance section is organized and equipped
+to perform second echelon maintenance for the company .
+It is equipped with a'/4-ton truck and two half-track vehicles .
+During the march it follows at the tail of the company and
+makes such repairs to vehicles as it can. Vehicles beyond
+the capabilities of the section to repair are left with their
+crews, for regimental or maintenance battalion personnel .
+During combat the section accompanies the company to the
+attack position where it assists in making last minute repairs .
+It follows the attack as closely as practicable, along an axis
+of maintenance prescribed by the company commander, to
+repair tanks that are out of action .
+(7) The maintenance officer, second-in-command of the
+company, commands the maintenance section and supervises
+all maintenance in the company. He accompanies the company
+to the attack position. After the attack starts he
+assumes charge of all vehicles left at the attack position, that
+is, the maintenance vehicles, the second company headquarters
+tank, and the communication-liaison-reconnaissance
+'/4-ton truck . He moves these vehicles forward, following
+the company as closely as practicable, makes repairs on damaged
+tanks, makes estimates of material needed to repair
+those beyond the capabilities of his section to repair, transmits
+this information with the exact locations of the disabled
+vehicles to the regimental maintenance platoon, and rejoins
+the company at the rallying point .
+15, CHARACTERISTICS,--a, The tank is characterized by great
+mobility, fire power, armor protection, and shock action .
+These characteristics are possessed in varying degrees by
+different types of tanks . The characteristics dictate the
+manner of employment.
+6
+THE TANK COMPANY, LIGHT AND MEDIUM
+5-7
+b . Light tanks, as compared to medium tanks, have less
+fire power, lighter armor, and greater speed and maneuverability
+. They are particularly fitted for-
+(1) Feeling out the enemy and developing the weak spots
+in the enemy position through which medium tanks may
+attack,
+(2) Screening the advance against light enemy resistance .
+(3) Leading an attack against an unarmored enemy weak
+in antitank defense, when speed is essential .
+(4) A fast maneuvering force to exploit the success of
+medium tanks.
+(5) Maneuver to the flank or rear to strike the enemy
+command posts, communication centers, and other vital
+installations,
+(6) Pursuing a defeated enemy,
+c . Medium tanks, because of their greater fire power, guns
+of heavier caliber, greater armor protection, and shocking
+power are used to-
+(1) Lead an attack against an enemy whose position and
+strength is known .
+(2) .'Support by fire the attack of either light or other
+medium tanks.
+16. OPERATION,-a. The tank company is normally employed
+as part of the tank battalion, It may, however, be used as
+advance, flank, and rear guard and on separate missions .
+b . The reinforcement of the tank company will be normal .
+Such reinforcements will vary from a mortar and an assault
+gun from the battalion headquarters company to one or more
+infantry platoons, engineers, artillery, and reconnaissance
+elements. A light tank company may have a medium tank
+platoon attached to or supporting it for certain operations .
+17. FUNDAMENTALS.-a. Surprise .-Surprise is obtained by
+striking the enemy at an unexpected time, from an unexpected
+direction, and in sufficient numbers to gain the objective.
+Speed of movement and the use of covered approaches
+assist in gaining surprise . Seek to surprise your enemy but
+do not let yourself be surprised . Give your enemy credit for
+as much tactical knowledge as you have or more . Do not
+7
+7-8
+ARMORED FORCE FIELD MANUAL
+underestimate him . Expect the unexpected and be prepared
+for it .
+b. Fire and maneuver,-The company advances by fire and
+movement. A portion of the command maneuvers against
+the enemy while the remainder covers that movement . This
+covering force does not necessarily fire all the time while the
+other force is maneuvering . It takes up positions where it
+can bring effective fire on any enemy holding up the advance .
+It fires only when necessary to assist the advance . After the
+maneuvering force has advanced beyond supporting distance
+of the covering force, it may take positions and become the
+covering force while the former covering force becomes the
+maneuvering force .
+c. Mass.-Concentrate your fire power and shock action on
+the enemy . Do not fritter away your strength on small,
+unimportant targets. Concentrate on an objective that is
+decisive ; the others will then fall .
+d. Conservation of ammunition .-The tank carries a relatively
+small amount of ammunition and resupply is difficult.
+It is imperative that each round be made effective . Do not
+fire with the 75-mm and 37-mm guns until there is something
+at which to shoot . (See sec . II .)
+∎ 8, TERRAIN .-a. The tank is sensitive to terrain. For most
+efficient use, tanks should operate over terrain that will permit
+advance by covered routes at good speed.
+b. The tank company commander must continually study
+terrain and seek to turn it to his advantage .
+c. The following types should be avoided :
+(1) Ground covered with large stumps .
+(2) Heavy woods .
+(3) Swamps.
+(4) Ground covered with large boulders.
+(5) Steep slopes,
+d. Just because ground appears impassable for tanks does
+not justify dismissal of possibility of attack either by yourself
+or the enemy over such ground . Only by detailed reconnaissance
+can passableness be determined . In many cases passage
+of difficult ground is justified by surprise effect gained .
+8
+THE TANK COMPANY, LIGHT AND MEDIUM
+FIGURE 4.-Fire and maneuver. One platoon from defiladed stationary
+positions, together with mortar and assault gun, supports
+advance of other platoons .
+9
+8
+tl
+ARMORED FORCE FIELD MANUAL
+1'icuRE 5.-Fire and maneuver. After platoon has reached B it
+takes up firing positions to cover advance of other platoons .
+Mortar and assault gun displace forward .
+1 0
+THE TANK COMPANY, LIGHT AND MEDIUM
+9
+SECTION II
+TRAINING
+19 . GENERAL.-a. Training of the tank company must be progressive
+. It is divided roughly into phases as follows :
+(1) Basic.
+(2) Specialist .
+(3) Marksmanship.
+(4) Technique of fire .
+(5) Section and platoon combat exercises without ammunition
+.
+(6) Combat practice firing .
+(7) Company combat problems .
+b . Each phase should be completed before proceeding to the
+next. The efficiency of the company as a whole will depend
+upon the thoroughness with which each individual unit is
+trained .
+c. Throughout the training period emphasis must be placed
+upon cooperation, coordination, and individual initiative .
+Training methods are covered in general in FM 21-5 .
+d. Eact exercise scheduled for company training must include
+training in ammunition conservation . Although exercises
+are conducted without ammunition this subject must
+always be kept in mind. During exercises the 37-mm and
+75-mm gunners should be required to simulate firing and assistant
+gunners should keep track of the number of rounds
+the gunner has simulated firing . When all ammunition is
+fired the gunner ceases firing . in this manner, and this only,
+can troops be trained in the proper conservation of amtnunition.
+If promiscuous simulated firing without thought of
+ammunition supply is permitted, wasteful habits will be developed
+. The tank commander requires frequent reports from
+gunners concerning ammunition supply . The chart below
+shows in a startling manner what a comparatively small
+amount of ammunition is available,
+11
+22
+ARMORED FORCE FIELD MANUAL
+SECTION V
+MARCHES
+6 22 . GENERAL .-a. The subject of marches Is covered In detail
+in FM 17-10, 17-50, and 25-10 .
+b . A good march depends upon good march discipline . This
+can be obtained only by practice and rigid enforcement of
+march rules .
+c. Security on the march and at halts is covered in section
+IV,
+d. The rate of march of a tank column consisting all or
+in part of medium tanks does not exceed 20 miles per hour .
+A column composed of light tanks and half-track vehicles
+may travel at a rate as high as 30 miles per hour. Such a
+rate is advisable only in a tactical maneuver or when time is
+crucial . Wear and tear on vehicles is great, deterioration
+rapid. It must be remembered that a successful march is
+one that Places the troops and equipment at their destination
+at the proper time and in the proper condition to fight .
+e . When air attack can be expected, and this is usual anywhere
+in the theater of operations, distances between vehicles
+during daylight marches are seldom less than 80 yards, approximately
+88 yards per vehicle, This may be extended to
+176 yards or 0 .1 mile. During night marches the density of
+20 vehicles per mile should not be exceeded. However, vehicles
+may be grouped into groups of approximately five,
+closed to short distance . A good night driver is placed in the
+leading vehicle of each group .
+f. When combat is imminent, the company commander
+will usually be with the battalion commander . Platoon leaders
+assemble at the head of the company column . The company
+is conducted by the senior platoon leader . Platoon sergeants
+assume temporary command of the platoons . By such groupings,
+orders can be given with less delay .
+g. During the march certain designated members of the
+vehicle crew must remain awake and alert at all times . When
+contact is not imminent, one member detailed as alert man
+watches for both ground and air attack . When contact
+is imminent all members of the crew must be alert. Heavy
+guns are loaded or prepared for loading . Machine guns are
+34
+THE TANK COMPANY, LIGHT AND MEDIUM
+22-24
+half-loaded . Everything is made ready for instant action,
+Certain men are detailed as air and ground guards to give
+instant warning of attack . Do not let yourself be surprised .
+N 23 . HALTS.-a. Halts are usually made for 15 minutes after
+the first 45 minutes of march . Thereafter, halts of 10 minutes
+are made at the end of 1 hour and 20 or 1 hour and 50
+minutes of marching. In long columns, halts must be made
+on a schedule as most of the troops will not be out of bivouac
+at the end of 45 minutes . A long halt, usually 1/2 hour, is
+made after 4 hours of'running time . This is for the purpose
+of refueling . Again, In long columns this must be a scheduled
+halt .
+b . Drivers and tank commanders make regular inspection of
+their vehicles at halts . One man must be left in the vehicle
+to man the vehicular weapons in case of attack .
+SECTION VI
+OPerENSIVE ACTION
+∎ 24. GENERAL.-a. The tank is an offensive weapon . Its offensive
+powers of mobility, fire power, shock action, and armor
+protection should be exploited to the limit .
+b . The tank company will habitually be reinforced during
+combat . (See sec. I.) The company may be used either
+alone or as part of the battalion . It is used alone in advance,
+rear, and flank guards, and may be used alone as a covering
+force. As part of the battalion it may attack-
+(1) As the first echelon of attack, the mission of which is
+to destroy enemy antitank defenses, artillery, command posts,
+and other rear installations .
+(2) As the second echelon of attack, the mission of which
+is to destroy infantry targets, especially machine guns, heavy
+weapons, and antitank guns passed over by the leading
+echelon. It also destroys command posts, communication
+centers, and other rear installations .
+(3) As the third echelon of attack, which advances with
+the Infantry and destroys enemy machine guns and other
+enemy installations holding up the infantry,
+c. It must not be assumed that the tanks always attack
+first. Many times the infantry will attack to secure ground
+from which the tanks may attack .
+35
+2 4-25
+ARMORED FORCE FIELD MANUAL
+d . In attack battalions are usually given zones of action .
+Companies are assigned a frontage and direction of attack .
+Zones and frontages must not be so narrow as to restrict
+maneuver.
+∎ 25. ASSEMBLY .--a . Before any attack, except in repelling a
+surprise counterattack or when attacking direct from march
+column, the company will occupy an assembly area or intermediate
+positions where tanks are repaired and everything
+made ready for battle .
+b . Security in assembly areas is discussed in section IV .
+C . The assembly area is selected by the battalion or higher
+unit commander . A battalion guide or staff officer should
+indicate the area to the company commander .
+(1) The area should afford concealment, should not be
+within range of hostile medium artillery, should have good
+standings for vehicles, and should have good routes available
+for entrance and exit .
+(2) The area is occupied in such manner that units are in
+proper formation to move direct to attack positions without
+going through the areas of other troops .
+(3) The company commander, riding behind the battalion
+commander in column, is given his area assignment . He
+divides the area into platoon areas and leaves a guide, usually
+the communication sergeant in the I/4-ton truck, to guide
+the platoons to their positions.
+(4) Immediately upon moving into the area, tanks are dispersed,
+security is established, vehicles concealed, and necessary
+maintenance performed .
+(5) In moving into an area at night, a guide must be provided
+for each platoon . After a platoon reaches its position,
+each tank must be guided to its place by the tank commander .
+'6) The road must be cleared rapidly . Vehicles must not
+jam on the road . Tracks into the area are brushed out to
+prevent disclosure of the position to hostile aircraft . (See
+FM 21-45.)
+(7) Platoon leaders establish a platoon CP, and send a
+runner to the company CP. The company commander reports
+to or sends a runner to the battalion commander . The bugler
+is used as a messenger .
+36
+THE TANK COMPANY, LIGHT AND MEDIUM
+25
+472732 °-42-6 37
+FIGURE 23 .-Post guides at entrance of assembly area to indicate platoon areas .
+FIGURE 24 .-Do not move into assembly area and let crews remain idle .
+N
+Ul
+xH
+N
+ARMORED FORCE FIELD MANUAL
+40
+U
+N
+THE TANK COMPANY, LIGHT AND MEDIUM
+25-26
+d . The attack position is as close to the line of departure as
+is consistent with concealment . Here last-minute checks
+are made and last-minute orders given . It is here that lastminute
+coordination is made with infantry when tanks attack
+through infantry .
+∎ 26. FORMATION-4I . Figure 26 shows typical formations for
+a tank attack . It should be noted that the diagrams show
+only one formation for the platoons . These may be in any
+prescribed combat formation such as line, wedge, column,
+echelon, or line of section columns, depending upon terrain
+and hostile dispositions .
+1) The formation of three platoons in line is seldom use
+It provides no reserve, is difficult to control, and has no
+power for sustained effort . It may be used by a covering
+force .
+(2) The formation of two platoons in the assault is easier
+to control than line formation and affords a reserve for influencing
+the action, but has less sustaining power than
+column formation . The support company is usually disposed
+toward the exposed flank .
+(3) Column formation affords maximum control and sustained
+power . It is the formation for a penetration when
+the company is not supported by another company . It has
+the disadvantage of developing very little initial fire powei
+(4) Another formation not shown in the diagram is one
+platoon in assault and two platoons in reserve . This formation
+is suitable when the situation is vague . Deployment to
+right or left is facilitated .
+b. During the approach to combat the company commander,
+is at the head of his company . When the attack begins he
+goes wherever he can best influence the action, He will
+usually seek an observation point, probably close to the firing
+positions of his tank platoon supporting the attack, from
+which point he will be able to watch the attack of his
+platoons . Here he controls by radio the maneuver of the
+platoons and uses his reserve at the proper time. He should
+not lead the initial attack unless such action is necessary
+for psychological purposes . When he leads the attack lie will
+become engaged in combat and will be unable to control his
+company.
+41
+26
+ARMORED FORCE FIELD MANUAL
+~- 800-YDS -+
+0
+0
+0 0
+0 0
+0
+00
+0
+300
+600 YDS
+0
+0 0
+0
+0
+TWO PLATOONS IN ASSAULT
+700
+1400 YOS
+0
+0
+0
+0 0
+0 0
+0 0
+0 0 .~ 0 0
+0
+LINE
+,_200-
+400
+YDS
+0
+0 0
+0
+0
+0
+00
+0
+0
+0
+0 0
+0
+0
+COLUMN
+400
+1000 YDS
+FicunE 28 .-Formations for attack . Platoons may be in line, wedge,
+inverted wedge, column, line of section columns, or echelon,
+42
+I
+THE TANK COMPANY, LIGHT AND MEDIUM 26-27
+FIGURE 27 .-Do not use so much smoke that maneuver of adjacent
+units will be affected . Here smoke laid down by company hinders
+movement of Company B . (See also fig . 28 .)
+0 27. USE OF SMOKE.-a. Smoke is used by tank units to-
+(1) Screen movement of tanks.
+(2) Blind hostile observation .
+(3) Neutralize hostile antitank guns .
+(4) Confuse the enemy as to the real point of attack .
+b. The use of smoke in any great quantity must be coordinated
+by higher commanders . Even one mortar can, if there
+is a cross wind, lay down a smoke screen that will hinder the
+movement of adjacent friendly troops .
+c. Each medium tank and each assault gun has a limited
+number of rounds, usually five, of smoke ammunition . They
+cannot lay down an extensive smoke screen . This ammunition
+is used only for temporarily blinding observation of
+antitank guns so the vehicle may close with the gun or move
+to a more favorable position . The 81-mm mortar of the
+tank battalions carries a preponderance of smoke ammunition.
+Its high rate of fire, 30 rounds per minute, allows it
+to lay down a heavy smoke screen in a short time . (See
+FM 17-27.)
+d, For screening small targets a cross wind is best, as only
+one round if fired to windward will suffice for concealment .
+43
+21 ARMORED FORCE FIELD MANUAL
+44
+conceal your own targets .
+(See also fig . 30 .)
+THE TANK COMPANY, LIGHT AND MEDIUM
+27
+However, a cross wind will blow smoke into the zone of the
+adjacent unit and fire must be controlled .
+e . For screening an attack a wind blowing directly toward
+the enemy position is best . Smoke laid in front of the enemy
+position will drift to the rear and cover rear areas as front
+areas become free for attack . CAUTION : Do not lay a smoke
+screen when the wind is blowing from the enemy toward
+you unless you desire to withdraw .
+B
+45
+A rl
+0
+0
+0
+0
+0
+Q
+FIGURE 29 .-Lay only enough smoke to
+11 ARMORED FORCE FIELD MANUAL
+46
+THE TANK COMPANY, LIGHT AND MEDIUM
+27
+FIGVRE 31 .-Do not lay smoke that will come back on you . (See
+also fig. 32 .)
+47
+27 ARMORED FORCE FIELD MANUAL THE TANK COMPANY, LIGHT AND MEDIUM
+FIGURE 33 .-Smoke laid with wind down range is most effective .
+It continues to cover hostile rear installations . (See also fig . 34 .)
+0
+p 0
+Wmd Due c t,on
+0
+27
+ARMORED FORCE FIELD MANUAL
+50
+r
+G
+L
+P
+e 28 . ATTACK FROM MARCH COLUMN .-a. When unexpectedly
+attacked by the enemy or in a meeting engagement when time
+is essential, attack may be made direct from march column .
+with halt made only long enough to issue orders and perform
+the minimum of reconnaissance.
+b. If the column is unexpectedly attacked from the flank .
+each platoon moves directly to the attack . It rallies on the
+road or at such other place as the company commander may
+direct by radio . The platoon leader gives his order for attack
+by radio and at the first opportunity reports to the company
+commander . When platoon leaders are at the head of the
+company column they must, with all possible speed, return
+to and assume command of their platoons .
+0 c. Meeting engagement has been covered in advance guard
+N
+action (par . 20) .
+d. When attacking unarmored troops, move quickly into
+action, overrun and destroy the enemy .
+e . When attacking armored troops from march column,
+maneuver to bring maximum fire on a portion of the enemy,
+N
+while containing the remainder with a small force or blinding
+0 m
+him by use of smoke, Fire, if practicable, from concealed
+positions with tank stationary. If you are caught in the
+m M
+open by heavier tanks with heavier weapons, use smoke on
+w o
+part of the enemy and close rapidly with the remainder . Unless
+you can withdraw and lead the enemy tanks into the fire
+of your own supporting medium tanks, your best chance is
+to get to close range where your weapons will be effective,
+Use maximum speed .
+THE TANK COMPANY, LIGHT AND MEDIUM
+28
+51
+FIGURE 3g .-Do not keep units on road while reconnaissance is being made and orders are being issued Such inaction invites destruction by artillery fire . .
+FIGURE 36 .--Move rapidly off road and prepare for action .
+N
+OD
+N
+28 ARMORED FORCE FIELD MANUAL
+FIGURE 37.In meeting engagement with armored troops do not rush
+to meet enemy in frontal attack in open .
+54
+THE TANK COMPANY, LIGHT AND MEDIUM
+28
+FIGURE 38 .-Maneuver to position where concentrated fire can be
+brought on part of enemy . Detain rest of his forces by use of
+smoke, It practicable .
+55
+29
+ARMORED FORCE FIELD MANUAL
+∎ 29 . ATTACK OF POSITION .-a. Such attacks are preceded by
+movement into assembly areas, reconnaissance, and movement
+to attack positions . Such attacks may be penetrations
+or envelopments . When one or both of the enemy's flanks
+are open, envelopment is usual, Penetration is followed by
+envelopment of the flanks created .
+b . Attack of a position is characterized by coordination of
+all fires, artillery, mortars, assault guns, supporting tanks,
+and dive bombers. When the enemy position is held in
+strength and is protected by mine fields, the infantry usually
+attacks first, protected by artillery and mortar fire . When
+mine fields or tank obstacles are to be removed, infantry and
+engineers, protected by smoke and heavy artillery and machine-
+gun fire, remove mines and make paths for the tanks .
+The tanks then attack through the gaps created .
+c. Tanks may attack ahead of infantry to break down wire
+entanglements and destroy hostile automatic weapons,
+d. Artillery fire must lift when tanks approach within 300
+yards of its target . The protection afforded by the artillery
+is taken over by the assault guns, mortars, and supporting
+medium tanks. Economy of ammunition must always be
+considered . Medium tanks and assault guns cannot lay down
+sustained artillery fire .
+56
+THE TANK COMPANY, LIGHT AND MEDIUM
+57
+29
+30
+ARMORED FORCE FIELD MANUAL
+N 30 . METHOD OF ADVANCE .-Advance is made by leapfrogging
+or other means of fire and maneuver . (See fig . 40 .)
+a, In the leapfrogging method of advance, the first platoon
+covers the advance of the second and third platoons to their
+next position and then moves around or through the second
+platoon to its new position, which places the first platoon in
+advance of the second platoon . The second platoon then
+covers the advance of the first and third platoons to the next
+position, The solid line indicates the direction of movement
+of the first platoon, and the dotted line indicates the actual
+route taken by the first platoon to reach its new position .
+b . In moving by bounds, the first platoon covers the advance
+of the second and third platoons to their next position, and
+then moves to its new position . The operation is then repeated
+. The use of this method always keeps the same platoons
+in the forward positions .
+58
+THE TANK COMPANY, LIGHT AND MEDIUM
+LEAPFROGGING METHOD OF ADVANCE
+IN THIS METHOD, REAR PLATOON MOVES BY BOUNDS
+59
+30
+FrauaE 40.-Method of advance, One platoon covers the advance
+of other platoons .
+31
+ARMORED FORCE FIELD MANUAL
+0 31, ATTACK WITH INFANTRY.a. The infantry may attack
+ahead of the tanks, with the leading wave, or with the rear
+echelon. It may be in carriers or dismounted, depending
+upon the strength of the enemy . It must dismount when
+taken under heavy enemy fire,
+b. In a vague situation infantry will advance with a light
+tank company, It will follow one of the tank platoons in
+carriers until serious resistance is met . It may then be used
+to form a base of fire for the tank attack ; to attack supported
+by tank, mortar, and assault gun fire ; to destroy resistance
+which cannot be reached by tanks ; to maneuver dismounted
+to the flank to destroy enemy antitank guns holding up an
+attack . There must be liaison between the tank company
+commander and the infantry commander . The infantry platoon
+commander has an SCR-510 radio set with which he
+may communicate with the tank company commander .
+Should he not have the proper crystals for this communication,
+the tank company commander uses his own half-track
+as a liaison vehicle, causing it to move with the infantry
+platoon commander.
+FIGuRE 41 .-Advance with infantry following in carriers . Situation
+vague . (See also fig . 42 .)
+60
+THE TANK COMPANY, LIGHT AND MEDIUM
+61
+Q;
+a0
+„
+CD aN
+cc
+3vU
+ato
+N
+CD
+C
+a)
+W
+31
+331 ARMORED FORCE FIELD MANUAL
+62
+THE TANK COMPANY, LIGHT AND MEDIUM
+32
+fl 32. ACTION WHEN ENEMY LAYS DOWN SMOKE SCREEN-a . In
+smoke or fog, tanks lose direction, may crash into each other,
+and will be forced to slow down . Maintenance of direction
+is difficult at best . The tank compass will be hard to see if
+smoke gets into the tank.
+b. When a tank platoon or company commander sees
+that his unit is about to be smoked, he orders the tanks to
+move at maximum speed to defilade positions . Some tanks
+on the flanks dispose themselves to protect the flanks to
+repel a counterattack that may be following the smoke
+screen . All prepare immediately to resume the advance at
+maximum speed when the smoke clears . The support platoon
+and assault gun prepare for immediate resumption of
+fire. These may be moved to a more favorable position to
+bring fire on the enemy .
+63
+rn
+CA
+FIGURE 44 .-If smoke cloud hits you, do not move on through it.
+FIGURE 45 .-If you continue, tanks will lose direction and antitank gunners will have good targets . wN
+32
+ARMORED FORCE FIELD MANUAL
+fib
+THE TANK COMPANY, LIGHT AND MEDIUM
+33
+•
+33 . ATTACK OF ARTILLERY POSITION,-DO not attack artillery
+frontally. Cover the artillery with machine-gun fire from
+the front or flank and send platoons to the right and left .
+Attack it from the flanks and rear and overrun the battery
+position .
+67
+FIGURE 47.-Do not attack artillery frontally .
+FIGURE 48 .--Cover artillery with fire and attack from flanks and rear .
+w
+Ui
+FIGURE 49-Do not attack across mine field .
+FIGURE 50 .--Go around nine field or have infantry and engineers clear path . ww
+34
+ARMORED FORCE FIELD MANUAL
+9 34 . ATTACK OF VILLAGES,-Avoid villages if practicable . If
+the village must be taken, use infantry, engineers, mortars,
+and assault gun to attack frontally while tanks encircle the
+town.
+72
+THE TANK COMPANY, LIGHT AND MEDIUM
+34
+73
+34 ARMORED FORCE FIELD MANUAL
+74
+THE TANK COMPANY, LIGHT AND MEDIUM
+35-38
+• 35, ATTACK IN Woons.-To maintain control move through
+woods in column . Beware of paths, as they will probably
+be mined or covered with AT guns . If necessary have infantry
+or other dismounted men precede tanks .
+• 36 . ATTACK OF FORDS,-In attack of fords place tanks in
+defiladed position to take defenders under fire and use infantry
+to attack flank or rear .
+• 37 . ATTACK OF RIVER LINE .-In the attack of a river line,
+engineers, supported by artillery and some medium tanks
+close to the river bank, ferry infantry and tank destroyer
+units across . They then build the bridge . Medium tanks
+supporting the crossing are disposed under cover or in defiladed
+positions close to the river bank where they can give
+close protection to the engineers,
+r
+L
+a
+a
+1
+~' Z
+~ 1 0 p 0
+FIGURE 53 .-Attack of ford .
+SECTION VII
+DEFENSE
+• 38. GENERAL .-a. The tanks' offensive power must be used
+in defense for counterattacks . They are not used as stationary
+pill boxes except as a last r esort. FM 17-10 covers
+in general the employment of armored units in defensive
+combat.
+75
+38-41
+ARMORED FORCE FIELD MANUAL
+b. In defense, infantry and engineers hold the main line
+of resistance while tank units form the reserve for counterattacking
+hostile forces preferably before they reach the
+infantry lines .
+• 39. DEFENSE OF A POSITION In defense of a position, the
+tank company will normally operate as part of the battalion .
+(See FM 17-33 .) Here it is used to attack as described in
+section VI . In the defense, careful reconnaissance is made
+of all terrain over which a counterattack might be made and
+arrangements made with local infantry commanders for passage
+of lines and coordination of fires .
+• 40. WITHDRAWAL .-In withdrawal, tanks are used as counterattack
+forces to make shallow attacks on a wide front to
+slow up the enemy attack and permit friendly troops to withdraw
+and reform . The company will usually be with the battalion
+. In these attacks, the rallying point is normally
+the attack or assembly position .
+i 41. DELAYING AcTIoN .-Delaying action is similar to withdrawal,
+the tanks being used to attack the heads and flanks
+of hostile columns . In delaying action do not allow yourself
+to become so heavily engaged as to be unable to withdraw .
+FIGURE 54 .-Delaying action . Support attack of two platoons by one
+platoon . One platoon then protects withdrawal of attacking
+platoons .
+76
+THE TANK COMPANY, LIGHT AND MEDIUM
+42-45
+• 42. REAR GUARD .-Formations of the rear guard are the
+same as the advance guard except in reverse order . The
+rear guard may have to fight a delaying action . It can expect
+no help from the main body .
+SECTION VIII
+JUNGLE WARFARE
+∎ 43. GENERAL .-fl. FM 31-20 covers the general subject of
+warfare in the jungle . In general, because of their sensitiveness
+to terrain, tanks are unsuited for mass employment
+in jungles . Their use in such operations will usually be limited
+to groups of a company or less, supported by infantry .
+A tank platoon might be attached to an infantry company .
+b. Light tanks are more suited to jungle operation than
+medium tanks.
+c. Operation in jungles is usually confined to narrow
+trails through dense growth relieved at intervals by open
+spaces . Much of the trail may be swampy and require pioneer
+work of considerable extent before the tanks can traverse
+ft .
+• 44. ATTAcx.-Infantry leads on the jungle trails, develops
+the enemy, and the tanks then attack . Such operations are
+a continuous series of small attacks ; at one time tanks lead
+and the next, infantry .
+• 45. DEFENSE. a. Infantry defends the trails by placing
+antitank mines and machine guns to cover them . The open
+spaces are covered by fire . The tanks are held in reserve
+to counterattack if the enemy succeeds in reaching the open
+space .
+b. Tanks may be used to delay the enemy by turning the
+turret guns to the rear and withdrawing from one vantage
+point to another .
+77
+8
+FM 17-33, Armored Force Field Manual : The
+Armored Battalion, Light and Medium (Extract),
+1942
+WAR DEPARTMENT,
+WASHINGTON, September 18, 1942
+DISTRIBUTION :
+D 2, 7 (5) ; D 17 (15) ; R and H 2, 7 (3) ; Bn and H 17
+(5) ; IBn 2, 5-10 (3) ; C 17 (20) ; IC 2, 5-11 (3) .
+(For explanation of symbols see FM 21-6 .)
+11 III
+FM 17-33, Armored Force Field Manual, The Armored
+Battalion, Light and Medium, is published for the Information
+and guidance of all concerned .
+[A . G . 062 .11 (8-20-42),[
+TABLE OF CONTENTS
+Paragraphs Page
+SEcrION I, General 1-4 1
+BY ORDER OF THE SECRETARY OF WAR : II . Training 5-9 4
+0. C. MARSHALL, III . Control, orders, liaison, reconnaissance,
+maintenance, evacuation 10-16 12
+Chief of Staff . IV . Marches and bivouac 16-21 21
+V. Security 22-27 31
+OFFICIAL : VI . Offensive action 28-39 57
+J . A. ULIO, VII . Defensive action 40-43 113
+Major General, VIII . Special operation 44-48 122
+INDEX 135
+The Adjutant General .
+ON 4AINT
+I
+T
+¶
+f
+0
+l:L
+D
+D
+1I
+SECOND IN COMMAND
+PLATOON LEADER
+COMPANY COMMANDER
+BATTALION COMMANDER
+TANK
+TANK, SHOWING DIRECTION
+HALFLTRACK,CAR OR CARRIER (OF ARMORED UNITS)
+HALF •T RACK,CAR,On CARRIER (OF INFANTRY UNITS)
+® MORTAR CARRIER
+~} ASSAULT GUN
+AMMUNITION CARRIER
+I/TON TRUCK
+MOTORCYCLE
+DESTROYED AT GUN
+BN MAINT CREW, MAINT Ca, ARMORED REGT
+UNIT TRAINS, ECHELON A
+Key to symbols used in this manual .
+Iv
+OF TURRET GUN
+1
+FM 17-33
+ARMORED FORCE FIELD MANUAL
+THE ARMORED BATTALION, LIGHT AND MEDIUM
+SECTION I
+GENERAL
+• 1. SCOPE AND PURPOSE-a . This manual covers the tactical
+employment of the light and medium tank battalions both
+as. part of a larger force and when acting independently . It
+is designed as a guide only and does not lay down a set of
+inflexible rules . Each tactical situation must be solved on
+its own merits and the initiative of individual commanders
+must be encouraged .
+b. Although not written specifically for the separate tank
+battalions, the fundamentals covered herein and formations
+shown are generally applicable to those units.
+• 2. ORGANIZATION.-a. Armored battalion.-The armored
+battalion has a headquarters and headquarters company and
+three tank companies . For details of organization see current
+Tables of Organization.
+b. Separate tank battalion.-The separate tank battalion
+is similar in organization to the armored battalion except that
+a service company is added for administrative purposes and
+for maintenance .
+c. Headquarters and headquarters company .-The headquarters
+and headquarters company consists of a battalion
+headquarters and a headquarters company . The headquarters
+company is further divided into company headquarters,
+an assault gun platoon, and a mortar platoon . The company
+has a small maintenance section for maintenance of company
+equipment only . Figures 1 and 2 show in chart form the
+organization of the company. A small reconnaissance platoon
+is provided for the battalion headquarters .
+•
+3. FUNDAMENTALS-a . The tank battalion operates by surprise,
+fire and maneuver, and concentration of effort (mass) .
+(1) Surprise is obtained by speed of maneuver, use of cover
+and concealment, striking at an unexpected time in an unexN
+C4
+SGT GUN COMDR
+2GUNNERS
+DRIVER
+DRIVER
+2 AM CARVERS
+BASIC
+SGT GUN COMOR
+2GUNNERS
+DRIVER
+HQ COMPANY
+ARMORED BATTALION.LIGHT
+STF SGT-COM
+AGENT MSGR
+CHAUFFEUR
+ZGUN~COMOR
+DRIVER
+SAM CARRIERS
+BASIC
+DRIVER
+FIGURE 1 .-Headquarters and headquarters company, armored battalion, light. (The medium battalion
+headquarters company Is similar in organization .)
+BATTALION HEADQUARTERS
+ARMORED BATTALION,LUGHT
+"1, . ~i 'iii ^Ae
+MSGR
+MSGR
+LN 0-COM 0
+WO-ASST.COM 0 S-3 (AIR)
+TECH
+CHAUFSFEUR
+CHAUFFEUR
+E SFGT S 3
+MSGR
+MSGR RCN CPL
+RCN SGT
+RCN CPL
+RON SGT
+RCN AGENT RCN AGENT RCN AGENT RCN AGENT
+CHAUFFEUR CHAUFFEUR CHAUFFEUR CHAUFFEUR
+leima -
+(ARTY OSSR)
+(S-2-3)
+CPL-TK COMDR
+CPL TK COMDR
+GUNNER-RADIO TENDER
+RADIO OPERATOR-GUNNER
+DRIVER
+DRIVER
+PLAT SGT 0 RADIO TENDER
+DRIVER
+MAINTENANCE
+STF.SGT-MA Y(f M
+OSECTION -
+MECHAMC
+NO ASST MART 0
+CHAUFFEUR CPMLE-CMHATNRI C$UP
+DRIVER
+O
+(ON C O )
+LT-Cof TK SEC-LN 0
+CPL-TK COMDR
+RADIO OPERATOR-GUNNER
+DRIVER
+MORT PLAT
+HO SEC
+ON CO
+S-2-3
+2GUNNERS MG
+2 RADIO OPERATORS
+38ASICS
+DRIVER
+ON RON
+PLATOON
+PLAT C 0
+PLAT SGT
+4 RCN AGENTS
+RADIO TENDER
+DRIVER
+TANK
+SECTION
+FIGURE 2-Headquarters, armored battalion, light . (The medium battalion headquarters is similar in
+organization .)
+W
+Ci ar
+0
+w
+3-5
+ARMORED FORCE FIELD MANUAL
+petted direction, and by deceiving the enemy as to the true
+point of the main attack .
+(2) Fire and maneuver is a fundamental of all tactical
+employment. Part of the battalion supports by fire the
+maneuver of the remainder . This fundamental is applicable
+down to and including the tank section .
+(3) Concentration of effort must be made on critical areas .
+Do not disperse the command by making simultaneous attacks
+on widely dispersed objectives. Such action is ineffective,
+wastes effort, and usually leads to failure .
+b . The characteristics of the different type 'tanks dictate
+their employment .
+(1) The light tanks are used-
+(a) To feel out weak points in enemy resistance .
+(b) To screen the advance when the situation is vague .
+(c) As a fast maneuvering force to attack the enemy flank
+or rear or to exploit a success .
+(d) To draw the enemy into prepared traps .
+(e) As advance, flank, or rear guards.
+(f) On terrain impassable for medium tanks .
+(2) The medium tanks are used-
+(a) As the leading wave or echelon of attack against known
+enemy resistance when the antitank defense is strong .
+(b) To support by fire the advance of light tanks, other
+medium tanks, or infantry in tank versus tank action,
+∎ 4 . INFLUENCE OF TERRAIN In any plan for employment of
+tanks, the influence of terrain must be carefully analyzed .
+(See FM 17-10 .) Tanks are extremely sensitive to terrain
+and, many times, infantry must attack to secure ground
+from which the tank attack may be launched . However, do
+not dismiss the possibility of the use of difficult terrain . The
+surprise gained may be worth the labor of traversing it .
+SECTION II
+TRAINING
+∎ 5 . GENERAL .--a . The subject of training is covered generally
+in FM 21-5 . The battalion may operate alone, as part of a
+regiment, as part of a combat command, and as the division
+reserve . It will normally be reinforced. It is essential that
+ARMORED BATTALION, LIGHT AND MEDIUM
+FIGURE 3-Surprise is gained by rapidity of movement, use of concealed
+approaches . Do not move across open spaces when cover
+is available .
+5
+ARMORED FORCE FIELD MANUAL
+FIGURE 4,-Advance without fire support will lead to disaster .
+6
+ARMORED BATTALION, LIGHT AND MEDIUM
+7
+5
+FIGURE 5 .-Use available supporting weapons . Use one company to
+support attack by fire . Companies also use fire and maneuver in
+their advance . Smoke antitank guns or fire on them with assauir
+guns .
+5
+w
+to
+5000 YDS
+ARMORED FORCE FIELD MANUAL
+w
+8
+W
+FmuRE 8 .Do not disperse the battalion .
+ARMORED BATTALION, LIGHT AND MEDIUM 5
+w w
+W
+U U
+FIGuaE 7 .-Mass effort on one objective, take it and others will fall .
+Block enemy observation by smoke, if practicable .
+9
+bat and their success or failures may be directly traceable to
+their teaching. Have parts of problem repeated as necessary
+.
+• 8. COMBINED TRAINING .-Whenever practicable, hold combined
+training exercises with artillery, engineers, infantry,
+tank destroyer units, and air units . In any case the battalion
+medical detachment and the battalion section of the
+maintenance company should be present.
+• 9. SUPPLY, MAINTENANCE, AND EVACUATION .-DO not forget
+the supply, maintenance, and medical functions in keeping
+the battalion in operation. Think of these in planning exercises
+. Require the staff officers concerned to make plans and
+require execution of such plans . (See FM 101-5.)
+SECTION III
+CONTROL, ORDERS, LIAISON, RECONNAISSANCE,
+MAINTENANCE, EVACUATION
+1 10 . CONTROL, Control as discussed herein consists of both
+tactical and fire .
+a . Tactical .-Control once lost is difficult to regain. It is •
+therefore imperative that the battalion commander use every
+means within his power to insure adequate control of his
+battalion at all times. Control is exercised by-
+(1) Giving clear definite orders as to formations, zones,
+lines of departure, axis of advance, phase lines, attack positions,
+objectives, and rallying points. (See s ec. VI .) It is
+not sufficient merely to give these orders ; the battalion
+commander must allow time for lower commanders to transmit
+these orders to all personnel and must assure himself
+that this is done. The most brilliantly conceived plan is
+likely to fail if it is not properly transmitted to the troops
+and if execution of it is not supervised . Plan, order, supervise .
+(2) Radio .
+(3) Messenger .
+(4) Signals.
+12
+reconnaissance platoon, assault gun platoon leader, mortar
+platoon leader, artillery forward observer, and headquarters
+company commander. By switching of crystals, attached
+units may be placed on the battalion command frequency .
+See figure 8 for battalion radio net.
+(b) The use of radio must be kept to the minimum . Messages
+must be brief . Do not send messages in the clear that
+will disclose information upon which the enemy will have
+time to act. Commanders habitually use the radio themselves
+.
+(o) On the march, radio is usually silent although receivers
+are turned on and all except a small number used for
+other purposes are set on the battalion net. Radios must be
+silent at least 1/2 hour before reaching bivouac. They must
+be silent in bivouac,
+b . Fire .-The control of the fire of a tank battalion
+with its supporting weapons and reinforcements is an extremely
+difficult task., The battalion commander must rely
+to a great extent upon mission-type fire orders as control
+of individual weapons is impracticable . In general, the battaliori'commander
+controls fire initially by giving targets to
+supporting weapons and zones of action for his leading companies
+: During action, the battalion commander by means
+of radio or by oral order when practicable gives fire missions
+to his battalion .
+(1) Initial,-(a) Leading companies .-Leading companies
+are given a direction of attack or'zone of action . The locations'of
+any known hostile targets are designated to the company
+commander and the company commander is then left
+free to control the fire of'his company .
+(b)' Reserve company.-Part 'or all of the reserve company
+may be given an initial mission of supporting the leading
+companies by *fire .' Known targets 'are pointed out to the
+platoon or company commander and a time for opening fire
+designated. If location of targets, such; an antitank guns, is
+not definitely known, the reserve company or its platoons is
+given the mission of firing on targets as they appear . Each
+480800°-42-2
+13
+7-10 ARMORED FORCE FIELD MANUAL ARMORED BATTALION, LIGHT AND MEDIUM
+10
+(6) After the exercise, hold a critique ; emphasize lessons (5) For radio communication within the company see FM
+learned. Comment on poor solutions and point out a correct 17-32 .
+solution.
+solutions .
+Commend good solutions but do not ridicule poor
+Remember the men are being prepared for com-
+(a)
+with
+The battalion commander has radio communication
+higher-unit headquarters, his company commanders,
+10
+ARMORED FORCE FIELD MANUAL
+platoon will be given the mission of supporting a particular
+leading company, to protect a flank, or to cover a particular
+zone.
+(c) Assault gun platoon.-Initially the assault gun platoon,
+except when the zone is extremely wide, remains under the
+direct control of the battalion commander . The platoon
+leader is directed to fire on designated targets if any suitable
+targets are known . Otherwise, he places his guns in position
+and is directed to fire on targets as they appear .
+(d) Mortar platoon.-Initially fire control of the mortar
+platoon is the same as for the assault gun platoon . It may
+be given smoke missions . (See FM 17-27.)
+(e) Supporting tank company or platoon. -A supporting
+tank company or platoon is controlled the same as the battalion
+reserve .
+(f) Supporting infantry .-Supporting infantry is normally
+used as a base of fire for the maneuver of the battalion . As
+such it is given a mission and fire control left to the unit
+commander. (See FM 17-40 and 17-42.)
+(g) Artillery,-The battalion commander through his artillery
+forward observer calls for such fires as he deems necessary.
+(For fire control and coordination see FM 17-62 .)
+(2) During action, (a) Leading companies.-Company
+commanders control their companies . The battalion commander
+gives orders for movements . Rarely will he give
+orders for a company to place its fire on any particular target .
+He may order the company commander to assist an adjacent
+company- but actual fire control is left to the company
+commander.
+(b) Reserve company.-As the attack progresses the battalion
+commander, by radio or personal contact with the
+reserve company commander, orders supporting fires for lead-
+Ing companies . In this connection, the platoons of the reserve
+company may be placed on the battalion command frequency
+so fire orders can be given without undue delay .
+When the reserve company acts as a unit for maneuver the
+company net is re-formed .
+(c) Assault gun platoon .-By radio the battalion commander
+orders the assault gun platoon to fire on targets as
+desired. The assault gun platoon commander must not wait
+for orders to fire on targets of opportunity, (See FM 17-25 .)
+14
+ARMORED BATTALION, LIGHT AND MEDIUM
+10-13
+(d) Mortar platoon.-By radio or signal the battalion commander
+directs the mortar platoon leader to fire on targets
+as they appear or place smoke as needed . (See FM 17-27.)
+(e) Supporting tanks.-These are controlled the same as
+the reserve company .
+(f) Infantry .-As Infantry is needed to reduce resistance
+which tanks cannot reach, the battalion commander orders its
+use tactically but does not attempt to control the fire .
+(g) Artillery .-Through his artillery forward observer the
+battalion commander calls for fires as needed . Should this
+observer become a casualty the battalion commander, his
+5-2-3, or his company commanders and platoon commanders
+of the battalion adjust artillery fire .
+(3) Adjustment of fire,For maintaining control and obtaining
+faster adjustment of fire the battalion commander
+may use his S-2-3 to control a part of the fire support. Thus
+this officer may direct the fire of the assault guns or mortars
+in accordance with the battalion commander's wishes .
+c . Signals .-Signals are covered in FM 17-5 . Because of
+the distance involved the battalion commander will rarely use
+visual signals .
+i 11 . ORDERS.-a. Orders are oral or in written message form
+and frequently fragmentary . They must be brief, clear, and
+when practicable, given at a point from which as much as
+possible of the terrain over which the operation is to take
+place, can be seen . Full use should be made of marked maps,
+aerial photographs, and overlays .
+b, The form for a field order is given in FM 101-5 .
+9 12 . LIAIs0N.-The battalion commander maintains liaison
+with the regiment or combat command by means of a
+liaison offcer . This officer should know the battalion plan
+of action. He may be used to deliver orders to the battalion
+but he should not be used for messenger service . Duties of
+liaison officers are prescribed In FM 101-5 .
+0 13 . RECONNAISSANCE-Reconnaissance is covered in detail
+in FM 17-10, 17-20, 17-22, and 17-32 .
+a. The tank battalion has a small reconnaissance platoon
+mounted in a half-track vehicle and four 1/4-ton trucks. This
+platoon is used on the march for making short reconnaissance
+15
+13
+ARMORED FORCE FIELD MANUAL
+v
+REGT eY
+CO COMBAT
+COMMAND
+FIGURE 8 . Battalion radio net .
+16
+I
+°mar
+ON IMI
+OSCCRR- 9- 3
+SCR- 2B:-:13 SCTRO-T5A5L8 --2772
+ARMORED BATTALION, LIGHT AND MEDIUM
+13-14
+trips to the right and left of the line of march, or to reconnoiter
+to the front when the battalion is acting alone, or is
+acting as an advance guard for a larger force . In assembly
+areas and rallying points it is used for close reconnaissance
+missions . Before combat the platoon assists the battalion
+commander in reconnaissance of the area of employment .
+During combat it follows the reserve company, performs
+reconnaissance missions to the flanks, or may be used to
+maintain liaison with adjacent units, When the battalion
+is in the leading echelon of an attack, the reconnaissance
+platoon usually follows the second echelon and rejoins the
+battalion at the rallying point .
+b. The battalion commander and his staff must make personal
+reconnaissance for employment of the battalion . This
+includes reconnaissance of both terrain and enemy positions .
+∎ 14. MAINTENANCE .-Employment of company maintenance
+sections is covered in FM 17-32 .
+a. The battalion has no maintenance personnel except for
+its own battalion headquarters and headquarters company
+vehicles . During operations a battalion maintenance section
+of the regimental maintenance company is attached to, or
+supports, the battalion . It moves with the battalion and
+reinforces the company maintenance sections . This section
+accompanies the battalion to the assembly area and attack
+positions where it assists in making final adjustments on
+vehicles . During combat it follows the battalion as closely
+as practicable, along the battalion axis of maintenance designated
+by the battalion commander . It seeks disabled vehicles,
+reinforces company maintenance sections, and reports
+to the regiment, or to the maintenance battalion personnel
+with the combat command, the location of any vehicles which
+are disabled beyond the capability of the section to repair .
+If time permits, an estimate of the extent of the damage
+should be transmitted at the same time . The maintenance
+section should rejoin the battalion at the rallying point where
+it will assist the company maintenance sections . (See FM
+17-50 .)
+b. During a penetration when the battalion is the first
+echelon of attack, maintenance personnel usually follow the
+second echelon of attack .
+17
+NO CO C D
+iiiiIIIIII
+J SCSRU-M5M0A6R-Y I
+~ sy
+- - -R O-N
+SCR-508- 5
+14 ARMORED FORCE FIELD MANUAL
+1 8
+FIGURE 9 .-On the march, when the battalion is in the main body,
+use reconnaissance platoon and motorcyclists to reconnoiter short
+distances to the flanks .
+ARMORED BATTALION, LIGHT AND MEDIUM
+FIGURE 10-In assembly area, attack positions, and rallying points,
+Use reconnaissance platoon to observe and to make additional
+reconnaissance .
+19
+14
+14 ARMORED FORCE FIELD MANUAL
+FIGURE 11 .-During combat, use platoon for reconnaissance to flanks
+or to maintain contact with adjacent units .
+2 0
+ARMORED BATTALION, LIGHT AND MEDIUM
+1,i-17
+• 15 . EVACUATION .-The evacuation of wounded from armored
+units is covered in detail in FM 17-50 and 8-5 .
+The battalion section of the regimental medical detachment
+marches at the rear of the battalion on the march . It accompanies
+the battalion to the attack position . During combat
+it moves forward with the maintenance, cares for wounded,
+and joins the battalion at the rallying point .
+SECTION IV
+MARCHES AND BIVOUAC
+•
+16 . GENERAL .-The subject of marches is covered in detail
+in FM 25-10, 17-10, and 17-50 .
+a. A successful march is one that places the troops and
+equipment at their destination at the proper time and in
+proper condition to fight . A successful march depends upon
+good march discipline . This can be obtained only by thorough
+training in march procedure and rigid enforcement of
+march rules .
+b. The rate of march of a column containing medium tanks
+does not exceed 17 miles per hour . This rate may be increased
+for short periods for columns which do not contain
+medium tanks . However, it must be borne in mind that an
+increase of rate of march above 17 miles per hour for extended
+periods will cause an exorbitant increase in maintenance
+needs .
+c . For detailed discussion of distances between vehicles see
+FM 25-10 . Ordinarily distances will be not less than 50 yards
+and usually will be approximately 90 yards . At times they
+may be as great as 0 .1 mile. Movement by infiltration is
+discussed in FM 25-10 and 17-50 .
+• 17. MARCH PLANS AND ORDERS-The march order for a battalion
+is oral, supplemented by sketches or marked maps of
+the route. Each vehicle commander and each driver should
+know the route and when practicable be given a sketch of the
+route . For form for a march order see FM 101-5 .
+a . Warning orders.-Warning orders should be issued far
+enough in advance of the time set for departure so that proper
+preparations for the march may be made . These preparations
+will depend upon the situation as to supply and state of
+maintenance . A well-trained battalion should be able to
+21
+25
+0
+ARMORED FORCE FIELD MANUAL
+ENEMY
+RECONNAISSANCE PATROLS
+RECONNAISSANCE
+PATROLS
+OUTPOST
+. LINE h
+' 2 MEN AT EACH
+OUTPOST REQUIRES
+ABOUT 128 MEN
+LOCAL
+// JCDJ
+SECURITY
+/ , . .
+\
+1000 YOS / CD
+\~
+~IATCHO)
+I
+\
+\ tC:DJ /
+/
+.
+100 YDS
+•.
+•
+56
+S
+S
+FIGURE 36 .-One form of outpost in open terrain with no natural
+obstacles available .
+ARMORED BATTALION, LIGHT AND MEDIUM
+25-28
+individual arms, machine guns, and 37-mm tank guns . The
+75-mm gun may be used at times . For low-flying attack the
+guns must be trained on the point of probable appearance of
+the airplanes . There will be no time to shift after the airplanes
+appear . Have all receivers on battalion frequency so
+air alert warning can be transmitted quickly .
+(4) At temporary halts, move under concealment and
+brush out tracks . If concealment from observation is not
+available, move off road and disperse, if possible . Dig slit
+trenches at long halts . If vehicles are concealed, do not fire
+at airplanes unless attacked .
+b . In bivouac.-(1) Air security in bivouac, assembly areas,
+and rallying points is obtained primarily by concealment and
+dispersion . Air sentries are detailed. Use standard air
+alarms. Keep one battalion radio receiver on reconnaissance
+unit frequency so early warning of approach of airplanes may
+be obtained .
+(2) Brush out all tracks (see fig . 40) .
+(3) Enforce rigid camouflage discipline . Dig slit trenches .
+Prohibit unshielded lights .
+(4) Do not fire at airplanes unless attacked.
+• 26. IN+A5SEMBLY AREA AND AT RALLYING POINT.-a. At assembly
+area and rallying point make use of available cover
+and concealment. Post local security .
+b . At rallying point, first unit to arrive posts weapons to
+cover favorable avenues of approach . Post observation. As
+more units arrive, the battalion commander posts more security
+details and then reorganizes his battalion .
+c . Use available tank destroyer elements to assist in protection
+. (See FM 18-5 .)
+•
+27. AGAINST CHEMICAL ATTACK,-See FM 17-10 and 21-40 .
+SECTION VI
+OFFENSIVE ACTION
+128. GENERAL .-For fundamentals of offensive action see
+paragraph 3, and FM 100-5 and 17-10 . The missions of
+echelons of attack are as follows (see FM 17-100) ;
+a. The combat command or armored regiment will usually
+attack in three echelons . The light or medium armored
+57
+FIGURE 37-This column was not alert . Hostile airplanes attacked over woods in rear . Vehicles closed
+up at bottom of hill and made a perfect target . BEWARE OF DEFILES .
+FIGURE 38-Here some guns pointed to rear and covered woods . Vehicles are properly spaced . This
+column was alert.
+N
+Co
+zaar
+N
+00
+9
+a, m0
+00 0
+63
+N
+FIGURE 39 .-Tracks here disclosed the position of the vehicles . Also vehicles were not dispersed . Slit
+trenches had not been dug .
+FicuaE 40 .-Brush out tracks, disperse vehicles, dig slit trenches .
+N
+CO
+N
+CO
+FIGURE 41 .-Vehicles closed up at halt and stayed on road . They make an excellent target .
+FIGURE 42 .--Move off the road if practicable . Disperse . If possible, always halt in a shadow . If It
+is impossible to move off the road, keep some weapons manned and ready to fire . Cover all directions
+.
+Nco
+N00
+FIGURE 43.-Here advantage was not taken of cover . This invites disaster,
+FIGURE 44 .-Advantage was taken of available concealment here .
+aJ
+00
+N
+CO
+28-29
+ARMORED FORCE FIELD MANUAL
+battalion may be in any of these echelons . Each echelon
+attacks in a series of waves using fire and maneuver .
+(1) First echelon-The mission of the first echelon of
+attack is to destroy enemy antitank defenses, artillery, command
+posts, and other rear installations . It pays little
+attention to personnel other than that operating antitank
+weapons and artillery, command post personnel, or reserves
+in assembly areas .
+(2) Second echelon-The mission of the second echelon
+of attack is to destroy infantry with its weapons, especially
+machine guns . It destroys antitank guns passed over by the
+leading echelon and also command posts, communication
+centers, reserves, and rear installations .
+(3) Third echelon.-The third echelon of attack advances
+with the infantry and destroys enemy personnel, machine
+guns, and installations holding up the infantry .
+b. It must not be assumed that the tanks will always attack
+first . Many times infantry will attack to secure ground from
+which a tank attack may be launched or in conjunction with
+engineers, to remove or clear paths through obstacles .
+If 29. FORMATIONS, FRONTAGES, AND DEPTHS . -Formations,
+frontages, and depths will depend upon the mission, terrain,
+enemy situation, and supporting fires . For type formations
+see figure 46 . Companies may be in any suitable formation .
+(See FM 17-32 .)
+a. Frontage.-(1) Wide frontage may be taken on a covering
+mission while a penetration calls for narrow frontage and
+great depth to give sustaining power to carry the action
+through to a successful conclusion .
+(2) A narrow frontage to facilitate control is taken in
+wooded terrain . Impassable ground may narrow the formation,
+(See fig . 47 .) In open terrain, wider frontages than
+for wooded terrain are practicable and desirable .
+(3) When enemy has few antitank guns and his other antitank
+defensives are light a wide frontage may be taken . If
+enemy antitank defenses are strong and cannot be avoided, a
+narrow frontage and formation in great depth is taken .
+(4) When well supported by artillery and bombardment
+aviation, the frontage may be greater than when such support
+is light or lacking . In the latter cases, the tanks must
+furnish their own supporting fires .
+6 6
+ARMORED BATTALION, LIGHT AND-MEDIUM
+67
+29
+FIGURE 4S .-Echelons of attack . Distances are not fixed but will
+depend upon terrain and the enemy .
+29
+ARMORED FORCE FIELD MANUAL
+d
+(3) The reserve is usually located behind the company
+making the main effort . It moves from firing position to
+firing position to give continuous support to the leading companies,
+It is prepared to repel counterattacks from the flank
+or to pass through a depleted leading company and continue
+the attack.
+(4) Unless an extremely wide front is covered, the mortar
+platoon and the assault gun platoon should be retained under
+battalion control .
+c . Wedge,-This formation is used in advancing against an
+enemy whose defenses have not been definitely located. The
+leading company covers the advance of the other two companies
+. These companies In turn protect the flanks, give fire
+support to the leading company, and are prepared to maneuver
+to either flank. Mortars and assault guns may be attached
+to the leading company.
+d. Column.-Column gives maximum control and driving
+power . The battalion may be quickly developed to either
+flank . The formation is useful in passing through woods .
+It may have to be used in passing a defile . It is the best
+formation for a penetration when the battalion is acting
+alone . For the initial advance against light enemy resistance,
+the leading company will usually cover a broad front,
+e . Echelon.-The battalion may be echeloned either to the
+right or left . Such formations are useful for a flank battalion
+as it gives great flank protection by favoring rapid deployment
+to the exposed flank . Assault guns and mortars may
+be attached to companies .
+f. Line.-This is a rare formation as it provides little depth
+and consequently low sustaining power . Its use is confined
+to screening or counterreconnaissance missions . Assault guns
+and mortars should be attached to companies .
+68
+1=1
++200-900 YDS-+
+ARMORED BATTALION, LIGHT AND MEDIUM
+1400-2500 YDS-'
+900-
+YDS
+2000
+4-81 MMI
+lol
+INVERTED WEDGE
+lc:)]
+475 SP
+753P 1000-
+. . .
+YDS
+4500
+COLUMN
+4-81MM
+F=7(-)
+4-81 MM
+750-3500 YDS
+161
+MM
+600- 3500 YOS
+11 1
+0
+(-)
+*8I MM
+LINE
+69
+76
+ECHELON
+WEDGE
+4(-) 75 SP
+4 75 SP
+101
+1 1000 YDS
+1014500
+29
+475 SP
+1.r86714 1 1
+FIGURE 46 .-Schematic formations for an armored battalion,
+. nvere wege.-This formation is suitable for any
+echelon of attack. It provides strong fire power to the front,
+flank protection, fire support, and a reserve to influence the 400- 2 500 YDS
+action . i
+(1) Frontage in this formation will rarely exceed 1,500
+yards . 11
+(2) The depth of the formation depends upon the terrain,
+mission, and fire support of other units . •
+lO) . . .
+29 ARMORED FORCE FIELD MANUAL
+FIGURE 47 .-Influence of terrain on formations .
+70
+ARMORED BATTALION, LIGHT AND MEDIUM
+29-31
+g. Other formations There are other formations or modifications
+of the above formations that may be used to meet a
+particular tactical situation. For example, in the echelon
+formation the rear company may follow in the trace of the
+center company,
+0 30. BATTALION HEADQUARTERS (see FM 17-10) .-a. In the approach
+to combat and in combat, the battalion has with it only
+those individuals and veh :cles necessary for the control, maintenance,
+and evacuation of the battalion and for supply of the
+battalion in the assembly position . All supply vehicles-gasoline,
+ammunition, equipment, and kitchen trucks if with the
+column-are left at the assembly position to be moved forward
+as directed by the regimental or combat command commander.
+Personnel sections are with the regimental, combat
+command, or division trains .
+b. The forward echelon of battalion headquarters (see FM
+17-10) moves with the battalion to the attack position. During
+combat the battalion commander, the S-2-3, and the artillery
+forward observer move forward with the battalion, the
+headquarters commandant remains at the attack position
+with the battalion headquarters maintenance section, attached
+battalion maintenance section, battalion medical detachment,
+and such other vehicles and personnel as the battalion
+commander may direct . The actions of maintenance
+and medical personnel are covered in section III . The headquarters
+commandant moves this group forward as directed
+by the battalion commander . In a penetration this group
+will follow the second or third echelon of attack .
+0 31. SUPPORTING FIRES.-a. Artillery (see FM 17-60) .-The
+artillery gives close support to the attack in all stages . (See
+FM 17-10.) An artillery forward observer, mounted in a tank,
+advances behind the leading waves of tanks . This officer has
+direct radio communication with the supporting artillery battalion
+and the tank battalion commander. Other artillery
+officers usually will be forward to conduct fire of individual
+battefles as may be necessary, but these will not be in the radio
+net of the tank battalion commander.
+(1) The tank battalion commander may expect from the
+artillery-
+71
+31
+ARMORED FORCE FIELD MANUAL
+(a) Firing of concentrations to cover development for an
+attack.
+(b) Assistance in security of assembly area by placing concentrations
+on avenues of approach for hostile troops,
+(c) Assistance in protection of the rallying point by fires as
+necessary on threatening hostile elements, and by counterbattery
+fire .
+(d) Support of initial attack by fires on hostile front line
+installations, antitank guns, observation posts, and artillery.
+Targets must not be closer than 300 yards to friendly troops .
+An area 200 yards wide and 200 yards deep can be effectively
+covered by one battery .
+(e) Continuing support as attack progresses by concentrations
+on hostile troops and weapons holding up the attack .
+(J) Screening, by smoke, of hostile antitank guns and
+observation points .
+(g) Assistance in breaking up hostile counterattacks, including
+hostile armored threats from the flanks .
+(h) Destruction of road blocks and troops defending them .
+(2) The battalion commander should not expect the
+artillery to-
+(a) Fire a long preparation before the attack, unless special
+arrangements have been made for dumping additional ammunition
+at the guns .
+(b) Fire concentrations on unimportant targets or targets
+which the tanks themselves may overcome without excessive
+danger .
+(c) Fire at targets that can be neutralized more quickly by
+assault guns, mortars, or tank weapons . Small targets close
+to the leading tanks and positively located can usually be
+eliminated quickly without calling for an artillery concentration
+.
+(d) Blast extensive passageways through mine fields .
+(3) Each officer must know how to call for and adjust artillery
+fire. (See FM 17-62.) Radio nets should be set up so
+that each tank company commander, if necessary, can tune
+into the artillery net . The company commander needing
+artillery support first calls his battalion commander on the
+radio, gives location and type of target, and requests fire .
+The battalion commander turns the fire mission over to the
+72
+ARMORED BATTALION, LIGHT AND MEDIUM
+73
+31
+Ftcosa 48-Do not call for artillery fire on unimportant missions.
+Here valuable ammunition is wasted on a machine gun that the
+tanks themselves can easily overcome .
+31 ARMORED FORCE FIELD MANUAL
+Ficuae 49-Save artillery for Important targets such as groups of
+antitank guns .
+7 4
+ARMORED BATTALION, LIGHT AND MEDIUM
+31
+artillery forward observer . If the observer is not in a position
+to direct the fire and cannot move quickly to such position,
+he may so state and the battalion commander gives the
+company commander authority to adjust fire . If the artillery
+forward observer should become a casualty, either the
+battalion commander or the company commander may
+adjust fire .
+(4) In order that all officers may be able to adjust fire, the
+battalion commander in his attack order designates a series
+of check points and easily identifiable terrain features, and
+numbers them consecutively in the direction of advance . To
+distinguish check points for the various artillery battalions,
+the check points for the lower numbered artillery battalion
+begins with 100, the next higher 200, and the highest number
+300. Company commanders number these check points on
+their maps .
+b . Air support,-(1) Air bombardment is used to supplement
+artillery fires and to attack targets beyond the range of
+artillery. The use of air bombardment should be coordinated
+with artillery fire .
+(2) The battalion commander has on his staff an officer
+called the S-3 for air . When the battalion is making the
+main effort or is the first echelon of attack this officer is
+mounted in a half-track vehicle, equipped with long-range
+radio, from the division signal company .
+(3) Should air support be needed and the signal company
+long-range radio is not available, the battalion commander
+may arrange through his regiment or the combat command
+for air support .
+(4) If air support is desired, ask for it at the earliest practicable
+moment . It takes time to get the planes to the right
+place .
+c . Mortar fires For employment of mortars see FM 17-27,
+The mortars should be retained under battalion control when
+the attack is on a narrow front. When the front becomes so
+wide that mortar support cannot be given leading companies
+by retention under battalion control, attach them to companies
+.
+d . Assault gun,-For employment of the assault gun platoon
+see FM 17-25 . The same principle of attachment which
+75
+31-33
+ARMORED FORCE FIELD MANUAL
+governs the mortar platoon also governs the assault gun
+platoon.
+e. Supporting tanks.-Medium tanks from another battalion
+may be used to support the attack either by direct or
+indirect fire . The reserve company should be used to support
+the attack by fire . Do not attempt to lay down extensive
+artillery preparations with the medium tanks ; the ammunition
+carried will not permit such action . (See FM 17-32 .)
+f . Infantry weapons.-When attacking with infantry, the
+infantry weapons are used to give fire support for the tanks .
+(See par. 32 and FM 17-10, 17-40, and 17-42 .)
+∎ 32 . COORDINATION .-Careful planning, perfect coordination
+and timing, and vigorous execution are essentials of a successful
+attack . The effect of all elements-tanks, infantry,
+artillery, and air-must be coordinated .
+a . In a meeting engagement coordination is difficult. (See
+par . 34 .) However, in an attack from assembly position on
+an enemy whose location has been determined, the maximum
+of coordination must be attained .
+b . Coordination is obtained by explicit orders, designation
+of time or signal for attack, and designation of a line or lines
+of departure . Commanders concerned or their staff officers
+must confer and make certain that each knows what, when .
+where, and how he is to operate.
+c. The regimental or combat command commander is responsible
+for coordination of the attack as a whole . However,
+the battalion commander must confer with the infantry
+commander, the artillery commander or his liaison officer, and
+the commander of supporting tanks . He makes all necessary
+arrangements to insure that each knows what the other is to
+do . He arranges for special signals and for any special radio
+communication . This information must be passed on to the
+lower units .
+∎ 33 . POSITIONS .-Locations or positions which must be understood
+by all are the assembly position, attack position,
+rallying point, and alternate rallying point. In addition
+separate tank battalions may use an intermediate position .
+(See fg . 49 and FM 17-10 .)
+76
+ARMORED BATTALION,' LIGHT AND MEDIUM
+33
+a. The assembly position (area) should afford concealment
+and is preferably beyond the range of hostile medium artillery
+fire, usually about 8,000 to 9,000 yards from the line of
+departure. If such assembly position would cause the battalion
+to move through a defile to reach attack positions, then
+select an assembly position in front of the defiles or cause
+several passages to be constructed through the obstacle .
+(See fig. 50 .) In assembly areas, post security, check vehicles
+and weapons. Get everything ready for the attack .
+b. An intermediate position may be designated if the assembly
+position is a great distance from attack positions .
+This is in fact a forward assembly position and should have
+the same characteristics as the assembly position .
+c. The attack position is as near the, line of departure as
+practicable, considering concealment . There will be an attack
+position for cach company or platoon . Halts are made
+only long enough to regain control, for last minute coordination
+with other troops, especially infantry if the attack is
+made through or in conjunction with infantry . Before reaching
+the attack position, assume a deployed or semideployed
+formation . Take up the formation with which the line of
+departure is to be -passed .
+d., The rallying point is a well-defned terrain feature at
+which the tanks assemble after reaching their objective . It is
+usually in rear of (on the friendly side of) the fnal objective .
+(See fig . 52 .) It should afford concealment and take advantage
+of natural obstacles for security. Here the battalion
+reorganizes, resupplies as necessary, takes care of wounded,
+and prepares for further action. Alternate rallying points
+are designated in case the rallying point is untenable or
+cannot be attained. The attack position may be designated as
+an alternate rallying point. There should be a rallying point
+and an alternate rallying point for each objective . Do not
+stop to reorganize on each objective . If the going is good
+keep going to the final objective, then reorganize . Keep control
+by observation of advance and issuance of necessary
+coordinating orders .
+480600°--43-8 77
+33 ARMORED FORCE FIELD MANUAL
+ENEMY (=:)OBJECTIVE
+c:::)
+0
+0
+RALLYING POINT
+LD
+LD
+ATTACK POSITION
+ALSO ALTERNATE
+RALLYING POINT
+'-```
+RARELY USED BY THE 1
+ARMORED BATTALION)
+moo
+If
+00
+`
+(SEPARATE TANK BATTALION,
+INTERMEDIATE POSITION
+ASSEMBLY AREA
+(SHOULD BE OUT OF RANGE
+OF HOSTILE MEDIUM ARTY
+FIRE)
+FIGURE 50 .-Armored battalion Installations.
+78
+ARMORED BATTALION, LIGHT AND MEDIUM 33
+FIGURE 51 .-Do not select assembly area with defiles in front that
+can be blocked by artillery . Move forward through defiles before
+discovered by the enemy . Disperse to minimize losses .
+79
+33 ARMORED FORCE FIELD MANUAL
+FIGURE 52 .-Rallying point .
+80
+ARMORED BATTALION, LIGHT AND MEDIUM-
+34
+∎ 34. MEETING ENGAGEMENT.--a . A meeting engagement may
+occur when the situation is obscure, such as the meeting of
+small hostile units when reconnaissance is not effective . Again
+it may occur when opponents are aware of each other's presence
+but attack immediately to gain some tactical advantage .
+(See FM 17-10 .) Advance guard action is an example of a
+meeting engagement .
+b . In order to secure tactical advantage in a meeting
+engagement it is essential that orders be issued and action
+initiated immediately. Commanders must be well forward .
+Little time is spent on coordination of fires . Attack is
+usually launched from march column . The mission of the
+command will determine the action taken .
+c. The following shows one form of action in a meeting
+engagement :
+(1) Situation,-(a) Combat command A, 60th Armored
+Division, is marching west along state highway 59 with the
+mission of destroying an enemy unarmed column reported
+advancing on TETRA from the west. (See fig, 53 .)
+(b) The 1st Battalion, 99th Armored Regiment, with one
+company of infantry, one platoon of engineers, a heavy tank
+destroyer platoon, a medium tank company, and one battery
+of field artillery attached forms the advance guard .
+(c) Reports from combat command reconnaissance units
+indicate a Red force of infantry, artillery, and tanks is marching
+from the west on TETRA . This force has brushed aside
+our reconnnaissance units .
+(d) At 10 :00 AM the point of the advance guard is as
+shown in figure 53 . The battalion reconnaissance platoon
+has reached DEAD MAN CREEK and has just reported that
+enemy patrol of two armored cars is moving east on highway
+59, leading car about 500 yards west of DEAD MAN
+CREEK.
+(e) At this time the advance guard commander, who is
+immediately behind the advance party, receives the following
+message from the combat command commander :
+"Battalion of enemy light tanks followed by two batteries
+of artillery and a regiment of infantry is moving east on highway
+59, head of column 2 miles east of TETRA. Seize
+81
+34
+ARMORED FORCE FIELD MANUAL
+PERRY ROAD RIDGE at once and cover the development
+of the combat command."
+(2) Actions and orders of battalion commander .-The
+advance guard commander (battalion commander) immediately
+gives orders as follows :
+"Support commander, enemy tanks, artillery and infantry
+moving east on highway 59, head of column 2 miles east of
+TETRA. Move your company at maximum speed and cover
+crossings of DEAD MAN CREEK .
+"Artillery observer, I want artillery prepared to fire on
+crossing of Dead Man Creek on highway 59 and enemy concentrations
+in woods west of the creek .
+"S-2-3 conduct reserve to assembly areas in woods west of
+Lone Branch . Send assault gun platoon and mortar platoon
+forward at once to report to me near junction of highway 59
+and PERRY ROAD. Report to me at PERRY ROAD with
+the company commanders . I am going forward ."
+(3) Situation-continued .-(a) As the point crossed LONE
+BRANCH it met the hostile reconnaissance cars previously
+reported, quickly deployed, attacked, and destroyed the cars .
+The advance guard continued the advance and as the point
+approached the bridge over DEAD MAN CREEK it was fired
+upon by two tanks coming down the road to the west . It
+immediately moved off the road to the woods on the right .
+The advance party took position on hill west of PERRY
+ROAD together with the assault gun, opened fire, and
+destroyed the hostile tanks . The support commander moved
+the infantry platoon south of the road and a tank north
+with orders to cover crossings of DEAD MAN CREEK . (See
+fig. 54 .)
+(b) The advance guard commander arrived at junction of
+highway 59 and PERRY ROAD . He learned by radio report
+from the reconnaissance platoon that DEAD MAN CREEK
+was favorable for crossing by tanks to a distance of 1 mile
+north of the bridge . One reconnaissance squad reconnoitering
+to the south reported to the infantry platoon leader on
+the south of the road that suitable tank crossings were located
+200 and 400 yards south of the bridge, This was reported to
+the battalion commander .
+82
+ARMORED BATTALION, LIGHT AND MEDIUM
+34
+(c) The reconnaissance platoon leader reported enemy
+patrols on west bank of DEAD MAN CREEK and what was
+estimated as a platoon of tanks moving into woods north of
+the road. (See fig . 54 .) Just then hostile artillery fire fell
+on woods northeast of the bridge knocking out one of the two
+tanks at (1) . The S-2-3 and the company commanders
+arrived at this time . An air observer dropped message stating
+that hostile tanks, estimated as a battalion, were moving
+north of road and going toward woods north of highway 59 .
+Infantry in carriers was moving into woods south of roads .
+(4) Actions and orders of battalion commander-continued.
+"Artillery observer, bring fire on enemy tanks at (2) .
+"Look at your maps . Tanks estimated as a battalion are
+moving here (pointing to map) . Infantry is moving into
+that woods (pointing to woods) .
+"We hold this ridge to cover development of the combat
+command. DEAD MAN CREEK is fordable north of that
+bridge .
+"Company B with assault gun and mortar attached, move
+here (see map), Prepare to repel enemy attack from west
+or north and to attack on my order .
+"Company C. Position rear Company B . Protect, right
+flank .
+"Company D. Position south Company C. One platoon
+edge woods cover west on north . (See map.)
+"Infantry company, move south of road, cover crossings of
+DEAD MAN CREEK there . 1st platoon Company A attached
+to you.
+"Mortar platoon less one squad cover bridge to front .
+"Assault gun platoon less one gun cover bridge to front .
+"I'll be with Company B .
+"Move out.
+"Artillery observer be prepared to switch fires to area in
+front of Company B . Come with me .
+"Company A keep enemy from crossing creek to your front,
+If artillery fire is needed, call me . You may adjust the fire ."
+83
+34 `"a. . . ARMORED FORCE FIELD MANUAL
+FxcusE 53 .-Illustrative problem, advance guard. (Map 1.)
+84
+ARMORED BATTALION, LIGHT AND MEDIUM
+FroUaa 54 .-Illustrative problem, advance guard action, (Map 2 .)
+85
+34
+3 5
+ARMORED FORCE FIELD MANUAL
+2 35 . ATTACK BY PENETRATION-a . General.-(1) Armored
+units seek to attack through weak spots in an enemy position,
+break through, and destroy rear installation . Attack is
+made through a well-organized position only when attack on
+other points is impracticable .
+(2) A penetration is characterized by attack on a narrow
+front, the massing of all available fires, and the maximum
+coordination of all means of attack . Often infantry and
+engineers will attack first to clear paths through obstacles
+through which tank units may pass .
+(3) The attack is made in three echelons, Against a position
+strong in antitank guns, medium tanks lead .
+b. First echelon of attack,-(1) Action prior to the attack.-
+Prior to the attack and after receiving the plan of
+attack the battalion commander-
+(a) Makes a map and personal reconnaissance of the routes
+to the attack position and, from an observation post, studies
+the ground over which he is to attack .
+(b) Causes company commanders and as many as practicable
+of lower unit commanders to make a personal reconnaissance
+.
+(c) Contacts infantry and reconnaissance units in the zone,
+obtains all information they may have concerning the terrain
+and the enemy, arranges for fire support and passage of lines .
+If infantry and engineers attack first, he arranges for liaison .
+(d) Obtains information on artillery support for the initial
+attack and for subsequent action . Makes requests for additional
+fires or changes in artillery fire plan if desired,
+(e) Obtains information on air bombardment support .
+Requests support desired . Makes arrangements for liaison
+with air observation .
+(f) Plans his attack.
+(g) Issues his attack order .
+(2) Plan of attack.-The plan of attack includes-
+(a) Formation .-Consider width of zone and distance to
+final objective . Normally the width will not exceed 1500
+yards . A formation with two companies leading will usually
+be satisfactory. The battalion commander prescribes the
+initial formation for the companies or gives each company
+a frontage .
+86
+ARMORED BATTALION, LIGHT AND MEDIUM
+FIGURE 55 .-Plan of attack showing objectives .
+NorE.-Numbers designate artillery check points .
+87
+35
+35 ARMORED FORCE FIELD MANUAL
+FIGURE 56, Plan of attack . If change of direction is necessary, make
+it at a well-defined terrain feature.
+88
+ARMORED BATTALION, LIGHT AND MEDIUM 35
+40
+ARTILLERY CONCENTRATION
+AIR BOMBARDMENT
+Il
+(FIRE SUPPORT)
+ARTILLERY
+CONCENTRATION
+AIR BOMBARDMENT
+ARTILLERY
+CONCENTRATION
+AIR BOMBARDMENT
+ARTILLERY
+CONCENTRATION
+OR SMOKE
+FaDuBE 57,-Coordination of fires for initial attack . Broken symbols
+show one formation for advance .
+89
+ARMORED FORCE FIELD MANUAL
+(b) Objective .-Designate a series of objectives. The first
+objective is usually the enemy second line position or a prominent
+terrain feature in rear of his front installations . Objective
+should be easily discernible terrain features .
+(c) Direction of attack.-The objectives determine the direction
+of attack. However, an azimuth of attack should be
+given. If a change of direction becomes necessary, make it
+on a prominent terrain feature .
+(d) Boundaries .-Boundaries rarely are designated unless
+another battalion is attacking abreast. The boundary is then
+designated by the higher commander . Each company is given
+a frontage . A road or other suitable feature may be designated
+as a guide . A boundary may be given between companies
+. However, designation of objectives will often be
+sufficient . Figure 56 shows a boundary between companies .
+(e) Line of departure .-This should be some line as far forward
+as available cover will permit . It may be a small stream,
+edge of a woods or other distinguishing line. Different lines
+of departure may be designated for each company .
+(f) Time of attack.This will normally be set by the higher
+commander and is on time or by signal. When infantry
+attacks prior to the tanks, the tank is launched by signal .
+(3) Attack through infantry .-(a) If the attack is made
+through infantry, special arrangements must be made for passage
+of lines . The battalion commander contacts the infantry
+commander in his zone and arranges for this passage . Each
+company commander contacts the infantry troops in his part
+of the zone and makes arrangements whereby foot troops indicate
+their positions so they will not be endangered by tanks .
+Guides are posted as necessary .
+(b) When infantry attacks first to clear a passage through
+obstacles, liaison is maintained by the battalion commander
+with the infantry commander . Infantry or engineers post
+guides to show tanks where to cross the obstacles .
+(4) Movement to attack positions(a) Guides are posted
+or routes marked to attack positions . The battalion moves
+out, protected if necessary by a small covering detachment .
+The covering platoon should be from the reserve company
+and takes up positions to protect the attack position and
+90
+ARMORED BATTALION, LIGHT AND MEDIUM 35
+.'+ + + + + + ++++++ + + ++++ + + + +I
+ENGINEERS AND
+INFANTRY MAKE
+PASSAGE FOR TANKS
+AND INDICATE TO
+TANKS WHERE TO
+CROSS THE OBSTACLE .
+TANKS MOVE INTO ATTACK POSITION
+AFTER INFANTRY ATTACK STARTS .
+TANK LN OFFICERS, MOUNTED IN TANKS
+ARE WITH THE INFANTRY.
+FIGURE 58.-Attack through infantry and engineers who have
+cleared passages through obstacles .
+91
+35
+ARMORED FORCE FIELD MANUAL
+support the attack. The mortar platoon and assault gun
+platoon follow the covering force and go into position . The
+leading companies follow and move Into attack position . The
+reserve and the battalion headquarters, less the command
+group, move last. The battalion commander with his S-3
+moves behind the covering force . The artillery observer eithermoves
+with the battalion commander or goes to the attack
+position ahead of the battalion where he will be ready to
+observe and adjust fires.
+(b) Movement to the attack position is made at such time
+that only a few minutes will be spent in that position for last
+minute check and orders .
+(5) Conduct of the attack .-(a) The battalion commander
+observes the attack and, by personal orders or by use of his
+staff, directs the companies as necessary . The battalion
+commander must use the radio himself .
+(b) As the attack progresses, the battalion commander or
+his S-3 designates targets or missions for the assault gun
+platoon or the mortar platoon . The battalion commander
+personally directs the movement of the reserve to influence
+the action . He calls upon the artillery observer for fires . In
+case the artillery observer becomes a casualty the battalion
+commander or his officers adjust artillery fire . (See FM
+17-62 .)
+(c) The reserve follows the assault companies at 300 to
+1,000 yards . It moves by bounds from cover to cover where
+it can give continuous fire support to the leading companies
+and protect the flanks . Do not use the reserve company for
+artillery support when artillery is available, This will deplete
+the ammunition supply and the reserve will not be able to
+influence the action later . When an objective is taken the
+reserve must be prepared to protect against counterattack .
+(d) For action of rallying point see paragraph 33 .
+92
+AkMORED BATTALION, LIGHT AND MEDIUM 35
+Flouts 59.Use reserve as necessary for fire support . Mortars and
+assault guns displace so as to maintain continuous Sre support .
+480800 42---7 93
+35,
+ARMORED FORCE FIELD MANUAL ,
+FIGURE 60-Keep companies in . right direction . Here Company E
+Is advancing in wrong direction .
+94
+ARMORED BATTALION, LIGHT AND MEDIUM
+FIGURE 81 .-Use artillery to support attack where practicable . Here
+Companies D and E are held up by antitank fire. Artillery is
+available and can bring down much more effective fire than can
+Company F.
+95
+35
+35
+ARMORED FORCE FIELD MANUAL
+FIGIIBE 62-Reserve is placed to cover flanks of leading companies on
+objective .
+96
+ARMORED BATTALION . LIGHT AND MEDIUM
+35
+97
+35 ARMORED FORCE FIELD MANUAL
+98
+ARMORED BATTALION . LIGHT AND MEDIUM
+FIGURE 65 .-Use reserve to make passage of lines and to assume
+mission of a depleted company .
+c. Second echelon of attack .-(1) Position,-The second
+echelon may be either light or medium tanks . It follows the
+leading echelon at a variable distance from 500 to 3,000 yards,
+depending upon the terrain and the enemy situation . It
+should be close enough so that the enemy will not have time
+to reorganize his antitank defense after the first echelon
+passes but should not be so close as to become intermingled
+with elements of the first echelon .
+(2) Function .-The second echelon of attack must be prepared
+to-
+(a) Support the leading echelon by fire .
+(b) Protect the flanks of the leading echelon .
+(c) Pass through and assume the mission of the first
+echelon should that battalion become so depleted as to be
+unable to continue on its mission .
+(d) Make an envelopment to either flank .
+(3) Formation.The second echelon must assume a formation
+that permits fire support of the leading echelon by
+99
+35
+35
+ARMORED FORCE FIELD MANUAL
+some of its elements ; covers the zone of attack to beat down
+hostile automatic weapons ; and facilitates movement to
+either flank or passage through the first echelon . Wedge
+formation will be proper in most cases .
+(4) Action prior to the attack.-Prior to the attack and
+after receiving the orders or plan of the regimental or combat
+command commander, the battalion commander-
+(a) Makes personal reconnaissance and causes lower unit
+commanders to reconnoiter routes to the attack position and
+to the line of departure of the first echelon .
+(b) Studies map of zone of attack .
+(c) Contacts battalion commander of first echelon, learns
+his plan of attack, marks objectives on map, locates artillery
+check points, arranges to support first echelon by fire .
+(d) Contacts infantry or reconnaissance units in the front,
+obtains all possible information of the enemy, arranges for
+be made through mine fields or other obstacles, and arranges
+for indicating to tanks the location of these paths,
+ments for indicating to tanks the location of these paths .
+(e) Obtains information on artillery support .
+(f) Plans his attack .
+(5) Plan.-The plan includes the steps outlined in b(2)
+above .
+(6) Conduct of the attack .-(a) The battalion moves into
+position immediately after the first echelon of attack . The
+battalion commander must be well forward, usually just behind
+the company supporting the first echelon . He moves the
+battalion forward when the first echelon has passed the first
+obstacles or when his support company can no longer support
+the leading echelon by fire .
+(b) The battalion commander moves his battalion rapidly
+forward and overruns and destroys hostile infantry and
+weapons. He must be ready at all times to repel a counterattack
+from either flank. He overcomes small isolated enemy
+resistance by use of tanks, mortars, and artillery fire . During
+the advance, the artillery may displace forward with or
+behind his battalion . This artillery is not attached to his
+battalion but he gives such aid and security as is consistent
+with accomplishment of his mission .
+(c) In case of enemy counterattack the battalion commander
+immediately takes appropriate countermeasures,
+100
+ARMORED BATTALION, LIGHT AND MEDIUM 35
+FIGURE 66 .--Second echelon of attack. Attack positions.
+101
+35 ARMORED FORCE FIELD MANUAL
+102
+as q
+0Wp
+aam
+000c-0aa~o E .!2
+P 0 43
+wy d
+IV M
+73,0
+0 0E
+i 0 0
+0
+mb
+Qw
+Co8
+0
+a 0 N NN0
+~0 . a4
+abv
+U 0
+C 41 M ;'UW
+ao~
+10 4!
+U
+oti
+ARMORED BATTALION, LIGHT AND MEDIUM
+35-36
+d, Third echelon of attack .-(1) If armored infantry makes
+the initial attack, the tank battalion will advance behind the
+second echelon of attack, joining the infantry in front of the
+line of departure . If the armored infantry does not make
+the initial attack, it advances, in carriers, close behind the
+second echelon of attack. The tank battalion follows the
+Infantry closely . (See (3) below.)
+(2) Prior to the attack the battalion commander-
+(a) Makes a map and personal reconnaissance and requires
+subordinate leader to make such reconnaissance as is practicable
+.
+(b) Contacts the infantry commander and makes arrangements
+for coordination, and liaison .
+(c) Plans his action .
+(3) The advance to attack maybe made with infantry leading,
+with tanks leading, or by tanks and infantry together .
+(a) When resistance is light, infantry in carriers will
+usually lead the attack. The leading tanks follow the infantry
+at 200 to 500 yards . When infantry is forced off carriers by
+hostile fire, tanks immediately attack and assist the infantry
+to advance .
+(b)' When the second echelon has not reduced all hostile
+automatic weapons the tanks of the third echelon lead the
+attack. Infantry follows closely in carriers if practicable .
+(c) When attacking, dismounted infantry advances with or
+closely behind the tanks .
+(4) The tanks of the third echelon must be prepared to-
+(a) Overcome local resistance holding up the infantry .
+(b) Repel a counterattack .
+(c) Move rapidly to either flank as an enveloping force to
+assist the first or second echelon .
+(d) Pursue .
+∎ 36 . ENVELOPMENT .-The battalion may be used as an enveloping
+force and may itself use enveloping action in attack .
+a. Battalion as an enveloping force .-As an enveloping
+force the battalion will usually be reinforced. It moves
+rapidly around the enemy flanks and attacks from flank or
+rear. The attack is timed with a frontal attack by infantry
+or other tanks and with artillery fire . The objective and time
+of attack is set by the higher commander, Time of attack
+103
+36
+ARMORED FORCE FIELD MANUAL
+may be upon signal that the enveloping battalion is in position
+. When practicable the battalion commander will be
+permitted to choose his own direction of attack, the flank only
+being indicated .
+(1) In an envelopment, place mortars, assault guns, and a
+medium tank company to support the attack by fire . Use the
+remainder of the battalion as a maneuvering force .
+(2) In advancing to attack positions, use a covering force
+consisting of the reconnaissance platoon, one or more platoons
+of tanks, and infantry .
+(3) Use the reconnaissance platoon to reconnoiter the
+exposed flank and protect this exposed flank by a tank platoon
+. The infantry company follows the attack at about 500
+yards, in carriers as far as possible, and mops up the enemy
+position .
+F___
+FIGURE 68 .-Movement to attack positions in envelopment,
+104
+ARMORED BATTALION, LIGHT AND MEDIUM 36
+FIGVRE 69 .-Plan of attack, envelopment .
+b . Battalion acting alone .-When acting alone the battalion
+may use a single or double envelopment maneuver . Infantry,
+if present, with a medium tank company and the assault gun
+and mortar platoons, less detachments, forms the base of fire .
+The remainder of the battalion envelops one or both flanks .
+Use reconnaissance platoon for reconnaissance on both flanks .
+Coordinate artillery fire with the attack .
+105
+36
+ARMORED FORCE FIELD MANUAL
+r.
+FxouaE 70-Single envelopment reinforced tank battalion
+acting alone .
+FIcvaE 71 .-Double envelopment, reinforced battalion .
+106
+ARMORED BATTALION, . LIGHT AND . MEDIUM
+37
+∎ 37. TANK VERSUS TANx ACTION (see FM 17-10) .-Attacking
+tanks frequently encounter hostile tank units unexpectedly .
+At other times they may be required to attack hostile tanks
+deliberately in order to break up an attack or a counterattack .
+It is therefore necessary that all personnel be carefully trained
+in recognition of hostile and friendly tanks ; characteristics
+and capabilities of hostile tanks as to armor, armament, and
+speed ; vulnerable parts of hostile tanks upon which fire will
+be effective ; range at which each of our weapons is effective
+against hostile vehicles ; enemy methods of tank employment ;
+and methods of combating hostile tanks, such as the use of
+speed, defilade and cover, and ambush . In tank versus tank
+actiona.
+Use artillery concentrations on hostile tanks . Concentrations
+will be especially effective in defiles.
+b. Place some tanks (preferably medium tanks) together
+with assault guns in def laded or concealed positions to fire
+upon and slow down the hostile attack when enemy tanks
+come within effective range.
+c. Use mortars to place smoke on the enemy to disorganize
+his attack. Smoke may also be used to screen maneuver of
+your own tanks .
+d. Maneuver part of the battalion to one or both hostile
+flanks where they can attack by fire at close range, preferably
+from defiladed or ccncealed position.
+e . If defiladed or concealed positions are not available use
+smoke both of mortars and artillery to disorganize the enemy
+and screen the advance to effective range .
+/. When attacking, an enemy inferior in armament, advance
+rapidly to positions beyond the effective range of his weapons,
+take up stationary position, and fire . If enemy advances,
+withdraw and keep beyond range of his guns while still keeping
+him within effective range of your own guns .
+g. When attacked by an enemy whose armament is superior
+to your own, withdraw and lead him into your own antitank
+defenses . If there are no antitank defenses backing you
+up, place smoke on enemy and maneuver rapidly to approach
+within effective range .
+h. Use terrain to aid in maneuver, defilade, and concealment.
+107
+3 7 ARMORED FORCE FIELD MANUAL
+ONE OR",x
+tiCOMPANIES
+MAY FOLLOW,*THI$,'=.ROUT
+FIGURE 72 .-Tank versus tank action . Place some tanks In defllade
+to flre on and slow down the enemy while other tanks maneuver
+against one or both flanks . Use artillery and mortars to smoke
+hostile tanks .
+108
+ARMORED BATTALION, LIGHT AND MEDIUM
+480600°-42--8
+109
+37
+2500 YDS 1100-
+1600 YDS
+00
+EFFECTIVE RANGE
+HOSTILE WEAPONS
+1000 YDS
+0
+W Z
+a
+W 5-
+0 is
+N=~~WZ
+In-a wWr
+ww Y3Wm
+EFFECTIVE RANGE
+YOUR WEAPONS y
+O O
+0 0 0 0
+O O 1600 YDS
+0 00
+00 0
+0 0
+0 0
+0 0
+BYDURE 73,--If enemy armament is Inferior, advance to effective
+range of your own weapons and fire . Stay out of effective range
+of enemy weapons .
+37 ARMORED FORCE FIELD MANUAL
+0 O
+y
+00
+N
+t 11-
+Ia
+Ita
+1a
+EFFECTIVE RANGE
+ENEMY WEAPONS
+1500 YDS .
+EFFECTIVE RANGE
+OWN WEAPONS
+1000 YDS
+la
+a
+FIGURE 74:In open country offering no concealment, if your weapons
+are inferior to those of the enemy, withdraw and lead enemy
+into fire of friendly supporting antitank guns .
+110
+ARMORED BATTALION, LIGHT AND MEDIUM 37
+FIGIIRE 75 .-If not possible to withdraw to antitank supporting
+weapons, use smoke screen to cover movement to effective range .
+111
+38-39
+ARMORED FORCE FIELD MANUAL
+∎ 38. 13ATTALION IN RESERVE,-a . A battalion in division reserve
+must be prepared to'move rapidly to a flank to extend
+an envelopment, relieve a depleted assault battalion, repel a
+mechanized attack, or pursue a defeated enemy, . The reserve
+is located in a position where It can best support the main
+attack and cover the flanks .
+b. The battalion commander of the reserve battalion-
+(1) Keeps himself constantly informed of the situation and
+of the division commander's plans either by personal contact
+with the division commander and his staff or by a liaison
+officer .
+(2) Maintains a liaison officer at the division command
+post,
+(3) Constantly studies the map and plans movements .
+(4) Initiates route reconnaissance for movement of the
+battalion .
+(5) Keeps his battalion informed of the situation.
+∎ 39. PURSUIT.-When it is recognized that the enemy is withdrawing,
+pursuit must be launched immediately and, pushed
+to the limit of endurance of the command even into the night .
+Only lack of fuel or ammunition will be allowed to halt the
+action even temporarily. The enemy must be given no rest
+and must not be given time to regroup his forces and reorganize
+his defense .
+a. Armored battalion .-The armored battalion will usually
+be part of the combat command in pursuit . It will usually be
+reinforced with engineers, Infantry, and artillery .
+b. Light tank battalion .-Light tank battalions together
+with infantry and engineers will be given missions of advancing
+rapidly behind the enemy, moving parallel to the enemy
+withdrawing columns, and seizing critical terrain that will
+block hostile retreat . Medium battalions then attack and
+destroy the enemy,
+c. Formations .-(1) When advancing along roads parallel
+to the enemy, march formations are taken with reconnaissance
+units to the front and flanks . When the enemy Is met,
+deployment must be rapid in order to destroy the enemy force
+at the earliest practicable moment.
+(2) When advancing through scattered groups of enemy, a
+partially deployed formation is taken, Part of the advance
+112
+ARMORED BATTALION, LIGHT AND MEDIUM
+39-41
+may be made across country in order to pass and cut off the
+retreating enemy.
+d. Observation aviation.-Maximum use must be made of
+observation aviation . Air observers should report direct to
+the battalion headquarters by radio or drop message, giving
+the enemy situation and especially locations of large bodies of
+troops.
+SECTION VII
+DEFENSIVE ACTION
+N 40. OENERAL .-C. In defense the armored battalion is held
+in reserve to be used on counterattack missions to the front,
+flanks, or rear . As the tank is primarily an offensive weapon
+it should not be placed in position and used as a pill box,
+except when the enemy is to be ambushed. This last mission
+is more suited to the tank destroyer units and tanks should
+not be used for that purpose when tank destroyers are present .
+b. The battalion acting alone will rarely take up the defensive
+unless forced to do so by lack of fuel .
+1 41 . DEFENSE or A POSITION,--a . In defense of a position, infantry
+occupies the main line of resistance while tank units
+are held in reserve . (See FM 17-10, 17-100, and 100-5 .) The
+battalion may be part of a combat command as general reserve
+or may be in local reserve for a particular section of the
+line. Medium tanks are normally used in local reserve while
+some medium tanks and light tanks are placed in general
+reserve.
+b. As a local reserve the tank battalion may be called upon
+to counterattack the enemy either in the front or to the flanks
+before he has reached the main defenses, or counterattack an
+enemy who has succeeded in penetrating the position and
+destroy or eject him .
+e. The reserve position should-
+(1) Afford proper concealment for all vehicles and personnel
+.
+(2) Be large enough to allow for dispersion of vehicles,
+that is, at least 50 yards between vehicles .
+(3) Have good routes leading into and out of the position
+so that movement may quickly be made to previously selected
+attack positions .
+113
+41 ARMORED FORCE FIELD MANUAL
+FIGURE 76 .-One type of defense for armored division, showing
+armored battalions as local reserves .
+114
+ARMORED BATTALION, LIGHT AND MEDIUM
+41
+(4) Be out of effective artillery range, that is, 4,000 to
+7,000 yards behind the front line,
+d, ' he battalion commander must make plans for all
+possible uses of the reserve including use in sectors other
+than the particular sector in which his battalion is operating .
+During organization of the defense, the battalion commander
+moves or causes his battalion to move into a reserve position
+as indicated by the higher commander, provides for local
+security as in an assembly area, then proceeds as follows :
+(1) 'Contacts the infantry commander in the sector, and
+FIGURE 77 .-Counterattack . If possible strike the enemy before he
+reaches our own lines . If front is covered with mines, passages
+must be opened for this purpose or gaps left,
+learns this offIcer's plans and tactical dispositions . He reconnoiters
+the area and with the infantry commander plans
+counterattacks and coordination for counterattacks to
+include--
+(a) Tank attack positions .
+(b) Infantry, artillery, antitank gun, and air support of
+the tank attack. (All possible weapons should support.)
+115
+41
+ARMORED FORCE FIELD MANUAL
+(c) Direction for each contemplated attack.
+(d) Objectives .
+(e) Arrangements for marking- paths in mine fields so
+tanks may attack the enemy in his attack positions or pursue
+him.
+(f) Arrangements for liaison . The tank battalion should
+keep one liaison officer at the infantry battalion command
+post . This officer must be equipped with radio, The B-3 for
+FIOUEE 78 .-Counterattack . If enemy succeeds in penetrating the
+position, counterattack and eject him . Do not be satisfied with
+merely ejecting him, also destroy the reserves following.
+air in the battalion commander's half-track vehicle may be
+used for this duty.
+(2) The battalion commander then outlines his plans to
+his company commanders and directs them to make and have
+their lower unit leaders make careful route reconnaissance
+to the various attack positions . He should also require subordinate
+commanders to make careful employment reconnaissance,
+on foot, over the area of contemplated attack. Recon-
+116
+ARMORED BATTALION, LICHT AND MEDIUM
+FrevaE 'i9 .-Plans of action . Each plan is numbered . All plans
+must provide artillery and infantry support .
+117
+41
+41-42
+ARMORED FORCE FIELD MANUAL
+naissance should be made beyond the main line of resistance
+to the outpost line of resistance when time is available .
+(3) Next, the battalion commander visits adjacent tank
+battalions and makes plans for mutual support . He obtains
+reconnaissance data from these commanders and makes any
+personal reconnaissance that can be made in the time
+available .
+(4) Orders for various plans of attack are then given .
+They should be in overlay form or marked on maps . Each
+FIGURE 80-Plan of action . Make plans for assistance of adjacent
+battalions .
+plan is given a number and when time comes for action the
+battalion commander merely calls for execution of a particular
+numbered plan .
+X 42 . WITHDRAWAL.-a. As Part of a general covering force,
+tanks will be very useful in daylight withdrawal but are of
+little value at night except in bright moonlight . As part of
+the covering force the tank battalion, by rapid thrusts on a
+broad front, attacks and disorganizes the enemy and thus
+118
+ARMORED BATTALION, LIGHT AND MEDIUM
+42-43
+gives other troops the opportunity to disengage and retire .
+These are limited objective attacks . These attacks are supported
+by available artillery. Having reached its objective the
+battalion withdraws, taking with it, by towing if necessary, all
+disabled tanks . The rallying point is usually the attack
+position .
+b. When acting alone the tank battalion uses smoke to
+screen the withdrawal . A company supported by mortars and
+assault guns may be used to attack as in a above, to cover
+the withdrawal of the remainder of the battalion. A rear
+guard is then formed .
+c. Prior to withdrawal of the combat elements, trains,
+except those that are absolutely essential, such as the
+maintenance and medical vehicles, are sent to the rear .
+43 . DELAYING ACTION,-a . As part of a larger force in delaying
+action the tank battalion is used as a reserve to protect
+the flanks and make limited objective attacks (par. 42) .
+FIGURE 81 .-Armored battalion as part of a delaying force . Battalion
+is used in reserve and attacks flank of enemy .
+119
+43 ARMORED FORCE FIELD MANUAL
+--1
+IST DELAYING
+POSITION
+Ftovae 82 .-Reinforced battalion In delaying action, acting alone .
+120
+ARMORED BATTALION, LIGHT AND MEDIUM
+THIS COMPANY
+COUNTERATTACKS
+AND WITHDRAWS
+THIS CO PANY PROTECT$
+WITHDRAWAL OF LEADING
+COMPANIES
+COMPANY OCCUPIES
+POSITION, FIRES
+FROM DEFILADE OR
+IF MEDIUM COMPANY
+USES INDERECT FIRE,
+WITHDRAWS TO
+ANOTHER DELAYING
+POSITION WHEN
+FORCED BACK .
+MORTARS FALL BACK
+TO SECOND POSITION
+I
+I
+43
+Frau8E 83 .-Armored battalion acting alone in delaying action, No
+reinforcements.
+121
+43-45
+ARMORED FORCE FIELD MANUAL
+b . When acting alone in delaying action the armored battalion
+will usually be reinforced with infantry, artillery, and
+engineers . Artillery by long-range fire delays and forces deployment
+of the enemy . Engineers destroy bridges and blow
+up fords . The infantry occupies positions from which it can
+force enemy deployment while tanks make limited obJective
+attacks on the flanks and front of the enemy . The infantry
+then withdraws under protection of the tanks to the next
+delaying position .
+c . If the tank battalion is not reinforced, companies or platoons
+with assault guns and mortars occupy defiladed or concealed
+positions to bring fire on and force the enemy to deploy
+while other tanks make flank attacks . These tanks then
+withdraw to the next delaying position .
+d. Delay may be in one position or successive positions .
+If delay is in one position, select as strong a position as practicable,
+that is, high ground with a stream In front and
+flanks protected by impassable ground . If delay is in successive
+positions, select these positions so that enemy artillery
+will have to displace. Select intermediate positions to cover ,
+withdrawal and withdraw by echelon .
+SECTION VIII
+SPECIAL OPERATIONS
+• 44 . GENERAL .-Although fundamentals are the same for
+special operations as for other tank actions, certain operations
+present special problems that require some change in
+technique . The paragraphs below are written as a guide for
+solving certain type operations . Some conditions, such as
+operations in desert or in snow and ice, require special training
+and seasoning of troops.
+• 45 . ATTACK OF A RIVER LINE-In the attack of a river line
+the armored battalion is normally part of a larger force .
+However, the battalion when acting alone may seize bridges
+over unfordable streams, may force the crossing of streams
+at fords, or may with the assistance of engineers, cross small
+unfordable streams, The latter will be exceptional and the
+122
+ARMORED BATTALION, LIGHT AND MEDIUM
+45
+battalion must be reinforced with reconnaissance, infantry,
+engineer, and artillery elements for such operations .
+a . As part of a larger force (see FM 17-10) .-The infantry
+supported by artillery and fire of medium tanks forces the
+crossing, the engineers build the bridge, and the tanks then
+cross . Some tanks may be ferried across early. Light and
+medium tanks may be used to support the crossing by fire .
+Medium tanks are more suitable for this purpose .
+(1) Light armored battalion.Light tanks are held in concealed
+assembly areas beyond range of hostile medium artillery
+fire and move to the river at the proper time to be ferried
+across or to use the bridge. An assembly point is designated
+on the far bank of the river where the battalion is reformed .
+Subsequently, the battalion performs such missions as are
+directed . Do not close up on river bank, or move up too early .
+The enemy may launch an air attack or bring artillery fire
+on the column .
+(2) Medium armored battalion .-The medium armored
+battalion, when not 'used for fire support, is -conducted the
+same as the light armored battalion in (1) above. A medium
+armored battalion may be used to assist the initial crossing
+by direct or indirect laying methods . When so used these
+tanks are placed in concealed positions close to the river
+bank, preferably on high ground. Medium tanks should not
+be used to replace artillery but are used for fire on definitely
+located enemy targets . Do not fire all your ammunition ;
+it will be needed when the crossing is effected .
+123

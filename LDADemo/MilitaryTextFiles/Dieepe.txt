@@ -1,0 +1,1311 @@
+Canadian Military History
+Volume 12 | Issue 4 Article 6
+4-16-2012
+Air Operations at Dieppe: An After-Action Report
+Trafford Leigh-Mallory
+This Feature is brought to you for free and open access by Scholars Commons @ Laurier. It has been accepted for inclusion in Canadian Military
+History by an authorized administrator of Scholars Commons @ Laurier. For more information, please contact scholarscommons@wlu.ca.
+Recommended Citation
+Leigh-Mallory, Trafford (2003) "Air Operations at Dieppe: An After-Action Report," Canadian Military History: Vol. 12: Iss. 4, Article
+6.
+Available at: http://scholars.wlu.ca/cmh/vol12/iss4/6
+55
+The ill-fated action at Dieppe in August 1942 is
+most often remembered for the heavy casualties
+suffered by the Canadian land forces deployed in the
+assault and the political controversy that followed
+this ‘military debacle’. Lingering doubts over the
+rationale for the raid, and persistent statements
+that lives were lost in vain, continue to this day. But
+the Dieppe Raid was much more than casualties
+and questionable military decision making. It had
+immediate and valuable implications on the planning
+and conduct of future Allied amphibious operations,
+particularly the D-Day landings on 6 June 1944.
+Operation Jubilee was the first joint operation of
+consequence conducted by British and Commonwealth
+forces in the European theatre during the Second
+World War. It was joint because the three services
+– the navy, army and air force – planned and
+executed the raid in concert with each other. Sadly,
+for the Allied forces involved, it also demonstrated
+just how unprepared they were in 1942 for joint coordination
+at the operational level of war. In many
+respects, the raid took the form of three separate
+services executing pre-arranged single-service plans
+that at best were loosely co-ordinated. So long as
+their activities went according to plan, which was
+the case for the navy and the air force, they were
+successful. Missing was the flexibility of response
+that is essential for effective impromptu action from
+one or more service when enemy activity or other
+unexpected developments disrupt pre-planned
+operations. The post-raid Dieppe Report by the
+Air Force Commander, Air Marshal Trafford Leigh-
+Mallory, makes for interested reading on how the
+British and, subsequently, the Anglo-American Allies
+identified the key elements required for successful
+joint and combined operations.
+Leigh-Mallory’s report focuses on the conduct of
+the air operations but it also addresses how air forces
+can best be used in future operations with the navy
+and the army in both pre-arranged and impromptu
+actions. For Leigh-Mallory it all begins with effective
+command and control. RAF doctrine also emphasized
+the importance of co-ordinating the entire air effort
+– fighters, bombers, reconnaissance aircraft, etc.
+– from a central point. Fighter Command’s ground
+control organization was used for this purpose and
+it proved very successful in co-ordinating the various
+offensive and defensive air operations during the
+Dieppe Raid. A system of forward air control was also
+established using radio links onboard headquarters
+ships. This enhanced the flexibility of the air forces
+by linking centralized control with decentralized
+delivery. Moreover, it was on the basis of the success
+achieve by the air forces during the Dieppe Raid that
+the air plan for Operation Overlord was devised.
+The Dieppe Raid also highlighted a number of
+other important factors that affected the nature of the
+contribution made by air forces in joint operations.
+The primary importance of air superiority to all other
+air operations, the impermanence of close support
+and the many difficulties of target identification,
+the benefits of an indirect application of air power
+through dislocation rather than destruction of
+enemy forces, and the pressing need to strengthen
+cross-service understanding and develop common
+operating procedures, all feature in the lessons
+identified by Leigh-Mallory and the air staff from
+the Dieppe Raid. Leigh-Mallory is also adept at
+identifying the strengths and weaknesses of air
+operations in a joint campaign and drawing the
+correct lessons on how to maximize success and
+minimize inherent weaknesses. His conclusions are
+particularly apposite and many of the observations
+made in his Dieppe Report had direct impact in both
+the air plan and the wider planning for D-Day and
+the Normandy Campaign.
+The Dieppe Report, therefore, is one of the
+more important ‘lessons learned’ documents of the
+Second World War. It established a clear conceptual
+framework, based on hard earned and costly
+experience, for joint and combined operations
+that were the pre-requisites for an Allied victory in
+Europe.
+David Ian Hall
+(David Hall is an Air Warfare Historian on the Higher
+Command and Staff Course at the Joint Services Command
+and Staff College, part of the UK Defence Academy,
+Shrivenham.)
+Air Operations at Dieppe
+An after-action report by Air Marshal Trafford Leigh-Mallory
+© Canadian Military History, Volume 12, Number 4, Autumn 2003, pp.55-70.
+1
+Leigh-Mallory: Air Operations at Dieppe
+Published by Scholars Commons @ Laurier, 2003
+56
+Sir,
+I have the honour to forward herewith my
+Report on the part taken by the Air Forces in the
+DIEPPE Operation on 19th August, 1942.
+2. This Operation involved landings at
+Dieppe by our troops at first light followed by
+a withdrawal about mid-day. The Air Forces
+involved operated most intensively throughout
+the day from dawn until late into the afternoon.
+As the withdrawal was made on the same day as
+the landing a far heavier strain was imposed on
+the Air Forces than would have been the case had
+our occupation of Dieppe been more prolonged.
+3. Our attacks from the sea were made
+under the supporting fire of destroyers only
+against strong and well organised shore defences.
+Every effort was made therefore to provide
+maximum air support and air cover during the
+initial assault.
+4. This Air Support under fighter cover
+compromised airborne smoke and bombing
+attacks on enemy battery positions and the
+shooting up of the enemy’s defences by cannon
+Hurricanes. Of these, smoke was by far the most
+effective. It was laid by Bostons and Blenheims
+dropping 100lb. phosphorus smoke bombs from
+about 50 feet.
+5. The main landing was timed for 0520
+hours and from 0510 to 0600 hours the smoke
+from these bombs covered the front of the
+Eastern Headland overlooking Dieppe. Both
+the Naval and Military Force Commanders
+accompanying the expedition report that no
+intense fire came from this Eastern Headland
+until the smoke had cleared. From then onward
+there was intensive fire from that direction. A
+further sortie of smoke aircraft was recalled as
+a result of a signal from the Military Commander
+requesting cessation of air support against
+Bismark and Rommel. It subsequently transpired
+that our troops had not advanced as far towards
+the Eastern Headland as was then thought and
+smoke was in fact still urgently required. When
+further smoke was finally requested only a few
+smoke bombing aircraft were available as the
+remainder were loaded with SCI for the final
+smoke curtain to cover the withdrawal. The few
+available aircraft were however dispatched to the
+Eastern Headland. During our final withdrawal a
+smoke curtain laid across the frontage of Dieppe
+again proved most effective in covering our ships.
+6. Bombing attacks on battery positions
+were not as effective as smoke. I had reckoned on
+certain batteries opening fire on their SOS lines
+after our flank landings had begun at 0450, but
+these were very slow in getting into action. They
+were not firing therefore when our initial bombing
+attacks were made in the half light at the time of
+our main assault and the Bombers thus found it
+extremely difficult to locate their targets.
+7. Cannon Hurricane attacks against
+defences along the front of the main beaches in
+support of the assault were extremely successful
+though their attacks lasted only ten minutes.
+The Naval and Military Force Commanders paid
+tribute to the magnificent timing of this attack,
+and reported that these Fighters completely
+SECRET Headquarters No.11
+Group
+Royal Air Force
+Uxbridge, Middlesex
+5 September 1942
+Dieppe Report
+Covering Letter by Air Force Commander
+The seafront in Dieppe photographed in March 1946.
+2
+Canadian Military History, Vol. 12 [2003], Iss. 4, Art. 6
+http://scholars.wlu.ca/cmh/vol12/iss4/6
+57
+diverted enemy fire from our assaulting Infantry.
+Unfortunately our Infantry touched down on
+the beaches a few minutes late. They were thus
+not able to take full advantage of the Fighters’
+presence, and when the Fighters had concluded
+their attacks were subjected to heavy fire from
+houses along the front.
+8. It was intended to employ Bombers
+against any enemy reinforcements making
+for Dieppe but none were located. Insistent
+demands were made for continued attacks
+against enemy gun positions. Bombers proved to
+be quite ineffective for this task although in the
+circumstances it was the only use to which they
+could be put.
+9. Cannon Hurricanes throughout did
+magnificent work, especially during the final
+stage of the withdrawal when attacking machine
+and heavier gun posts on the Headlands flanking
+Dieppe. These attacks temporarily diverted fire,
+thereby assisting our troops to disengage and to
+re-embark.
+10. The most satisfactory part of the
+Operation from the Air Force point of view was
+the cover given to the expedition. The earlier
+fighter cover sorties left ground in the dark, and
+arrived over Dieppe punctually at first light. They
+patrolled between about 3,000 and 6,000 feet.
+This worked well, as enemy aircraft came low,
+in attempts to bomb and shoot up our ships.
+Later, as bombers appeared, I was informed that
+they were flying between 10,000 and 12,000 feet,
+some dropping their bombs from these heights,
+and others diving down. I adjusted the heights of
+my patrols accordingly. I also learned that Focke
+Wulfs were flying at about 15,000 feet and Spitfire
+IX Squadrons were ordered to patrol above them.
+These changes in tactics worked well and in all
+some 45 Bombers were destroyed, 11 probably
+destroyed and 54 damaged. That only one major
+vessel in the expedition was seriously damaged
+throughout the day can be attributed to the
+excellent work of the Fighter Cover Squadrons.
+11. The Air/Sea Rescue organisation as a
+whole worked very well. Some 20 pilots all told
+were picked up from the sea. It is regretted that
+Dover should have lost three out of their five
+rescue boats but it was quite impossible to keep
+continuous track of their activities. Whilst under
+the Fighter screen they were adequately protected
+but at times they gallantly went beyond this cover
+and suffered casualties.
+12. An unsatisfactory feature of the Operation
+was the low standard of aircraft recognition
+displayed by friendly gun crews. Our own aircraft
+were very frequently fired on and suffered
+casualties. There are two obvious remedies for
+this. Naval gunners should be given intensive
+training in aircraft recognition, and selected
+personnel skilled in the recognition of aircraft
+should be carried in each ship. The Royal
+Observer Corps is the most suitable source for
+providing experts for this work.
+13. I consider that the total casualties we
+suffered in this Operation were remarkably light
+in view of the number of Squadrons taking part
+and the intensity of the fighting. Details given in
+Appendix “C” reveal that the highest casualties
+per Squadron were 2.5 in the Army Co-operation
+Tactical Reconnaissance Squadrons, and the
+lowest .84 per Squadron of the Fighter Cover.
+14. My main conclusions from the day’s
+operations are:
+(i) That smoke either dropped or laid from
+aircraft is of the highest value in a combined
+operation of any kind. I could quite easily
+have done with treble the number of smoke
+aircraft.
+(ii) That such an Operation facilitates
+fighting at altitudes best suited to our present
+equipment.
+(iii) That with the present relative strengths
+in aircraft, adequate cover can be provided
+for an expedition of this nature. Had the
+battle been more prolonged my Squadrons
+would have been in a better conditions than
+the enemy to continue on the following day.
+Reports since received indicate that the
+German Air Force on the Western Front lost
+between 150 and 200 aircraft. Although many
+of our pilots had done as many as five sorties,
+there was no undue sign of fatigue.
+(iv) We gained much valuable information
+concerning the forward control of aircraft,
+both as regards Cover Squadrons and
+Close Support aircraft. Controllers in the
+Headquarters Ships were of the greatest
+Canadian Forces Photo Unit
+PMR 84-307
+3
+Leigh-Mallory: Air Operations at Dieppe
+Published by Scholars Commons @ Laurier, 2003
+58
+assistance to the Fighter pilots, and this
+system calls for a wider application in future.
+15. I cannot speak too highly of the way on which
+all ranks of the Royal Air Force played their part
+in this battle.
+16. I am forwarding separately a list
+of recommendations for decorations and
+General Outline
+1. Operation “JUBILEE” was a raid against
+occupied territory with the purpose of capturing
+by assault and occupying for a limited period,
+the town of DIEPPE. Military tasks in the area
+of DIEPPE included the destruction of local
+defenses, power stations, dock installations – the
+capture of prisoners and the destruction of the
+aerodrome installations near the town. It was
+also intended to capture and to remove German
+Invasion barges and other crafts in the harbour.
+2. The operation was planned to take
+place on the first suitable morning for such a
+landing between the 18th and the 23rd August.
+The expedition sailed from the area of the
+PORTSMOUTH Command in a succession of
+groups starting at civil twilight on the evening of
+the 18th August.
+3. The Naval, Military and Air Forces
+assigned to this operation are set out in
+Appendices A and B to this report. A Sketch map
+of the operation is attached at Appendix E [not
+reproduced].
+4. The plan prepared jointly by the three
+Force Commanders involved a landing on
+the outer flanks of DIEPPE at “ORANGE”
+and “YELLOW” beaches by Nos. 4 and 3
+Commanders, whose tanks were to neutralise
+enemy Battery positions 6 miles to the East and
+West of DIEPPE. At the same time a Regiment
+of the 2nd Canadian Corps was to be landed to
+secure “GREEN” Beach three miles to the west
+of Dieppe, and to attack objectives on the West
+outer perimeter of the town (HINDENBURG).
+Simultaneously the Royal Regiment of Canada
+was to secure “BLUE” Beach 1½ miles to the East
+of DIEPPE, and objectives on the East flank of
+the outer perimeter, i.e. BISMARK. Half an hour
+after the Royal Hamilton Light Infantry and Essex
+Scottish Regiment with the Camerons of Canada
+were to make frontal assaults on “RED” and
+“WHITE” Beaches in front of the town of DIEPPE.
+This frontal assault was to have been supported
+Report by the Air Force Commander
+on the Combined Operation Against
+Dieppe - August 19th, 1942.
+Sir Trafford Leigh-Mallory, the author of this report, was
+the Air Force Commander during the Dieppe operation.
+Mentions in connection with this very memorable
+engagement.
+Your Obedient Servant,
+T. Leigh-Mallory
+Air Marshal,
+Air Force Commander
+4
+Canadian Military History, Vol. 12 [2003], Iss. 4, Art. 6
+http://scholars.wlu.ca/cmh/vol12/iss4/6
+59
+by an armoured detachment of 18 tanks. Later
+a Royal Marine Commando was to land near the
+Harbour of DIEPPE to demolish objectives in the
+Dock area. A further echelon of tanks was then
+to be landed making a total force of 38 tanks. It
+was intended, when the tasks ashore had been
+completed, to withdraw the whole force for reembarkation
+at about 1100 hours.
+Air Support
+Air support was to be provided throughout
+the operation as follows:
+Fighter Cover
+(i) Fighter cover and general protection
+for the expedition throughout the hours
+of daylight. The primary task of this cover
+was to protect the expedition against air
+attack. It was considered that the two most
+dangerous periods in regard to attack from
+the air would be the landing and withdrawal.
+It was, therefore, decided that the strength
+of this fighter cover should vary from 2 to 6
+squadrons during the different phases of the
+operation, with such reinforcement as might
+prove necessary.
+Close Support
+(ii) (a) Close support, bombing and low
+flying fighter attacks on selected targets were
+to be made in direct support of the assault,
+occupation and withdrawal.
+(b) Smoke laying aircraft were to be used to
+neutralize defences, both in accordance with
+the pre-arranged plan and subsequently as
+required at the request of the Military Force
+Commander.
+(c) Day Bomber Squadrons were to be
+employed to attack both pre-arranged targets
+and requested targets.
+Reconnaissance
+(iii)(a) Tactical Reconnaissance was to
+be made over the area of the operation
+including the lines of approach of any enemy
+reinforcement.
+(b) Coastal ASV reconnaissance from
+Cherbourg to Boulogne was to be maintained
+throughout the night prior to the assault.
+(c) Fighter anti-surface vessel reconnaissance
+patrols were to be maintained
+throughout daylight hours.
+Map drawn by Mike Bechthold ©2003
+1 0 1 2 3miles
+1 0 1 2 3 kilometres
+DIEPPE
+Petit
+Berneval
+Bernevalle-
+Grand
+cliffs
+lowwater mark
+high water mark
+Puys
+Pourville
+cliffs
+Varengevillesur-
+Mer
+Vasterivial
+Quiberville
+Saane
+Ouvillela-
+Rivière
+Offranville
+Petit
+Appeville
+Scie
+Arques
+Arques
+Arquesla-
+Bataille
+Forêt d’Arques
+Bois
+des
+Vertus
+TANKS
+CAMERONS
+Airfield
+Operation “Jubilee”
+19 August 1942
+ORANGE II
+BEACH
+ORANGE I
+BEACH
+GREEN
+BEACH
+WHITE
+BEACH
+RED
+BEACH
+BLUE
+BEACH
+YELLOW II
+BEACH
+YELLOW I
+BEACH
+NO.4 COMMANDO
+SOUTH SASKATCHEWAN
+REGIMENT
+CAMERON HIGHLANDERS
+OF CANADA
+ROYAL HAMILTON LIGHT INFANTRY
+ESSEX SCOTTISH
+FUSILIERS MONT-ROYAL
+ROYAL MARINE “A” COMMANDO
+14TH CANADIAN ARMY TANK REGIMENT
+(CALGARY TANKS)
+ROYAL REGIMENT
+OF CANADA
+NO.3 COMMANDO
+“GOEBBELS”
+COASTAL BATTERY
+“HITLER”
+COASTAL
+BATTERY
+“HESS”
+COASTAL
+BATTERY
+FIELD
+BATTERY
+“ROMMEL”
+FIELD
+BATTERY
+“GORING”
+FIELD
+BATTERY
+“HINDENBERG”
+HEAVY AA
+BATTERY
+FIELD
+BATTERY
+RADAR
+STATION
+“BISMARK”
+5
+Leigh-Mallory: Air Operations at Dieppe
+Published by Scholars Commons @ Laurier, 2003
+60
+Strategical Bombing
+(iv) It had been agreed between the
+three Force Commanders not to lay on
+any preliminary or diversionary effort with
+bombers prior to the assault in order not to
+jeopardise surprise. A strategical bombing
+attack was, however, planned against the
+enemy aerodrome of ABBEVILLE, with a
+view to interfering with the operation of his
+defending fighters. This attack was to coincide
+with the main withdrawal from the Beaches
+at which time considerable interference was
+anticipated from fighters operating from the
+ABBEVILLE area.
+Disposition of the Air Forces
+in No.11 Group
+6. The following forces were available:
+Day fighter forces
+50 Squadrons (Cover)
+6 Squadrons Close Support
+Day Bomber forces
+2 Squadrons
+Hurricane Bomber forces
+2 Squadrons
+Army Co-operation forces
+4 Squadrons
+“Smoke” forces
+3 Squadrons
+These forces were disposed as set out in the
+Order of Battle, at Appendix ‘A’ to this report.
+7. The assembly of these forces involved
+internal moves of Squadrons within No. 11
+Group and the reinforcement of the Group by
+15 Squadrons from outside. These extensive
+movements were carried out on the 14th and 15th
+August. Detail of the Squadron and necessary
+maintenance unit moves were as follows:
+Intake of Units
+into No. 11 Group
+Internal
+Movements into
+No. 11 Group
+Fighter Squadrons 17 17
+Servicing Echelon - 8
+Squadron
+Transports
+4.5 9.5
+Petrol Tankers 7 12
+Starter Trolleys 32 116
+Echelons without
+air lift
+- 6
+Squadrons without
+air lift
+- 6
+Squadrons with
+air-lift
+- 11
+Ammunition
+20 mm
+Ball
+20 mm
+HE/1
+.303 AP
+.303
+Incend.
+20 mm
+Links
+727,200 727,200 7,484,400 2,474,800 1,454,400
+Petrol
+(100 Octane)
+712,000 gallons
+Enemy Dispositions
+9. The German Air Force had approximately
+260 frontline single engined aircraft between
+Brest and Texel. These were disposed as follows:
+Holland 40
+Pas de Calais 125
+Brest to Fecamp 95
+10. The German policy since June this year
+has been to concentrate these air forces on a
+few aerodromes along the Western Front. The
+German system of reinforcement is flexible up
+to a point, with extreme mobility of units from
+one place to another. On the other hand he finds
+difficulty in adapting his control areas quickly to
+these reinforcements.
+11. Apart from the reconnaissance units
+and a small number of aircraft used for antishipping,
+the whole of the German bomber force
+on the Western Front has been in use by night
+only. This force was disposed mainly in the
+Dutch bases at EINDHOVEN, SOESTERBERG,
+GILZE RIGEN and DEELEN. It numbered some
+120 long range bombers with a further 100 at
+BEAUVAIS, CREIL, CHATEAUDUN, CHARTRES
+and RENNES. Reports from Pilots during the
+Operation JUBILEE indicate that a small number
+of bombers from reserve training units were
+brought into action. It was considered unlikely
+that he would be able to bring his fighters from
+as far West as Brest or as far North as Holland
+early in the operation. Thus the Fighter forces
+likely to oppose us in the early stages were from
+the ABBEVILLE area – 50, BEAUMENT-LEROGER
+area – 50, CHER-BOURG area – 20,
+together with possible reinforcements from ST.
+OMER and COURTRAI – approximately 30 and
+45 respectively.
+CFPU PMR 84-370
+8. The following supplies of ammunition and
+petrol were accumulated at Stations in No. 11
+Group immediately prior to the Operation.
+6
+Canadian Military History, Vol. 12 [2003], Iss. 4, Art. 6
+http://scholars.wlu.ca/cmh/vol12/iss4/6
+61
+Command
+12. Captain J. H. Hallett, R. N. was the Naval
+Force Commander.
+Major-General F. N. Roberts, MC was the
+Military Force Commander.
+Air Marshal T.L. Leigh-Mallory, CB, DSO, Air
+Officer Commanding No. 11 Group, was the Air
+Force Commander.
+Operational Control
+13. Control of all air forces was exercised
+direct by the Air Force Commander from his
+operational Headquarters at Uxbridge. Aircraft
+were despatched on instructions issued from No.
+11 Group Operations Room through the normal
+Group to Sector, Sector to Squadron Dispersion
+Point channels. The Force Commanders afloat
+were able to ask at any time for special air
+support from bombers or fighters by means of
+the W/T link provided between Portsmouth and
+the Headquarters Ship, and a listening watch
+maintained at No. 11 Group Headquarters.
+14. The lowest Squadron in the Fighter Cover
+operated on No. 11 Group Guard No. 1 frequency
+so that the Fighter Controller in either of the
+Headquarters Ships could communicate with the
+Squadrons of the Fighter Cover.
+15. All outgoing Close Support Fighter
+sorties called the Headquarters Ship by VHF
+R/T when approaching the enemy coast. The
+Fighter Controller in the Headquarters Ship
+then, at the request of either the Military or Naval
+Commanders re-directed Fighter sorties to attack
+any suitable alternative target which the situation
+demanded.
+16. Despite the fact that a very large number
+of Squadrons were being used throughout the
+operation (over 60 squadrons) this method of
+control worked admirably. During the whole
+course of this very gruelling test of the normal
+ground control organisation in No. 11 Group
+there was no breakdown.
+17. This proved conclusively that the existing
+Fighter ground control organisation, although
+primarily designed for defensive purposes,
+provides all the facilities required for the
+direction of offensive operations within normal
+fighter range. The co-ordination of the Air Force
+effort from a central point is essential. The Group
+Operations Room with its extensive network of
+communications augmented by advanced W/T
+and R/T communication with local Commanders
+in the expedition proved to be ideal.
+18. The local control by the Headquarters
+Ships proved equally successful. The bottom
+Squadron of all Fighter Cover formations
+operated on No. 11 Group Guard I frequency, and
+were directed on to enemy aircraft by a Controller
+in Headquarters Ship No.2. Close Support
+Squadrons operated on a Tangmere Sector
+Operational frequency and were directed on to
+targets as required by the Military Commander
+by a Controller in Headquarters Ship No.1. Thus
+the two Headquarters Ships accompanying the
+expedition were used to assist in the control of
+air forces as would an AASC during a land battle.
+19. In the majority of cases Close Support
+Fighter Pilots had been briefed, as to the targets
+to be attacked, before leaving the ground, but
+experience gained during the operation showed
+conclusively that it was possible to re-direct
+Fighters or to give them assistance in finding their
+target by local direction. Similarly Fighters were
+frequently assisted in sighting enemy aircraft by
+This photo of the Dieppe coastline was taken during the raid on 19 August 1942.
+CFPU PMR 84-370
+7
+Leigh-Mallory: Air Operations at Dieppe
+Published by Scholars Commons @ Laurier, 2003
+62
+the running commentary given by the controller
+in Headquarters Ship No. 2. There is no doubt
+that this local control was largely responsible
+for the high percentage of interceptions made
+on enemy aircraft, thus greatly minimising the
+effectiveness of enemy air attack on ships and
+troops.
+20. To summarise – the system of control
+from the Group, through Sectors, and through
+the Headquarters ships, adequately met all
+requirements. The excellent communications and
+flexible control facilities of the normal Fighter
+organisation at home proved most efficient for
+such combined operations.
+Tactical Reconnaissance
+21. Tactical Reconnaissance units suffered
+a higher casualty rate than any other type. This
+was due to the deep penetration required of them
+which necessitated their patrolling well beyond
+the Area of Fighter Cover. The coast roads leading
+to Dieppe were reconnoitred every half hour,
+and those from Amiens, Rouen, Yvetot and Le
+Havre, places from which reinforcements might
+be expected, every hour.
+22. Aircraft took off from GATWICK, flew to
+the Dieppe area via the BEACHY HEAD route,
+made contact with the Command Ship, and then
+proceeded on their allotted tasks. On completion
+of each sortie Tactical Reconnaissance pilots flew
+sufficiently near to the ship to ensure satisfactory
+R/T transmission of any information they had.
+They then returned immediately to GATWICK
+and passed their information by telephone to the
+Air Force Commander.
+23. The only movement worthy of note was
+that of about five light tanks approaching Dieppe
+reported at 1210 hours.
+24. The range of the HF fitted in the Tactical
+Reconnaissance aircraft proved inadequate.
+ASV Reconnaissance Patrols
+25. Aircraft of Coastal Command maintained
+ASV search patrols throughout the hours of
+darkness on the flanks of the expedition during
+the passage. No sightings were made.
+General Narrative
+26. The operation is conveniently divided into
+five distinct phases. The first covers the outward
+passage and the landings on various beaches.
+The second covers the period when progress was
+being made towards the predetermined objectives
+ashore. The third phase covers the withdrawal
+of landing parties to their beaches. The fourth
+period extends to the time when the withdrawal
+was complete. The fifth phase covers the return
+passage to England.
+Time
+(2000 hours) 27. The expedition sailed
+from the area of the Portsmouth Command in a
+succession of Groups on the evening of the 18th
+August, headed by the destroyer “CALPE”.
+(2130 hours) 28. Shortly before dark the
+convoy, which consisted of 217 craft in all,
+steamed past the “CALPE” (Headquarters Ship
+No. 1) to be checked.
+(0115 hours) 29. In the early hours of the
+19th August, the “CALPE” led the way through an
+enemy minefield, which had already been swept
+by a flotilla of mine-sweepers from Newhaven. A
+quarter of an hour later the whole convoy was
+safely through the minefield but it was noticed
+that the LCTs had lagged some way behind.
+(0300 hours) 30. Shortly after 0300 hours
+the first landing craft were lowered from their
+Refuelling a Canadian Spitfire. Nine Canadian
+squadrons took part in Operation Jubillee, including
+six Spitfire squadrons, two of Mustangs, and one of
+Bostons.
+CFPU PL 10706
+CFPU PMR 84-376
+8
+Canadian Military History, Vol. 12 [2003], Iss. 4, Art. 6
+http://scholars.wlu.ca/cmh/vol12/iss4/6
+63
+parent ships. The lighthouse on the cliff outside
+DIEPPE was then visible. Up to this time the
+outward passage was comparatively uneventful,
+but a misfortune now occurred.
+(0320 hours) 31. T h e l a n d i n g c r a f t
+conveying No. 3 Commando, which had been
+detailed to attack “YELLOW” Beach (6 miles East
+of DIEPPE) came into contact with an enemy
+convoy which included armed trawlers, and a
+number of our small craft were sunk. These
+losses resulted in the failure to subdue coast
+defence batteries to the East of DIEPPE.
+32. There was no other enemy activity
+throughout the night and no attempt was made
+by the enemy to reconnoitre for our approaching
+expedition. It would seem, therefore, that the
+force was assembled and dispatched without
+disclosure. It would have achieved complete
+tactical surprise if No. 3 Commando had not
+unfortunately been intercepted by the enemy
+trawlers en route.
+Phase 1 (0445 – 0550 hours)
+33. Despite the chance contact with enemy
+ships en route, the forces arrived at DIEPPE
+approximately on time, and the initial naval
+bombardment of selected objectives was carried
+out as arranged.
+34. In the opening attack, escort was provided
+for smoke carrying aircraft of Bomber and Army
+Co-operation Commands laying a smoke screen
+over the Cliff Headland to the East of Dieppe
+Harbour. This was most effective lasting from
+0510 to 0600 hours. Intruder aircraft engaged
+each of the two gun Batteries to the South of
+Dieppe with bombs and machine guns. Hurricane
+Bombers, Fighters and Spitfires attacked the
+coastal emplacements, and beach defences.
+Cannon fighters provided direct support to our
+troops as they landed at “RED” and “WHITE”
+Beaches in front of DIEPPE and were successful
+in centralising enemy fire along the front from
+A grainy air photo of Dieppe taken during the raid.
+9
+Leigh-Mallory: Air Operations at Dieppe
+Published by Scholars Commons @ Laurier, 2003
+64
+Above: This group of pilots from No.401 Spitfire
+Squadron, commanded by Squadron Leader Keith
+Hodson, was photographed on the day of the
+Dieppe assault as the pilots waited for their aircraft
+to be refuelled in between flights. Shown in the
+group are (l.-r.) Flight Sergeant Ed Gimbel, who had
+shared the probable destruction of two Fw.190s two
+days previously, F/L Jim Whitham, who shared the
+destruction of another Fw.190 on the same day and
+who probably destroyed one Fw.190 and damaged
+another on the day of the Dieppe affair, Flight Sgt.
+Bob Reesor, who also scored a probable earlier in
+the week, P/O B. “Scotty” Murray, who shared the
+destruction of a Fw.190 with F/L Whitham two days
+before the Dieppe show and who scored a probable
+and a damaged on the day of the big air battles.
+Left: P/O B. “Scotty” Murray just back from a flight
+on the day of the Dieppe air battles. On that day, he
+scored a probable and a damaged during one flight.
+Two days earlier, he had shared in the destruction
+of a Fw.190 with F/L Jim “Whit” Whitham while the
+squadron was escorting Flying Fortresses of the
+USAAF to Rouen.
+CFPU PL 10627
+CFPU PL 10628
+10
+Canadian Military History, Vol. 12 [2003], Iss. 4, Art. 6
+http://scholars.wlu.ca/cmh/vol12/iss4/6
+65
+0515 to 0525. During the landings there was
+little opposition from enemy aircraft.
+35. In phase I our surface forces kept to
+their time table despite shelling by enemy shore
+batteries. Batteries situated to the south of the
+town were slow to commence firing but when they
+did were particularly destructive. Further smoke
+screens were requested to cover our landings, a
+necessity which had already been anticipated and
+additional smoke aircraft were already on their
+way to the scene of action.
+Phase 2 (0550 – 0730 hours)
+(0640 hours) 37. The Western Commando
+had been completely successful in overcoming
+the battery position at HESS and killing all the
+personnel. The final assault on this position
+was assisted by a Squadron of Spitfires which
+attacked HESS Battery at 0620 just before our
+men were due to attack. This assistance was
+successful and the attack was made immediately
+our aircraft had finished. The CP of this Battery
+was in a Lighthouse close by which had been
+attacked by two Spitfires at first light. The
+landing on the Beach 1½ miles to the West of
+Dieppe (GREEN Beach) was also successful,
+capturing the RDF station and destroying their
+other objectives.
+38. The Eastern flank (BLUE Beach) initial
+attack had, however, failed. A second attack
+made at approximately 0740 resulted in a small
+penetration, which, however, did not succeed
+in silencing the guns on the Eastern Headland.
+In the main landing on Red and White Beaches
+the tanks were held up by the inability of the
+Engineers to land the explosives necessary to
+blast a passage through the promenade wall,
+with the result that the majority of the tanks were
+stranded, and the infantry were disembarked
+whilst the tanks were still immobilised. Large
+white houses overlooking the Beaches gave
+considerable trouble and bombardment by
+destroyers was requested from our troops
+ashore.
+(0605 hours) 39. In view of these difficulties
+a further smoke screen was called for on the
+Eastern Headland “BISMARK” but no aircraft
+were immediately available for this. The smoke
+carrying aircraft were at once ordered to load up
+with smoke bombs and take off as soon as they
+were ready.
+(0621 hours) 40. Earlier attacks had failed
+to silence the Eastern Headland defences and the
+gun positions (HITLER and GOERING) South of
+Dieppe continued to shell the Beaches.
+(0605-0615 hours) 41. Twelve Bostons
+had already been ordered off to bomb HITLER
+and were quickly airborne.
+(0640-0645 hours) 42. ROMMEL was
+also still giving trouble and the landing on BLUE
+Beach had in consequence failed. The only
+remaining Bostons were, therefore, detailed to
+attack ROMMEL followed by a further 6 when
+they became available.
+(0723 hours) All these Batteries continued to
+harass our troops and an attack was called for
+on BISMARK. A Squadron of Cannon Hurricanes
+had already been dispatched to be “on call” to
+the Headquarters Ship by 0740 and a second
+Squadron of Cannon Hurricanes was despatched
+to be “on call” to the Headquarters Ship 20
+minutes later.
+43. Thus at the end of the second phase
+the RDF Station, 5 light AA positions had been
+captured and the gun battery behind the ORANGE
+Beach had been demolished. Throughout this
+period air cover was afforded to the troops
+against moderate enemy fighter opposition; the
+number of enemy aircraft patrolling the area at
+any one time during this period did not exceed
+one Squadron.
+Phase 3 (0730 – 1050 hours)
+(0730 hours) This third phase covers the
+withdrawal to the Beaches.
+(0752 hours) 45. At 0752 two Cannon
+Hurricane Squadrons were ordered to engage
+enemy E-boats which had been reported
+proceeding south from BOULOGNE. Two
+fighter cover Squadrons accompanied these
+Hurricanes. At the same time a message was
+received cancelling the support on “BISMARK”
+and “ROMMEL”. The Air Force Commander was
+always doubtful whether this latter message
+was genuine, but had to act on it as information
+CFPU PL 10627
+11
+Leigh-Mallory: Air Operations at Dieppe
+Published by Scholars Commons @ Laurier, 2003
+66
+was received within a few minutes that a second
+landing in BLUE Beach had been successful.
+At this time one Bomber Squadron was on its
+way to bomb ROMMEL and was beyond range
+of recall. Aircraft were also on their way to drop
+smoke bombs on the Eastern Headland; these
+were recalled.
+(0830 hours) 46. Th e s i t u a t i o n h a d
+meanwhile deteriorated on the Western flank.
+Heavy opposition was also coming from the
+Western Headland and the houses behind the
+beach. Machine gunning and shelling continued
+undiminished from the Headland and from
+“HINDENBURG”. (0916 hours)
+(0926 hours) 47. A Squadron of Hurricane
+Bombers and a Squadron of Cannon Fighters
+covered by two Spitfire Squadrons were ordered
+to attack these positions.
+(0940 hours) 48. The situation in various
+areas continued to grow critical and due to
+various delays the time scheduled for the
+evacuation was deferred from 1030 hours to
+1100 hours.
+(0956 hours) 49. At 0956 the following
+reply was received to the Air Force Commander’s
+request for a situation report:
+“Situation too obscure to give useful report. Air
+co-operation faultless. Enemy air opposition now
+increasing. Have you any questions.”
+(1004 hours) 50. A few minutes later a
+request was received for a 30 minute smoke
+screen along RED and WHITE Beaches from
+1100 to 1130 hours: Thruxton was ordered to
+prepare as many aircraft as possible with SCI and
+as many aircraft as could be fitted were ordered
+off for this purpose. The Military Commander
+gave GREEN Beach third priority after RED and
+WHITE Beaches for smoke, and 3 Blenheims with
+an escort Squadron were detailed to this task.
+51. At 1039 hours a request was made for
+maximum fighter support against machine gun
+positions on both Headlands.
+(1039 hours) 52. Four Close Support
+Squadrons were ordered to these attacks with
+two Squadrons as cover.
+(1047 hours) 53. A further call for support
+against the Headland came in 20 minutes later,
+by which time Squadrons were already on their
+way. At this time it appeared that the LCAs were
+arriving at WHITE Beach, ready to re-embark
+the forces on shore. Thus at the beginning of
+this third period the right wing of our landing
+Pilots of Canada’s No.401 Squadron group themselves around Air Marshal A.M. Bishop during his visit to
+the unit in September 1942 to congratulate them on their performance during the Dieppe operation.
+CFPU PL 10747
+12
+Canadian Military History, Vol. 12 [2003], Iss. 4, Art. 6
+http://scholars.wlu.ca/cmh/vol12/iss4/6
+67
+forces had made progress but those in the centre
+including the tanks were held up.
+54. Enemy air opposition had by now
+increased considerably, 20 to 30 fighters being
+seen continuously in the area until 1000 hours
+when enemy bombers appeared escorted by
+fighters.
+(1050 hours) 55. The enemy employed
+a considerable number of bombers from
+aerodromes in Holland in addition to small
+numbers from BEAUVAIS. To counter this
+increased enemy activity and in order to cover
+re-embarkation, which was about to commence,
+the strength of fighter cover over DIEPPE
+was increased from 3 to 6, and at times to 9
+Squadrons. Heavy casualties were inflicted on
+the enemy bombers who were now concentrating
+on shipping and landing craft.
+Phase 4 (1050 – 1410 hours)
+56. The fourth phase marks the withdrawal
+from the Beaches. During this time the gun
+batteries BISMARK and HINDENBERG on the
+East and West Headlands continued their intense
+bombardments, and in many areas the situation
+was more than critical.
+57. Until the expedition had safely withdrawn,
+frequent and urgent requests were received for
+bombing and close support attacks in enemy
+gun positions, and calls for smoke screens were
+made.
+58. At 1030 hours a most successful prearranged
+attack was made by 24 Fortress
+Bombers escorted by four Spitfire IX Squadrons,
+on the enemy Fighter aerodrome at ABBEVILLEDRUCAT.
+Some twenty-five tons of high explosives
+and a large number of incendiaries were dropped.
+Many bursts were seen in the North West
+dispersal areas and on the run-ways whilst fires
+were started in woods adjoining the dispersal
+areas. Bursts were also observed on storage sites
+and clouds of black smoke were seen rising from
+the whole target area. This very accurate bombing
+of dispersal areas and run-ways – bombs fell near
+to at least 16 aircraft in those areas – caused
+considerable confusion to the enemy, and he was
+denied the use of his aerodrome for probably
+2 hours, his aircraft being instructed to land
+at alternatives. The ABBEVILLE control was
+out of action until the evening, when a new and
+unfamiliar voice came on the air.
+59. This attack on Abbeville was followed by
+a diversionary feint made towards OSTEND by
+a Typhoon Wing in an endeavour to draw enemy
+Air Forces away from Dieppe.
+(1100 hours) 60. The enemy air activity by
+this time had increased and he had altered his
+Flight Sgt. Mehew Zobell, brought this Spitfire back safely home after the Dieppe affair despite the fact that his forehead
+had been injured - not seriously - by an exploding cannon shell from an enemy fighter. The holes which the shell made in
+the cowling of his cockpit are clearly visible. In the other picture, the severe damage to his rudder can be seen. Despite
+this he made a perfect landing. His only complaint was that the medical officer would not allow him to fly during the rest
+of the day. “I missed a lot of fun,” he said bitterly.
+CFPU PL 10629
+CFPU PL 10630
+13
+Leigh-Mallory: Air Operations at Dieppe
+Published by Scholars Commons @ Laurier, 2003
+68
+form of attack. The tactics of our fighter cover
+were changed to meet this situation by adding a
+high Squadron of Spitfire IXs at 23,000 feet.
+(1200 hours) 61. Dur ing thi s pe r iod
+bombing attacks were made by Boston Squadrons
+on BISMARK and HINDENBURG.
+62. Further attacks were also made by three
+Close Support Squadrons and smoke was laid
+between the East and West Headlands across the
+port of DIEPPE to cover the final withdrawal.
+63. The constant requests for bombing,
+close support and smoke were met to the limit,
+demands frequently being anticipated as a result
+of the clear picture available in the Fighter Control
+Room and Uxbridge. All types of Squadrons were
+called on to operate a shuttle service.
+64. It was decided that Tactical Reconnaissance
+aircraft could serve no further useful purpose and
+their operational flights were discontinued.
+65. In the final withdrawal a maximum effort
+was directed to protect our re-embarking forces
+from both ground and air attack.
+(1310 hours) 66. By 1310 hours it appeared
+doubtful whether any more troops could
+be evacuated. An hour later the last craft was
+reported 3 miles from the French Coast. The
+withdrawal from DIEPPE had been completed.
+Phase 5 (1410 – 2245 hours)
+67. As our forces cleared the enemy coast
+smoke-laying aircraft laid a protective screen
+between them and the enemy’s defences.
+68. The Typhoon Wing was then reinforcing
+our Spitfires in intercepting enemy bombers
+coming from the direction of Holland.
+(1428 hours) 69. Fi g h t e r Co v e r wa s
+maintained throughout the long voyage home.
+(1545 hours) 70. There was considerable
+deterioration in the weather and the enemy took
+advantage of the increasing cloud cover to send
+out single bombers to attack our ships as they
+neared the English Coast. One or two formations
+of FW 190s were also employed for this purpose.
+In addition to standing cover over the returning
+convoy, 86 interception sorties were made.
+Appreciation of the
+Enemy’s Air Effort
+71. The enemy reacted almost as had been
+foreseen; at first he did not appear to appreciate
+the scale of our effort and he used only 25/30
+fighters in each sortie. As the day went on the
+strength of his sorties increased to between
+50/100 aircraft. At first fighter bombers, and
+later, when the moves from Holland had been
+effected, night bombers in increasing numbers
+were used until all his resources on the Western
+Front were in action.
+72. Early in the day enemy air effort was
+confined entirely to fighters patrolling the area
+in small numbers. Occasionally dive attacks on
+our ships were made from height. The German
+control merely instructed his aircraft to go to
+the DIEPPE area where large numbers of British
+bombers and fighters were operating.
+73. It was not until about 1000 hours, some
+six hours after our assault, that our patrols
+encountered enemy bombers. It would seem,
+therefore, that these had not been at a high state
+of readiness.
+74. The first bombers came in small numbers
+and were escorted by FW 190s. Later larger
+formations up to 15 in number operated under
+the main German Fighter Force which was
+engaging our cover patrols. Reports from pilots
+indicate that a small number of reserve training
+bombers were included.
+75. The German Bomber Force throughout
+confined its attentions to our convoy and did not
+harass our troops ashore. A bomber jettisoning
+its bombs crippled HMS Berkeley shortly before
+1300 hours. She was later sunk by our own
+forces.
+The attack on ABBEVILLE – DRUCAT at 1030
+hours was undoubtedly successful in striking
+at the enemy’s most congested aerodrome at
+a critical period in the operation. This attack
+was timed and prearranged to this end and it
+undoubtedly succeeded in considerable reducing
+the efforts of the GAF against our expedition.
+14
+Canadian Military History, Vol. 12 [2003], Iss. 4, Art. 6
+http://scholars.wlu.ca/cmh/vol12/iss4/6
+69
+Casualties
+76. Details concerning air effort, serviceability
+of aircraft, casualties to aircraft and personnel
+and results achieved by the Air Forces during
+operations at Dieppe are shown in Appendix “C”
+to this report.
+77. The very low rate of casualties suffered
+in all types of Squadrons during each intensive
+daylight operation in close support of a combined
+expedition are of particular interest.
+Administration
+78. The concentration and redisposition
+of Air Forces in No. 11 Group was for security
+reasons undertaken as a reinforcing exercise,
+under the title of VENOM.
+79. No serious administrative difficulties were
+experienced throughout the operation, though the
+shortness of the period of activity did not perhaps
+bring to light some of the difficulties which might
+have arisen had it been more prolonged.
+Communications
+80. Communications on the whole were
+excellent. Signals were promptly and clearly
+received at Uxbridge. The majority of outgoing
+messages from Uxbridge to the Headquarters
+Ship retransmitted by Portsmouth, did not reach
+the Military Commander afloat, so that requests
+for Close Support from the Ship were often
+repeated unnecessarily.
+81. The Control organisation in the Ships
+worked very efficiently and this system is capable
+of further expansion and development.
+82. Additional land line links to Uxbridge
+for the operation worked fairly satisfactorily,
+although some of the temporary lines were not
+up to the high standard necessary.
+83. The operations and Intell igence
+Teleprinter Operators worked at high pressure
+but were able to handle the traffic without serious
+delays.
+Conclusions
+84. (i) This operation showed that such
+expeditions can be successfully supported and
+protected by home defence Fighters operated by
+the normal Home Defence Fighter Organization,
+assisted by forward direction through R/T in
+ships. This efficient organization is fully capable
+of so operating Air Forces to the limit of present
+fighter range and is bound to be superior to any
+alternative forward control scheme which could
+never provide anything like equal facilities.
+(ii) Landings on such a scale in occupied territory
+in daylight effectively pin the enemy air forces
+to an area enabling our supporting Fighters to
+operate at height and in conditions best suited
+to them. In existing circumstances the enemy is
+forced to employ his night bombers in daylight,
+at times unescorted by fighters thus sacrificing an
+appreciable part of his limited bomber resources.
+(iii) Close Support attacks by Cannon
+Fighters are effective only whilst they are engaging
+their targets, but they have no lasting material
+effect on well protected defensive positions.
+they are extravagant in as much as each aircraft
+is in action for a few seconds only. To achieve
+any lasting moral effect would demand such
+a large expenditure of these Fighters that our
+efforts in other directions would be reduced to
+unacceptable proportions.
+(iv) A very much higher standard of interservice
+recognition is essential in combined operations.
+As modern aircraft are all so alike, it is imperative
+that all personnel have a very thorough knowledge
+of and frequent practice in recognition.
+(v) Airborne smoke is extremely valuable in
+combined Operations. Smoke is often likely to
+have better effect than bombing, particularly if it
+is intended to protect surface forces against well
+placed gun positions. It is essential, however,
+to speed up the present rate of turn round for
+smoke carrying aircraft and to be able quickly to
+alternate between SCI and bombs and to change
+over from one to the other on the ground in the
+shortest possible time.
+15
+Leigh-Mallory: Air Operations at Dieppe
+Published by Scholars Commons @ Laurier, 2003
+70
+Enemy Casualties by Type
+destroyed probable damaged
+Bombers 41 17 58
+Fighters 47 29 85
+Total 88 46 143
+Reports received indicate that the German Air Force on
+the Western Front lost between 150 and 200 aircraft.
+Average Casualties per Squadron
+Squadron type No. of Squadrons pilots killed or
+missing
+Ave. casualties per
+squadron
+Close Support. (including
+Hurricane Bombers) 8 15 1.87
+Army Co-operation 4 9 2.25
+Smoke Laying 3 3 1
+Bombers 2 1 .5
+Cover Squadrons 50 42 .84
+Total Pilots - 70 Crew - 10
+(vi) Some difficulty was experienced at times in
+obtaining detailed target requirements from the
+Headquarters Ship. This problem of locating and
+selecting suitable targets for Air attacks, together
+with methods for defining, to the Air Force
+Commander required careful interservice study
+so that the Air effort is always profitably
+employed.
+Certain major conclusions together with my
+recommendations for awards are being
+forwarded by me in a separate letter.
+T. Leigh-Mallory
+Air Marshal
+Air Force Commander
+Appendix C
+Operation “JUBILEE”
+Effort Enemy Casualties Our Casualties
+No. of aircraft sorties destroyed probable damaged
+pilots & crew aircraft
+missing killed destroyed
+Fighters 2399 87 ½ 45 143 57 - 88
+Army Co-op
+Tactical
+Reconnaissance
+72 ½ - - 9 - 10
+2 Group 62 - - - 1 3 1
+Smoke laying a/c 50 - 1 - 3 7 7
+Coastal 7 - - - - - -
+American
+Bomber
+Command
+24 - - - - - -
+Total 2614 88 46 143 70 10 106
+16
+Canadian Military History, Vol. 12 [2003], Iss. 4, Art. 6
+http://scholars.wlu.ca/cmh/vol12/iss4/6

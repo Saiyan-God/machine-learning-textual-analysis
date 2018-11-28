@@ -1,9 +1,15 @@
+import os
 import gensim
 import warnings
 import pyLDAvis.gensim
 import pandas as pd
 from gensim.utils import simple_preprocess
 from gensim.parsing.preprocessing import STOPWORDS
+from nltk.stem import WordNetLemmatizer, SnowballStemmer
+from nltk.stem.porter import *
+
+import nltk
+nltk.download('wordnet')
 
 warnings.filterwarnings("ignore", category=DeprecationWarning)
 warnings.filterwarnings("ignore", category=FutureWarning)
@@ -16,11 +22,31 @@ def get_csv_textdata(csv_filename, print_info=False):
     return data_text
 
 
+def annoyingSnake(directory_name):
+    file_arr = []
+    for file in os.listdir(directory_name):
+        if file.endswith(".txt"):
+            file_arr.append(file)
+
+    print(file_arr)
+
+    lol = []
+    for file in file_arr:
+        with open('MilitaryTextFiles/' + file, 'r', encoding='ISO-8859-1') as myfile:
+            lol.append(myfile.read().replace('\n', ' '))
+    return lol
+
+
+def lemmatize_stemming(text):
+    stemmer = SnowballStemmer("english")
+    return stemmer.stem(WordNetLemmatizer().lemmatize(text, pos='v'))
+
+
 def preprocess(text):
     result = []
     for token in simple_preprocess(text):
-        if token not in STOPWORDS and len(token) > 2:
-            result.append(token)
+        if token not in STOPWORDS and len(token) > 3:
+            result.append(lemmatize_stemming(token))
     return result
 
 
@@ -31,8 +57,7 @@ def bag_of_words(processed_documents):
     # appear in less than 15 documents
     # appear in more than 0.5 documents
     # keep only first 100 000 frequent tokens after the above two filtering steps
-    dictionary.filter_extremes(no_below=15, no_above=0.5, keep_n=100000)
-
+    dictionary.filter_extremes(no_below=0, no_above=0.5, keep_n=100000)
     bow_corpus = [dictionary.doc2bow(doc) for doc in processed_documents]
 
     return dictionary, bow_corpus
@@ -45,18 +70,21 @@ def visualize_model(model, corpus, dictionary):
 
 def main():
     # Retrieve training data
-    documents = get_csv_textdata('MilitaryArticles.csv', print_info=True)
+    documents = annoyingSnake('/home/hassheez/PycharmProjects/machine-learning-textual-analysis/LDADemo/MilitaryTextFiles')
     print('Number of Articles: {}'.format(len(documents)))
-    print('First five documents:\n{}\n'.format(documents[:5]))
+    #print('First five documents:\n{}\n'.format(documents[:5]))
 
     # Process data
-    processed_docs = documents['Article'].map(preprocess)
+    series_docs = pd.Series(documents, name="Article")
+    processed_docs = series_docs.map(preprocess)
+    print(type(processed_docs))
     print('First five documents processed:\n{}\n'.format(processed_docs[:5]))
 
     dictionary, bow_corpus = bag_of_words(processed_docs)
-
+    #print(dictionary)
+    #print(bow_corpus)
     # Run LDA model with training data
-    lda_model = gensim.models.LdaMulticore(bow_corpus, num_topics=5, id2word=dictionary, passes=50, workers=3)
+    lda_model = gensim.models.LdaMulticore(bow_corpus, num_topics=2, id2word=dictionary, passes=50, workers=3)
     for idx, topic in lda_model.print_topics(-1):
         print('Topic: {} \nWords: {}'.format(idx, topic))
     print('\n')

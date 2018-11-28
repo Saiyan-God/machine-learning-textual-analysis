@@ -1,0 +1,144 @@
+OPERATIONAL FUNCTIONAL TASKS
+The broad Operational Functional Task areas provide an excellent framework for
+analyzing the operational lessons learned from Operation SHINGLE. While analysis of all the
+tasks can provide lessons, focus will be given to Operational Maneuver, and Operational C2.
+OP1 - Operational Movement and Maneuver
+As discussed above, an amphibious assault is the ultimate form of a joint operational
+maneuver. In this case, Allied forces were committed to executing a “left hook” behind the
+German lines, but then failed to continue their maneuver inland to accomplish their objectives.
+The British believed the landing force would cause a German reaction favoring the Allied attacks
+near Cassino. The American operational leader of the landing force, Lucas, never a believer in
+the plan, decided to consolidate his forces on the beachhead and prepare for a counterattack
+rather than risking any advance. He had studied Salerno and Gallipoli and concluded that to push
+ahead and over-stretch himself before he was strongly ashore would be fatal. The Operations
+Order of the 5th Army reinforced his opinion, uncompromisingly asserting that the ‘Advance was
+not to take place unless it can be synchronized with the operations of the remainder of 5th Army
+in close vicinity of the beach-head’31
+OP5 - Operational Command and Control (C2)
+“Never far from anyone’s thoughts was the near-disaster of Salerno.”32 On the fifth day
+of the Salerno invasion, the Germans almost succeeded in driving the Allies off of the beaches,
+but the beachhead was held and the Germans began their fighting withdrawal up the Italian
+13
+peninsula. The Germans were concerned about the surrender of the Italians, and sought to
+ensure the safe withdrawal of forces from the southern Italy to the Rome area. “Despite the
+victory, the Salerno landing left the Allies with a legacy that hung like a dark cloud over the
+entire Italian campaign.”33 Despite this setback, progress was generally good: Italy had
+surrendered in September, and the Allies were maintaining constant pressure on German forces.
+For SHINGLE, American General Lucas commanded the 6th Corps, which included one
+British and one U.S. division, fighting in support of the 5th U.S. and 8th British Armies, all under
+the 15th Army Group, commanded by British General Alexander. The combined staffs proved to
+be too much.
+Chairman of the Joint Chiefs of Staff Manual 3500.04C includes in its definition of
+Operational C2 the requirement to provide “operational guidance, direction and vision to
+assigned forces.”34 Probably the single most significant reason for the operational failure of
+SHINGLE was the lack of guidance and vision from the operational commanders, primarily due
+to the friction that developed at higher levels between British and American officers. As
+previously described, the British saw the operation as an elaborate bluff, requiring great risk.
+The Americans saw it as an unwise use of resources and sought to minimize the risk. To solve
+this discrepancy they frequently chose to simply not communicate. This C2 problem can be
+illustrated by some examples:
+Starting at the strategic level - the British saw the Mediterranean as a vital part of the war
+against Germany. It would lead to the “soft underbelly” of Europe, as Churchill described it.
+They were not against OVERLORD, but they believed that fighting a prolonged Mediterranean
+action could sufficiently weaken the Germans so that the inevitable cross-channel invasion
+would be assured success. The Americans, who were also taxed by a war in the Pacific against
+14
+the Japanese, looked for a decisive attack against the Germans to end the war more quickly.
+They had been working since the third month after the attack at Pearl Harbor on an operation
+designed “to get troops across the Channel and into a major battle on the classic invasion routes
+into Germany.”35 The differences of the two nations were embodied in their principle military
+advisors. General George C. Marshall, the U.S. Army Chief of Staff favored a direct thrust into
+northwest Europe, while General Sir Alan Brooke, Chief of the Imperial General Staff, favored
+the indirect, or peripheral, strategy. Marshall advised Roosevelt bluntly in May of 1943 that
+“The Mediterranean is a vacuum into which America’s great military might could be drawn off
+until there was nothing left with which to deal the decisive blow against the Continent.”36
+Ten days before the assault, an important difference emerged between Alexander’s and
+Clark’s visions regarding the Alban Hills. Alexander repeated to Clark that the objective of the
+landing was “to cut the enemy’s main communications in the Colli Laziali [another name for the
+Alban Hills] area Southeast of Rome, and to threaten the [German] rear.”37 As Clark interpreted
+this directive, the 5th Army was “(a) To seize and secure a beachhead in the vicinity of Anzio and
+(b) Advance on Colli Laziali.”38 Clark, who had commanded at Salerno, expected to see the
+same pattern of German opposition and turned his emphasis to securing the beachhead, diggingin,
+and holding a large reserve force to face the counter attacks. By Alexander’s plan the Anzio
+forces were to move inland and take the critical Alban Hills. Clark saw the 5th Army capturing
+them as part of its drive north.
+In the event that the German resistance was slight, the 6th Corps, the invasion force under
+Lucas, was expected to advance “on” the Alban Hills, but it would be the personal decision of
+the corps commander whether to attack or defend. Lucas admitted that he had no faith in the
+plan; he wrote in his diary, “in fact, there is no military reason for SHINGLE.”39 He also must
+15
+have had in his mind the advice he received from Clark, just before the convoys were to sail
+from Naples; “Don’t stick your neck out as I did at Salerno.”40 It seems clear that he went ashore
+determined not to advance to the hills and never communicated his intentions to his British
+subordinates.
+Major-General W.R.C. Penney, commander of the British 1st Infantry Division - one of
+the two divisions to make the amphibious assault - had been pressing for weeks to get any details
+about the invasion plan after the initial landing. He received the reply:
+“This directive does not include plans for an advance from the beachhead to
+or towards the final objective. Such plans are extremely tentative: this advance is
+not likely to take place unless it is synchronized with operations of the remainder
+of the Fifth Army in close vicinity of the beachhead.”41
+By the middle of February, the Allied commanders were feeling the strain of sustained
+combat operations. While both Lucas and Penney had written in their diaries before SHINGLE
+that they had a “mutual confidence, trust and liking of one another,”42 there was now a sense of
+mutual frustration and dissatisfaction. On the evening of 10 February, Penney wrote a letter
+which was a “formidable indictment of Lucas as a field commander.”43 On 16 February, Major-
+General Truscott and Major-General V. Evelegh were both appointed as Deputy Corps
+Commanders to Lucas in an effort to smooth inter-Allied relations. Aside from the international
+aspect of command, Lucas did not seem to give clear and decisive guidance, and his conferences
+were likened by some to “an inefficient company’s meetings.”44 On 23 February, Clark made
+Lucas his deputy army commander and command of the 6th Corps went to Truscott. “Johnny
+Lucas was ill – tired physically and mentally from the long responsibility of command in
+battle...I…had for some time been considering a change”45
+Verney correctly grasped the problem that a combined C2 structure mixed with differing
+commanders’ visions were to produce, “It was unsatisfactory to have both nations involved;
+16
+either an all-British effort or an all-American operation would have solved many problems of
+administration and command.”46
+CONCLUSIONS AND RECOMMENDATIONS
+“I felt like a lamb being led to the slaughter”
+-Remark by Major General Lucas, Commander U.S. 6th Corps, regarding Anzio.47
+Conclusions about the Anzio landing have changed somewhat as the years since its
+execution pass. There are those, including Churchill, who view it as a strategic success in that
+the German forces expended in Italy were unavailable in France. But that is not the point.
+SHINGLE was planned as an operation, and as such it failed. The U.S. Army Center of Military
+History makes this clear by writing, “The operation clearly failed in its immediate objectives of
+outflanking the Gustav Line, restoring mobility to the Italian campaign, and speeding the capture
+of Rome.48 If it was indeed an operational failure, then there must be blame, but where to assign
+it?
+Once the blame would have been placed squarely at the feet of Lucas, as Alexander
+himself did when he stated “…Lucas, missed his opportunity by being too slow and cautious. He
+failed to realize the great advantages that surprise had given him. He allowed Time to beat
+him.”49 Even mild defenders of Lucas acknowledge it cannot be denied that “for Lucas to lose
+contact with the Germans for two and a half days was wholly wrong.”50 Churchill blames Clark
+and Lucas:
+“In all his talk with me…Alexander envisaged that the essence of the battle
+was the seizure of the Alban Hills with the utmost speed, and to this end I was
+able to obtain from the United States their 504th Parachute Regiment…but at the
+last moment General Clark cancelled [it]…and the American General
+Lucas…seems to have had the idea in his mind that at all costs he must be
+prepared for a counterattack…the whole operation became stagnant.”51
+17
+Some now seek to distribute blame to Alexander and Churchill. Blumenson writes, “Alexander
+failed also. The concept was daring, but he was too much the gentleman to make it work;”52 and
+“Churchill’s Gallipoli of World War II, Anzio was not so catastrophic a failure, but was a
+blunder nonetheless.”53 While Churchill may have been the unstoppable force to resurrect
+SHINGLE after it had been dropped in December of 1943, he shouldn’t be held to blame for its
+failure. It would be an extraordinary commander, in my opinion, who could directly influence
+the outcome of a major battle once it has begun. To blame one seems like a far too easy solution.
+Kesselring himself seems to have hit the mark most accurately, noting that the operation
+was only half-attempted. It was doomed from the beginning as it was given insufficient
+resources and placed in an untenable timeline – the unfortunate product of a Space-Time-Force
+interaction.
+Operation SHINGLE can offer today’s military planner several valuable lessons and
+bears examination. Immediate lessons from the campaign were applied during Operation
+OVERLORD five months after the landings at Anzio. The Allies had learned to send more
+strength ashore in the initial landing and to drive inland immediately to certain key points. They
+learned that a small force, once established on a beachhead, could survive in the face of severe
+difficulty if properly supplied by logistic lifelines from the sea. Issues of poor communication
+and C2 relating to combined forces were largely resolved. These are all important lessons for the
+modern U.S. planner to note as virtually every operation in which U.S. forces will be involved in
+the foreseeable future will involve coalition or alliance partners and take place within evertightening
+fiscal constraints. As the Allies were forced to discover at Anzio, not sticking one’s
+chin out too far may save an initial blow - but it can lead to catastrophic consequences if caution
+turns invasion to attrition.
