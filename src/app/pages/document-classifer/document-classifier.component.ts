@@ -1,7 +1,5 @@
 import { Component, OnInit } from '@angular/core';
 
-const URL = 'temp';
-
 @Component({
   selector: 'ngx-document-classifier',
   templateUrl: './document-classifier.component.html',
