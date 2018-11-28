@@ -1,5 +1,4 @@
 import { Component, OnInit } from '@angular/core';
-import { FileUploader } from 'ng2-file-upload';
 
 const URL = 'temp';
 
@@ -10,8 +9,6 @@ const URL = 'temp';
 })
 
 export class DocumentClassifierComponent implements OnInit {
-
-  public uploader: FileUploader = new FileUploader({url: URL});
 
   constructor() { }
 

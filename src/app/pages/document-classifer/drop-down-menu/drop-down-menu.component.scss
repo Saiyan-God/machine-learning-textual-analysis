@@ -1,0 +1,26 @@
+.center {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    -ms-transform: translate(-50%, -50%);
+    -webkit-transform: translate(-50%, -50%);
+    transform: translate(-50%, -50%);
+}
+
+.my-drop-zone {
+    border: dotted 3px lightgray;
+}
+
+.nv-file-over {
+    border: dotted 3px red;
+}
+/* Default class applied to drop zones on over */
+
+.another-file-over-class {
+    border: dotted 3px green;
+}
+
+html,
+body {
+    height: 100%;
+}
