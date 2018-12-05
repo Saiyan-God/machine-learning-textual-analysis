@@ -1,0 +1,179 @@
+GENERAL
+1 This exercise dealt with technical tests and user trials conducted by Directorate,
+Royal Canadian Corps of Signals (D Sigs) and Directorate of Electrical and
+Communication Development (DE & CD) Trials Team. The trials were divided
+into technical tests on prototype equipment and user trials on proven equipment.
+2 (a) Date: Winter 1948-49
+(b) Area: CHURCHILL
+(c) Troops Participating:
+
+Seven officers and thirty-two OR.
+Two CSRDE engineers accompanied the troops.
+46
+(d) RCAF: JSES detachment materially assisted the conduct of the trials
+by providing aircraft to airdrop replacement parts required by
+the trials.
+(e) Aim: The aims of the trials are as follows:
+(i) Radio wave propagation and earth constant
+measurements.
+(ii) User trials and investigations of VHF with AN/TRC
+radio relay equipment. (This equipment was not made
+available, therefore no tests were carried out.)
+(iii) Comparison trials of low frequency and high frequency
+radio sets.
+(iv) User tests on dispenser type coils of field cable.
+(v) User tests on lightweight barrows drum and determine
+cable laying drill and technique.
+(vi) User tests on Wireless Set Cdn No 29. Installations in
+Snowmobiles Penguin Mk II.
+(vii) User tests of Signal Wannegans.
+(viii) User tests on cold temperature type primary batteries.
+(ix) Investigation into the use of low frequency wireless.
+(x) Investigation into the use of unattended Signal
+equipment.
+(xi) Design proving trials on cold weather wire and cable.
+(xii) Tests on experimental steam electric generator under
+arctic conditions.
+(xiii) Design proving trials on mobile frequency shift,
+transmitter exciter and receiver adaptor.
+47
+(xiv) Tests on batteries.
+(xv) Design proving trials on sleds cable layer and sleds
+signal shelter.
+(xvi) Design proving trials on chests signal.
+(xvii) In the normal course of the trial many other items of
+equipment and clothing were used. Reports on these
+items are also included herein.
+LESSONS LEARNED - EQUIPMENT
+3 Communications Equipment
+The WS Cdn 29 is a suitable set for use in the sub-Arctic as a mobile station
+when mounted in a metal bodied vehicle. However, it should be thoroughly checked
+and arcticized with the proper lubricants to avoid the sticking of relays and motors
+before being put into service in the sub-Arctic.
+4 The WS Cdn 52 gave an excellent performance on frequency 2054 kcs. 100%
+communication was established between the three static stations on RT at all times
+during the three varying stages of distances. The travelling vehicles operating on
+2054. maintained good RT communication up to approximately 50 miles, but
+beyond this distance communication was undependable. The carrying temperature
+from minus to plus degrees caused a great deal of condensation on the metallic
+components of the set and chassis. Trouble was experienced in the armature of the
+dynamotor which shorted and several condensers shorted due to collection of
+moisture.
+5 The British Wireless Set No 88 proved very satisfactory except for one or two
+component troubles which were due not to the cold but to heavy handling which it
+would receive in any theatre. The dry batteries performed well but ceased to function
+if they became cold soaked. This took about 10 hours at a temperature of -25° F.
+The battery was normally carried in the parka pocket where some protection was
+provided. This set is well suited to use in cold weather conditions and extreme cold
+produces no operating or other difficulties except is the case of dry batteries.
+6 The Wireless Set C43 and long wave transmitter effectively blocked out all
+reception on the WS Cdn 52. The WS Cdn 52 was used for propagation tests and for 
+48
+controlling out stations, and in vehicles moving up and down the trail. Therefore the
+amount of time available for long wave and RTT transmissions was limited.
+7 Research should be carried out to develop a form of wave block for receivers, in
+order that the transmitters will not interfere with reception.
+8 More time should be devoted to the development of the 33-6-A receiver. A noise
+limiter might be a worthwhile addition.
+9 Hydrometers, for use in the sub-Arctic should be capable of registering specific
+gravity over the range of 1150 to 1450. Inside the hydrometer should be
+incorporated a thermometer capable of registering the temperature of the electrolyte
+over the ranges of -50° F to 120° F. These are most essential in order to obtain
+accurate readings of the condition of the electrolyte in a lead acid cell.
+10 The RCA meter was unserviceable in temperature below 20° F because of the
+uninsulated bias batteries freezing and failing to keep constant readings on the meter.
+11 The Ferris meter was generally satisfactory if not left outside for more than twenty
+minutes. At temperatures below 0° F the controls would freeze and become
+unmoveable.
+12 The sound powered telephone worked very satisfactorily under all conditions. No
+increase of speech volume was encountered between warm and cold operation.
+However, a thin membrane, which will not be affected by extreme cold temperatures,
+will have to be placed over the microphone to prevent moisture from the breath
+condensing in this component.
+13 Generally speaking, the Trailer, Sled, Cable Layer, Type 52-4-A, is considered
+satisfactory for laying field cables under sub-Arctic conditions, with modifications.
+14 The Barrows Drum, WD Mk II, Arctic Light Weight, Type 20-4-0, is considered
+satisfactory. It was found possible to manhandle the layer reasonably well. However,
+it is recommended that the magnesium clamps on the centre spindle be replaced with
+brass or steel and that the drive ratio be increased from 1:1 to 2:1 to enable faster
+reeling in.
+15 The Trailer Sled Signals Shelter 52-3-A came through the trail test with a
+remarkable performance. The last 40 miles provided the most rigid test available in
+this part of the country. At no time was any of the equipment installed dislodged or
+damaged except for minor wiring faults. The Signal Shelter as provided, with small 
+49
+modifications, is of correct dimensions and construction to provide a mobile signal
+shelter for use in sub-Arctic country.
+16 The requirement for a satisfactory mobile RTT unit still exists. It is suggested
+that further attempts should be made to approach a satisfactory unit.
+17 The Onan 2 KW is a satisfactory power plant for use in sub-Arctic conditions
+when used remotely to a Sled Signal Shelter. With better electrical suppression,
+better ventilation and better shock mounting it would be suitable for mounting in a
+shelter. Used as a heating device in the Sled Signal Shelter it is definitely practicable
+provided proper ventilation is planned.
+18 The system of mounting one Onan plant on top of the other was unsatisfactory
+and caused a lot of vibration. A plant producing more power should be installed and
+properly shock-mounted to cut down the vibration. The power plants must be
+extremely well suppressed.
+19 Considerable trouble was experienced, electrically and mechanically, from the
+power plants located inside the wannegans. This was overcome by establishing an
+outside power source.
+20 The kites, balloons and [antennae] wire are a quick and easy means of erecting
+vertical antennae when weather conditions and terrain are suitable in sub-Arctic
+conditions. They are NOT dependable for a 24 hour a day wireless link unless a
+large supply of balloons hydrogen and antennae wire are on hand. As an emergency
+measure they are quite satisfactory. For use in sub-Arctic country these are the only
+type of long vertical antennae that can be erected unless large and bulky antennae
+gear can be carried.
+21 It is recommended that a light braided flexible antennae wire easily handled in
+cold climates should be provided. All antennae should be issued on reels rather than
+as loose coils. Insulated antennae wire should be provided to offset noise caused by
+blowing snow. Standoff insulators should be provided on Signal Shelters to facilitate
+lead-ins from horizontal antennaes. The tentacles on the crows foot counterpoise
+should be soldered more ruggedly to the centre plate to avoid constant breaks at this
+point.
+22 The results all tend to show that a vertical antennae gives by far the best results.
+This is in accordance with the familiar radiation patterns obtained from horizontal
+and vertical antennae at these frequencies. The angle of radiation from the horizontal
+antennae is much too high and all the radiated power is lost.
+50
+23 All types of lead acid cells to be used in the sub-Arctic must be initially charged
+and cycled at a temperature of 70°F before being put into use in the extreme cold.
+Other types of secondary cells should be tested to determine whether the lead acid
+cell is the most efficient secondary cell at sub-zero temperatures.
+24 Communication equipment will have to be made more ruggedly, so that the
+various pieces will not break into electronic oscillation when subjected to vibrations.
+All equipment installed in the wannegan will have to be well suppressed, filtered, or
+bonded, so that it will not cause interference to other equipment.
+25 Personal Equipment
+Vests string proved satisfactory. However, many of the vests issued shrunk badly
+and would not tuck into the waist band of the trousers. Larger sizes should be made
+available.
+26 The parka coat with liner, modified, was not entirely satisfactory. The hood does
+not permit freedom of movement, and the depth and height of the hood is not
+sufficient to provide complete protection from the wind.
+27 Mitts, winter, Arctic, outer, were reasonably satisfactory. There was, however, too
+much bulk in the palm. The cuff was not sufficiently stiff and as a result it was
+difficult to put on and take off quickly. The durability was fair.
+28 Mitts, winter, Arctic liner, was completely unsatisfactory. The bulk was too large
+to permit any manual dexterity. Most of the men on the exercise did not use them at
+all. Mitts woolen, heavy, were found to be sufficiently warm in almost all cases.
+29 Boots, mukluk, modified, were completely unsatisfactory. The sole was too
+heavy, and the body of the boot was too fragile and bulky. The use of newer type
+mukluks has shown that the damage to uppers is minimized by a snug top. Lighter
+weight soles have also proven satisfactory.
+30 Socks duffle, modified, were not satisfactory. They have not sufficient shape to
+prevent the foot turning, and the bulk is excessive for the amount of warmth
+provided.
+31 Caps, comforter, proved useful and satisfactory.
+32 Goggles, brow rest, were not satisfactory. The plastic lenses break easily and fog
+up. They cannot be worn over ordinary eyeglasses.
+51
+33 Group Equipment
+Tents, Arctic, lightweight, 5-man, were found to be generally satisfactory.
+However, they were difficult to pitch, and the tent pole as issued is absolutely useless.
+It is recommended that a new Arctic tent be made and tested.
+34 Tents, Wireless, were used for stores, rations, and mess tents. Some of these tents
+had been “flame proofed”. The compound used made them very stiff and unwieldy
+and dark in texture. The canvas in one tent cracked when it was folded in the cold.
+Due to the colour artificial light had to be used at all times in flameproof tents

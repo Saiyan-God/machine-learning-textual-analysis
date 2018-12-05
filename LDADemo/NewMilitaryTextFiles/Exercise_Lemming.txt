@@ -1,0 +1,364 @@
+GENERAL
+1 This non-tactical exercise was the first extensive manoeuvre ever carried out by
+the Canadian Army over the Arctic barrens.
+2 (a) Date: Mar - Apr 1945
+(b) Area: CHURCHILL, MAN to PADLEI, NWT, and return, a total
+of 653 miles.
+(c) Troops Participating:
+(i) Four officers under command of Maj PD Baird.
+(ii) Observers from Department of Munitions and Supply,
+Mines and Resources, and US Army.
+(iii) Eleven rank and file.
+(d) Vehicles:
+(i) Two Snowmobiles Armoured Mk I
+(ii) Two Tractors, Snow M7.
+(iii) Two Tractors M-29 (Weasel).
+(iv) Ten Sledges Trailer.
+(v) Two Komatik Sleds.
+(e) Aim:
+(i) To obtain information of a non-tactical nature by which to
+extend Canadian Army winter doctrine from sub-Arctic
+conditions.
+(ii) To provide data upon which to base further development of
+oversnow vehicles.
+20
+(iii) To explore the barren grounds as an area for further winter
+exercises.
+(iv) To assist civil development and surveys in the barren
+grounds.
+LESSONS LEARNED - OPERATIONAL
+3 Mobility
+The exercise proved that travel over the Barren Grounds and coastal sea ice in
+oversnow vehicles is not difficult. 113 miles were covered in a single day and 653
+miles during 10 travelling days. The inland Barren Grounds may be likened to a cold
+and windswept desert. Conditions there are as different from those of the cold subArctic
+bush country as are conditions in the African desert from those of the jungles.
+4 The exercise proved that the inaccessibility of the Arctic is just another myth and,
+providing supplies are ensured, operations on the barren grounds which represent one
+third of Canada’s area can be as unhindered as operations on the Libyan deserts. It
+would therefore seem desirable that for defence purposes Canada should develop
+further oversnow vehicle types and train personnel to operate in these regions.
+5 Comparison between vehicular and dog team travel[,] while not directly made on
+this exercise[,] can be stated here. The unsupported range of dog team travel is not far
+short of the 700 miles maximum range of oversnow vehicles. The disadvantages of
+dogs are:
+(a) The have to eat therefore consume payload while stationary.
+(b) They need specially trained drivers.
+(c) An average of 40 miles per travelling day is good.
+Advantages are:
+(a) They can follow tracks, especially their own, in blizzards. Their
+drivers can also see tracks more readily than from vehicles.
+(b) In emergencies they can travel without food for several days while
+vehicles cannot move without petrol.
+21
+6 Meteorology and Topography
+The Barren Grounds are those portions of Canada situated north of the tree limit.
+This limit crosses Northern Quebec and stretches northwest from the coast of
+Hudson Bay in the neighbourhood of Churchill to near the mouth of the Mackenzie
+River. The total area of Canadian Barren Grounds is 1,100,000 square miles,
+representing 32 percent of the Dominion’s area, and including all the Arctic Islands.
+7 In winter when the snow coverage extends one foot it is often impossible to
+distinguish lake from land without digging.
+8 The sea in Hudson Bay and elsewhere in Arctic Canada freezes over in winter. A
+portion of this is termed “LANDFAST ICE”, ie, that portion which is solid with the
+land, the remainder “PACK ICE” which is in motion. The boundary between the
+two is termed “THE FLAW” (more usually in Canada, the FLOW).
+9 The inner margin of the LANDFAST ICE is aground and depending on its
+thickness and the slope of the shore a varying width grounds every low tide. A
+hinging effect is thus produced and the ice alongshore is therefore nearly always
+rough and tumbled, particularly when tides are high. Along the west coast of Hudson
+Bay between Churchill and Eskimo Point the maximum tides have a rise and fall of
+15 feet.
+10 In coastwise travel by vehicle in winter there are thus three roads for traffic, any of
+which may yield the best going:
+(a) The lowland, if marshy or a level snow-covered beach.
+(b) The ice foot, particularly when it has board ice coverage.
+(c) The landfast ice to seaward of the barrier.
+11 Although landfast ice moves up and down with each tide, its contours tend to
+change slowly, especially in late winter and spring, so a road cut through it will stay
+fairly permanently.
+12 When sea ice begins to freeze the platy crystals of ice that form are fresh.
+Globules of salty brine are enclosed between them and by a leaching process this
+brine flushes downwards though some gets forced to the surface. Thus the surface of
+young sea ice is nearly always sticky. This means that snow adheres to it very readily
+and it is never glare ice, also the friction on sled runners is considerable where they
+cut through any snow cover to the salty ice surface.
+22
+13 In small cracks and leads undisturbed by wind or wave action the surface water is
+often fresh due to its lesser density; this is particularly noticeable in spring when
+melting of the ice and snow increases this fresh water content. This accounts for the
+fact that overflow, if fresh, can cause board ice to be comparatively smooth and glare.
+14 Due to the process of its formation thin sea ice is only one third to one half as
+strong as its equivalent of fresh ice though after a thickness of perhaps 20 inches is
+reached the leaching process has gone sufficiently far for the ice to be well knit, and
+for thicknesses greater than 20 inches our present state of knowledge is that for a
+given thickness there is no great difference in weight-bearing capacity between the
+two forms of ice. Sea ice of only 4 to 5 inch thickness will bear a man and a dog team
+with the load on a sledge well dispersed. The rather alarming phenomenon of the ice
+surface bending can then be noted.
+15 Due to the invariable snow cover and slower process of formation sea ice seldom
+attains a thickness greater than 6 feet in undisturbed conditions, though pack ice
+through violent motion and rafting can pile up to very great thicknesses. The
+maximum thickness of landfast ice is not obtained till early May.
+16 On this exercise average snow depth encountered was about 20 inches. This is
+rather more than can be expected in a normal year in these regions. All estimates of
+average depth are extremely vague since the uniformly windswept condition of the
+country results in a very uneven snow cover distribution, with bare ridges and
+accumulations in the hollows.
+17 On most of the terrain the snow is hard packed bearing the weight of a man (5-7
+lbs per square inch) easily. Expectations encountered were:
+(a) In rough sea ice where deep soft drifts pile up.
+(b) Inland where areas of willow bushes contain soft snow.
+
+(c) Various areas with breakable crust. On 80% of the going encountered,
+it may be said that oversnow vehicles with loading of 1 to 1½ lbs per
+square inch cut in from nil to 3 inches and only rarely did the vehicles
+become bellied.
+18 The wind results in irregular snow ridges forming parallel to prevailing winds.
+Sastrugi (ridges with over-hanging windward points) are frequent. It therefore makes
+a considerable difference to travel whether a vehicle heads with or across the 
+23
+prevailing drifts. The M29 which is particularly susceptible to pitching could only
+reasonably make 8 mph across drifts, and 12 mph or better with the drifts.
+19 “Drift” is the expression normally used, in this country, for blowing snow.
+“Ground Drift” snakes along the ground, “High Drift” can mean the air filled with
+flying snow to a height of 30 or more feet. The velocity of wind required to raise a
+given amount of drift varies throughout the year. On this exercise it was found that a
+wind of about 12 mph would start ground drift. (In midwinter 4 or 5 mph wind will
+do this.) Drift affects visibility considerably. On this exercise a wind of about 18
+mph cut visibility to about a mile, 25 mph to 100 yards. Winds of gale force,
+particularly in midwinter, can reduce visibility to 10 yards, even when no fresh snow
+is falling.
+20 In the Barrens there are high steady winds which may average 20 mph for long
+periods.
+21 Temperature alone is no criterion of the effect of weather on the human body,
+which keeps warm and active only by retention of a layer of warm air around it. The
+Wind Chill, ie, the combined result of temperature and wind, has been scientifically
+worked out to show the dry shade atmospheric cooling effect on the body expressed
+in kilogram calories per square meter per hour.
+22 In the Barren Grounds winds are high and there is no vegetation to break the
+wind. This aspect cannot be stressed too much. In sub-Arctic Canada below the tree
+line, temperatures may be low but the wind chill factor is low too. Even though wind
+records show appreciable figures there is always the bush present to break the wind
+and produce relatively still air, so that frequently wind records from the bush country
+should be halved to give the true wind chill value. In the barrens natural shelter is
+completely lacking.
+23 Selection and Training of Personnel
+Special training is required to enable normal troops to operate safely, eg,
+construction of snow shelters, route finding, operation of fuel cookers. This is over
+and above training necessary to fit troops for sub-Arctic winter operations.
+LESSONS LEARNED - EQUIPMENT
+24 Modification to Existing Equipment
+24
+The Canadian armoured snowmobile functioned efficiently but to be a desirable
+barren ground vehicle it needs the following modifications:
+(a) Much improved petrol consumption.
+(b) Capacity to seat three or four men with sufficient cargo space on
+the vehicle for carrying personal equipment.
+(c) A snow-proof cover for the interior of the vehicle allowing allround
+vision for the Commander.
+(d) Slight reduction in ground pressure.
+25 The M29 cargo carrier also functioned fairly efficiently but due to overloading at
+the start its transmission did not stand up. It would be a useful barren ground vehicle
+with the following modifications:
+(a) More powerful (truck type) transmission.
+(b) Strengthening of the track idler wheel assembly unit.
+(c) Reduction of the ratio in high range of the rear axle.
+(d) A more durable track link connecting cable.
+This vehicle was found more efficient than the snowmobile in the following ways:
+(i) Greater cargo and passenger carrying capacity.
+(ii) Better petrol consumption.
+(iii) Lower ground pressure.
+26 Experiments as to the friction qualities of sled transport were carried out. The
+findings are as follows:
+(a) Friction is less on long narrow runners as compared with shorter,
+broader runners.
+(b) While variable at 32°, friction increases in a fairly straight line
+ratio with falling of temperature below this figure.
+(c) Friction increases with speed.
+25
+27 In the barren grounds the standard dog sleigh is the Eskimo Komatik, with long
+narrow runners and a low platform of cross-bars lashed to them. This is shod with
+steel, whalebone, or frozen peat mud, the latter two surfaces being iced, daily, with a
+thin film of ice. In spring and fall the steel shoeing is used, but in winter the latter
+two types are necessary since steel shoeing tends to have far too great friction at
+temperatures below zero. At a temperature of 10 below, one experiment carried out
+on Komatiks showed a co-efficient of friction of 0.16 for steel shoeing and 0.08 for
+iced whalebone at 5-6 miles per hour. At 40 below zero even the runner drags
+heavily, snow at this temperature being similar in consistency to dry sand.
+28 Only one of the Komatiks was constructed firmly enough. The main difficulty
+encountered was the failure of this type of sled, towed by rope, to track with the
+turning vehicle, resulting in its striking rocks and breaking its bow. A rigid tow bar
+on this type of sled would be helpful, since it would be difficult for a steerman to
+steer it satisfactorily at vehicle speeds as is done when the sled is being pulled by dogs.
+A further test of this type of sled is recommended for use behind vehicles with low
+draw bar pull (eg, the M29).
+29 The snowmobile sleds at least proved sturdy, though several tow bars broke and
+tow eyes pulled out. The upturn of the skis became very bent and worn. The sled is
+heavy (475 lbs) and the coefficient of friction very great (0.2 on hard snow at 10
+below at 6 mph). This must be to some extent due to the cross-section of the runners
+and also to the short base, 5 feet, which defies the principle of long, narrow runners
+described above. The sled when loaded, and therefore weighing 1000 to 1400 lbs,
+was impossible to man-handle with less than 6 men even on flat going.
+30 Mitts winter shell did not adequately perform the function for which they are
+intended. A fur mitt, not necessarily of caribou, though this is the warmest material,
+is necessary in the Barren Grounds in winter. With regard to the trigger finger, it is
+felt preferable to have an easily removable mitt, perhaps with safety string attached,
+and use the glove inner liner to fire weapons and discard the trigger finger altogether.
+31 Mitts winter liner are well knit and of sturdy construction. However, the trigger
+finger gets in the way when putting on the mitt together with the mitt winter shell.
+Recommended that the trigger finger be omitted. Even if fur mitts are issued this
+item should be taken as well, although its use as a liner for a fur mitt gives no
+additional warmth.
+32 Gloves inner liner wear easily. It is recommended that the glove should be more
+skin-tight fit.
+26
+33 Tins mess rectangular were used uniformly for cooking and eating. When used in
+the open the large surface area cools too rapidly. It should also have the old type
+rounded corners.
+34 Mess tin, US type, has a high heat conducting capacity and is not recommended
+as in any way superior to tins mess rectangular.
+35 Knives clasp type A is not satisfactory and issue should be discontinued. It is too
+large, heavy and unwieldy.
+36 Cook set, small detachment, was found useful for melting snow, however the
+square corners are not easy to clean.
+37 Container portable, one gal., was found to be unsatisfactory insofar as heat
+retaining properties are concerned. A more satisfactory type of container is desirable.
+38 The housewife is an essential item of issue but should have scissors included.
+39 Stones, pocket, sharpening, was found satisfactory, but perhaps unnecessarily
+large.
+40 Caps, winter melton, proved reasonably warm. A peaked ski cap of similar weight
+material would probably be preferable.
+41 Caps, Yukon, were found very warm, but too bulky to be worn under parka
+hood. They are considered unnecessary when a suitable lined parka hood is available.
+42 Caps, ski, US pattern, fit adequately under parka hood, and are recommended for
+use if of slightly heavier material.
+43 Goggles, sun, Canadian type, were unsatisfactory, and are by no means
+recommended.
+44 Goggles, sun, US type, tend to fog up when worn in vehicles, due to insufficient
+ventilation, and are not recommended.
+45 Goggles, sun, browrest type, are judged the best, however slight modification is
+required to ear stays.
+46 Masks, face, chamois, were not found satisfactory since they absorb moisture from
+the breath and freeze rapidly, becoming very cold and uncomfortable. It is not 
+27
+considered that any kind of face mask is needed if a satisfactory parka hood providing
+a warm funnel of air in front of the entire face is provided.
+47 Lanterns, hurricane, did not prove too satisfactory, and there is also need for a
+strong and snow-proof carrying case for them.
+48 Cooker, portable, Coleman, kerosene burning, was found to be satisfactory, but
+suffers from the limitations of being slow cooking for more than two people.
+49 Cooker, portable #4, worked excellently for cooking for four to six men, and is
+recommended, but with a weather-proof carrying case.
+50 Torch hand (TL 122B), was found to give an excellent light but was otherwise
+unsatisfactory. It needs suitable improvements before it can be recommended for
+issue. The switch must have a positive lock on it.
+51 Torch hand pocket, was satisfactory, but should have a positive lock.
+52 Matches, water resistant, gave good results but did not light easily in the wind.
+These would be useful for spring and summer conditions, but in real winter there is
+no great need for anything beyond the ordinary match.
+53 Drawers, long, khaki, were generally worn and found to be satisfactory, however,
+a double-thickness knee patch would be an advantage and for winter operations
+underwear should not be khaki for obvious camouflage reasons, if hung up to dry.
+54 Vests string, were found to serve the purpose intended, however, modifications
+are needed to shoulder straps, there should be a closer fit below the armpits, and the
+length of the garment should be to just below the waist.
+55 Shirts, cotton khaki, were found cold to put on in sub-zero temperatures. A shirt,
+of pattern of the US Army shirt, wool, OD, would be preferable.
+56 Suspenders issued were found not elastic enough and it is recommended that a
+belt be used instead.
+57 Sweaters, high neck, were found satisfactory though the buttons can be hard to do
+up with freezing fingers. A roll top is suggested.
+58 Bags, container sleeping bag, become very hard in the cold and tear easily. A
+canvas bag after the pattern of Kit Bag Mk III is much preferable.
+28
+59 Covers sleeping bag, water repellant, are not recommended. There is need for a
+stronger and waterproof cover.
+60 Parka coat, Canadian, is sturdy and pockets are found to be adequate. The hood,
+however, is very unsatisfactory. It should be fur-trimmed in order to retain warm air
+and from the side the wearer’s nose should be invisible. It should also be lined for
+further warmth.
+61 Parka, field pile, US Type, is not satisfactory and should have the same
+modifications to hood as for Item 60.
+62 Overalls, combination, are suitable if hip pockets are added, however, where
+windproof outer clothing is the normal rule they are probably superfluous.
+63 Bags, Kit, Mk III, should be slightly enlarged in diameter.
+64 Rucksack, steel frame, was found to be far from snow-proof, and a light flap
+should be installed in the mouth as in the Kit Bag Mk III.
+65 Pistol, 9 mm Browning, gave good performance but some method of preventing
+the rear sight from moving forward while being fired should be adopted.
+66 Covers, breech, rifle, were not satisfactory. An overall cover with drawstring at
+the rear is recommended.
+67 Boots, mukluk, rubber sole, were found quite adequate if kept dry, but much
+discomfort was experienced by melting snow. It is recommended that reduction be
+made of the weight of the sole and possibly velanized uppers of slightly heavier
+canvas.
+68 Mocassins, caribou (hairy), are easily spoiled by wetting, and are not
+recommended as practicable.
+69 Tents, six-man, were not satisfactory, and the following recommendations are
+made:
+(a) A stronger, non-collapsible pole.
+(b) A flap at least 18” wide and continuous at the corners around the
+bottom for weighting and snow-proofing.
+(c) Attachments for 3 guy ropes from the top of the pole for gale
+conditions.
+29
+(d) Guy ropes provided with sliders so they can be tightened without
+removing pegs.
+(e) Double metal pegs extended to the point.
+(f) Less inflammable liner.
+70 Shovel, snow, short handle, is not recommended. A long handled, large and flatbladed
+shovel is required with mechanical transport.
+71 New Developments Required
+Future development should concentrate on at least two types of vehicle, a light
+reconnaissance vehicle capable of carrying 3 or 4 personnel and equipment and a
+heavier type which by itself could fulfill the functions of a 15 cwt and with trailers
+fulfill the functions of a 60 owt. It is concluded that with the major improvements
+suggested oversnow vehicles could have a maximum range for unsupported operation
+of 700 miles which must be compared with the range of slower moving tractors of
+two to two-and-a-half times this figure.
+72 Any tracked trailer design should have a payload to weight empty of at least two
+to one, eg, weight unloaded 900 lbs, payload 1800 lbs.
+73 Equipment Satisfactory
+Mitts, caribou skin, were found to keep the hands warm and were good for
+driving and mechanical work in sub-zero weather. They are simply to take off and
+put on quickly.
+74 Mugs enamel, 3/4 pint, were found satisfactory, and are recommended for issue.
+75 Knives, clasp, new design, type B, were completely satisfactory.
+76 Bags, food, film were not used for their design purpose, however, were found
+useful for keeping safely dry wallets, papers, etc, and as waterproof covers on ignition
+systems on vehicles. It is considered desirable to issue for such alternatives.
+77 Caps, comforter, new type, give extra protection to the face and were satisfactory.
+78 Candles, wax, give good light, and are recommended for issue on a limited scale.
+79 Tablets, fuel, trioxane, are essential for pre-heating kerosene burning stoves.
+80 Undershirts were found satisfactory.
+30
+81 Squares neck were found satisfactory.
+82 Supporters athletic were found satisfactory.
+83 Bags, sleeping, Arctic, were found adequately warm for the conditions
+encountered.
+84 Skins, caribou (undressed) were found to be one of the greatest comforts of the
+exercise. Some skin, of which caribou is the best, considered necessary. Tent ground
+sheets and insulating pads can then be withdrawn.
+85 Windproof trousers, Canadian, were found quite satisfactory.
+86 Parka caribou, were found very satisfactory in providing guaranteed warmth,
+especially for the face. It is recommended that their principles of construction be
+applied to issue parkas.
+87 Battledress blouse, velanized, was found satisfactory. The velanizing served to
+shed all snow met with on this exercise.
+88 Battledress trousers, velanized, were found satisfactory.
+89 Compass Prismatic, Mark III, was found quite adequate.
+90 Binoculars as issued were found satisfactory.
+91 Socks, GS, 3 lb[s] and Socks Heavy, 6 lbs were on the whole satisfactory, but it is
+recommended that men should take the same size of each.
+92 Socks, duffle, were found adequately warm.
+93 Socks, cushion sole, met with general approval.
+94 Insoles mukluk (blue), are a good serviceable insole about which no complaint
+was made. Two pairs are necessary for extreme cold.
+95 Shoepacks, Canadian type, were satisfactory when the temperature was warmer
+than plus 10.
+96 Boots, ski mountain (US), were found satisfactory and are recommended for
+marching troops in temperatures above minus 10.
+31
+97 Saws rip, 24 inches, are necessary for cutting snow blocks for constructing walls,
+shelters, and igloos. They are considered essential for barren ground operations.

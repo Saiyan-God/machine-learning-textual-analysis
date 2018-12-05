@@ -1,0 +1,67 @@
+GENERAL
+1 This was an RCE cross-country engineer reconnaissance exercise to obtain
+engineering data, and investigate problems and techniques which arise for small
+reconnaissance parties operating in these environments during the arctic summer.
+80
+2 (a) Date: 12 Jul - 24 Aug 1950
+(b) Area: FORT CHURCHILL - CAPE CHURCHILL - OWL
+RIVER.
+(c) Troops Participating:
+23 Fd Sqn, RCE
+RCE - 1 officer - OIC
+3 OR - (1 trained No 29 W/S Operator 1 trained in first
+aid.)
+HQ Fort Churchill
+RCASC - 2 OR - Drivers for 2 Penguins. (One to be a
+Driver Mechanic.)
+(d) Vehicles: 2 Penguins, as provided by Prairie Command from Fort
+Churchill.
+(e) Aim: The aims of this exercise were as follows:
+(i) To verify and clarify features noted in air photographs by
+observations on the ground.
+(ii) To investigate and report on sites suitable for development
+as ground air landing strips; this information to include in
+the form of a work table, an estimate of time, labour and
+equipment required in their preparation.
+(iii) To study and report personnel and equipment
+requirements for future engineer reconnaissance parties
+operating under similar circumstances.
+(iv) To investigate and report on local resources and materials
+available in the area.
+81
+LESSONS LEARNED - OPERATIONAL
+3 Transport Support
+Air supply should be considered essential for any reconnaissance.
+4 Engineer Support
+Suitable local materials for airfield construction exist in this area.
+5 Mobility
+A more robust vehicle than the Penguin is necessary for this type of terrain if the
+heavy repair and maintenance tasks that proved necessary are to be eliminated. An
+amphibious vehicle would have numerous advantages.
+6 Topography
+The terrain is almost entirely low lying and flat in this area. This and the
+abundance of glacial debris, makes surface drainage very poor. The close proximity of
+the permafrost level raises the water table and obstructs sub-surface drainage. The
+few well drained, and hence dry areas, are confined to the gravel deposits and the
+infrequent and restricted areas that protrude above the mean level.
+7 The entire area abounds in shallow lakes of various sizes. With few exceptions
+they are bounded by parapet-like walls of moss-covered earth varying in height from
+4 feet around the large ones to 1 foot around the smaller. There are also numerous
+small streams encountered in this area.
+8 The greater part of the area is covered with either a grey moss or grass turf. Trees
+are spruce and [tamarack], of diameters up to 12 inches and a density of about 1 in
+30 square feet. There is some deciduous growth along the banks of the streams and
+small rivers and the shores of the larger lakes.
+9 A large number of gravel ridges exist along the coastline, varying in shape and size
+from knolls of 100 ft diameter to ridges from 2 - 3 miles long.
+10 Selection and Training of Personnel
+Instruction in navigation and dead reckoning should be a pre-requisite for the
+members of such reconnaissance parties.
+82
+LESSONS LEARNED - EQUIPMENT
+11 Modification to Existing Equipment
+A more robust vehicle than the Penguin is necessary for this type of terrain if the
+heavy repair and maintenance tasks that proved necessary are to be eliminated.
+12 The tent pole for the Arctic 5-man tent should be made stronger.
+13 All air mattresses (Pads Insulating) developed slow leaks which were impossible to
+repair.

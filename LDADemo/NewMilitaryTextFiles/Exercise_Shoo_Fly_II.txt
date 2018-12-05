@@ -1,0 +1,173 @@
+GENERAL
+1 This was a two-sided exercise carried out to investigate the tactical techniques and
+logistic requirements of an infantry platoon operating overland against an enemy of
+one infantry section which had been landed for reconnaissance purposes.
+101
+2 (a) Date: 19 Aug - 1 Sep 1951
+(b) Area: CHURCHILL
+(c) Troops Participating:
+ (i) Own Troops
+ 1 Pl R 22e R
+ 6 RC Sigs personnel
+ 1 RCAMC medical orderly
+(ii) Enemy Troops
+ 1 Sec R 22e R
+ 6 RC Sigs personnel
+ 1 RCAMC medical orderly
+(d) Observers and umpires were from UKALS, DRB, and Training Wing, Fort
+Churchill.
+(e) RCAF: 2 Norseman aircraft of the RCAF (JSES) Unit. (One aircraft
+equipped with wheels was used for administrative details only.
+Float equipped aircraft was used in the tactical and emergency
+role.)
+(f) Aim: The aim of the exercise as laid down by the Directorate of Military
+Training was to:
+(i) Practice sub-units of 1 R 22e R in a tactical role.
+(ii) Establish firm scales of clothing, arms, ammunition and
+personal and unit equipment for employment of forces at
+the platoon level operating over diversified terrain during
+the Arctic summer.
+(iii) Test infantry platoon tactical techniques now in effect and
+to recommend where necessary, their modification to suit
+Arctic conditions.
+102
+LESSONS LEARNED - OPERATIONAL
+3 Planning and Preparation
+A large part of the training carried out in Churchill, as has been previously stated,
+is designed to dispel the fears of the Arctic and the troops involved. This is only
+possible if the conditions such as are found far from human habitation can be
+duplicated. It is recommended therefore that if possible all future exercises should
+take place in areas far enough away from Churchill to approximate the desirable
+conditions.
+4 Command and Control
+In both wooded and barren areas the normal drills for laying out a platoon
+bivouac apply. As in other regions, each individual situation must be considered on
+its own merits and modified from the drill accordingly.
+5 Transport Support
+It is considered that RCAF participation in all exercises in the north is essential
+but on a larger scale than is normally considered in the meaning of the word
+emergency. This participation should include:
+(a) Normal supply to ground forces.
+(b) With the present limitations of ground wireless equipment the
+establishment of wireless communications with the main base at
+predetermined intervals.
+(c) At present, conventional aircraft cannot be relied upon in casualty
+evacuation, due to the limitation of landing areas. It is considered
+that helicopters could best fulfill this requirement.
+(d) Helicopters could also be used on special tasks as route
+reconnaissance, aerial reconnaissance, to locate the enemy and
+direct support of army component operations.
+(e) Gliders could also be used.
+103
+6 Fire Support
+It is considered that a light semi-automatic weapon, preferably of the present
+British pattern, is most desirable weapon to be carried. The weight of the Bren gun
+and the weight of the ammunition required to make it effective would have to
+increase the individual man’s load over the optimum considered desirable.
+7 The Sten Machine Carbine, plus ninety rounds of ammunition, can be carried
+within the optimum load requirement.
+8 Platoon weapons and ammunition, due to the weight factor, can not be carried.
+It is considered, however, that the use of these weapons is desirable and that they
+should be air-dropped prior to the action taking place.
+9 Logistics
+It is considered that 45-50 lbs is the optimum load carried by the individual
+soldier over diversified terrain. It was noted that during this exercise there was a
+marked drop in distance covered, rate of march, fitness to fight and morale, when
+weights above 50 lbs were carried.
+10 Reconnaissance
+It is evident that very little reliance can be placed on visual air reconnaissance
+from Norseman type aircraft in locating troops on the ground. The clothing worn by
+the troops blended with the texture of the ground and provided troops remained still,
+they were almost invisible.
+11 Assault Tactics
+The most suitable method of advance in both barren and wooded areas when
+enemy is unlikely is in single file. It must be appreciated, however, that these tracks
+can readily be seen from the air in the barren lands and open bush. The force
+commander must therefore maintain security and deception by frequently breaking
+track. Where contact is imminent, advance should be made in extended order in the
+barrens, and single file in wooded areas.
+12 Defence
+On operations of this scale, due to the rough nature of the terrain, defensive
+positions are not difficult to find. On larger scale operations, however, difficulty 
+104
+would be found in placing sub-units in mutual support for some or all of the
+following reasons:
+(a) Lack of sufficient areas of dry ground.
+(b) Necessity of building up positions of sod. A solid sod wall 9′
+thick is considered the minimum width of safety against small
+arms fire.
+(c) As large areas of sod would be removed, camouflage due to the
+scars left in the ground would be extremely difficult. In this area
+it is possible to dig only a depth of one foot. At this depth the
+permafrost table is encountered and further digging is impossible.
+13 Navigation
+The following aids to navigation are required:
+(a) Oil bearing prismatic compass, one per section.
+(b) Service protractor, one per section.
+(c) Pace counter, one per section.
+14 It is considered that maps on a smaller scale than 1” to the mile must be
+augmented by air photographs. The scale of issue of these photographs would
+depend to a large extent on the nature of the operation, but could generally be
+considered to be one set per section.
+15 A Sun Compass is required as a check on the magnetic compass in areas in
+proximity to the magnetic pole or where large local areas of variation are suspected.
+The Chichester sun compass appears to be satisfactory and should be provided on the
+scale of one per oil hearing prismatic compass.
+16 Camouflage, Concealment and Deception
+Local materials combined with X-51 clothing provide good camouflage. No
+extras are needed for operations of this scale.
+17 There are no special camouflage problems in a bivouac area.
+105
+18 The clothing and equipment worn by the troops blended well into the local
+terrain, and no camouflage problems arose other than those when defensive works
+were required. Concealment from the air was naturally simple provided the troops
+remained still. Concealment from ground observation however depended on the
+methods of movement employed by the commander. These are not different to those
+precautions necessary in other areas.
+19 Communications
+It is considered, due to the lack of mobility, that a supporting umpire signals net
+is required. This signals net should extent down as far as one wireless set per umpire.
+20 The W/S No 62 was too heavy to be carried beyond D/2 and as this set was the
+main communication link with Fort Churchill, communications had to be carried
+out by either orbiting aircraft or when possible and available, a No 29 set from a
+Penguin. This W/S No 29 could not be relied upon. The W/S No 58 in the aircraft
+worked extremely well. Excellent communications were established by using this set
+to contact the ground troops and using the normal aircraft set to communicate back
+to base.
+21 Selection and Training of Personnel
+No group of specially trained men is required to operate in this type of terrain
+during the Arctic summer, however, it is preferable that all troops undergo a short
+indoctrination course, mostly to dispel preconcerned misconceptions.
+22 Administration
+When the Canadian 5-in-1 ration pack is used, no additional cooking equipment
+is required beyond the service mess tin.
+23 During summer, tentage can be dispensed with.
+24 In this area, local fuel can be relied upon. Heating tablets issued one per day per
+man are desirable but not essential.
+LESSONS LEARNED - EQUIPMENT
+25 Equipment Satisfactory
+The X-51 pattern anti-contact glove is satisfactory.
+106
+26 The Canadian shoepack, rubber bottom, leather top, is the best type of footgear
+at present available, due mainly to its capabilities of wear during a wider variety of
+seasons.
+27 The nylon X-51 clothing adapted for summer use is the most desirable due to its
+quick drying capabilities.
+28 Web equipment was not found satisfactory, but the rucksack was found most
+desirable for fighting troops.
+29 It is considered that the packboard is required for specialized use, eg, ammunition
+carrying parties, demolition parties, wiring parties and possibly certain other carrying
+parties such as infantry support weapons, wireless sets, etc, over short distances.
+30 Modification to Existing Equipment
+It is recommended that investigations continue on the provision of a wireless set
+capable of being man-packed and with an operating range of 50 miles, and that this
+wireless set, or portions thereof, when loaded in conjunction with the personal gear
+and equipment of the signaler should not exceed the optimum load of 50 pounds.
+31 It is recommended that consideration be given to modifying the X-51 jackets to
+include a skirt in which two large side pockets could be provided. In addition, as is
+the case in the British combat jacket a useful pocket for carrying the poncho or other
+small soft items could be made in the skirt.
+32 The headnet is required and the present head net is satisfactory if the colour is
+changed to Olive Drab No 7. An additional desirable modification would be the
+inclusion of a wire ring at nose level which would allow the head net to stand out well
+from the face.

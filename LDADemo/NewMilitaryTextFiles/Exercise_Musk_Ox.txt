@@ -1,0 +1,217 @@
+GENERAL
+1 This was a non-tactical exercise. An initial training period for all personnel was
+held at Camp Shilo, Man. Following this, six weeks were spent in advanced training
+at Churchill, Man. During this latter period, organization and training were tested
+by short preliminary exercises on the barrens.
+2 (a) Date: Feb 46 - May 46
+(b) Area: CHURCHILL to EDMONTON, via CAMBRIDGE
+BAY, COPPERMINE and FORT NORMAN, a total of
+3,130 miles.
+(c) Troops Participating:
+There was a total of 24 officers and 239 OR on this exercise, as
+follows:
+Moving Force 33
+Baker Lake Force 9
+Base Force 188
+Loran Increment
+to Base Force 33
+(d) A number of military and civilian scientists and observers also
+accompanied the force.
+(e) Supplies for the force were delivered by RCAF.
+(f) Transportation consisted of 12 snowmobiles and 3 weasels.
+32
+(g) Aim: The aim of this exercise was to study movement and
+maintenance in differing cold weather conditions and in particular:
+(i) Army Air Force co-operation.
+(ii) Mobility of oversnow vehicles under a wide range of winter
+conditions, beginning on the barren grounds and
+terminating in the spring in the northwestern bush country.
+(iii) Methods of air supply, including the possibility of
+establishing temporary landing strips on the barren
+grounds.
+(iv) Certain technical research projects related to Arctic warfare.
+LESSONS LEARNED - OPERATIONAL
+3 Organization
+There appears to be a requirement for a light aircraft for use before proper lines of
+communication are established.
+4 Mobility
+The present vehicle has the mobility required for winter operations in this
+country but is not completely satisfactory. A series of vehicles ranging from light
+reconnaissance to heavy load carriers is required before operations in all seasons will
+be possible. This series should have the oversnow capabilities of the present vehicle
+but should be floatable.
+5 Vehicle maintenance points should be located at air bases at 500-mile intervals
+with intermediate caches and maintenance shelters at 100-mile intervals. The
+vehicles should carry enough fuel to travel unassisted between caches and should be
+reliable enough to travel between bases without air support. Air support should be
+reversed for an emergency.
+6 Navigation
+It has previously been stated that navigation across unmapped stretches of the
+barrens was equivalent to navigation of a ship at sea. The experience gained on this 
+33
+exercise suggests that this statement be modified since the general rule appears to be
+that a straight course cannot be kept by oversnow vehicles for any great distance
+owing to obstacles encountered.
+7 Small military bodies operating in unmapped territory, or in mapped territory of
+poor relief in winter, should be commanded by officers who can handle and calculate
+position from a Bubble Sextant of Type 9 or 9a.
+8 Training and experience should be given to all such officers in normal map
+reading and in direction finding by sun and stars. Dry card compass should be issued
+down to the smallest detachment that may have to operate on its own more than one
+mile from any other body of troops. LF LORAN, in its present stage of
+development, is not considered a valuable method of position finding owing to the
+complications of equipment and operation involved for ground troops. It is,
+however, considered extremely useful for any aircraft operating in the north and
+isolated ground detachments could ask for LORAN position to be given them by
+aircraft overhead.
+9 Communications
+All oversnow vehicles should have two-way radios linked with base installations.
+Radios should be suitable as homing beacons for aircraft and should have Direction
+Finding loops for navigation.
+10 The WS Cdn No 52 used with the radio-compass of the aircraft worked very
+satisfactorily as a homing device.
+11 Medical
+In training and indoctrination of the main factors from a medical point of view
+are prevention of snow blindness, frost bite and trench foot.
+12 The cab of the present snowmobile was not adaptable for medical purposes, and it
+was impossible to stow equipment in a manner which allowed it to be immediately
+accessible.
+13 Meteorology and Topography
+All meteorological instruments to be used in the Arctic should be thoroughly
+winterized.
+34
+14 The following are recommendations relating to meteorological programme with
+moving force:
+(a) Improve reporting programme by regular halts of 10 to 15
+minutes, to permit the weather observer to make accurate
+observations and deliver the coded message to signals.
+(b) Weather vehicle should be near the signals vehicle to facilitate
+handling of both reports and forecasts. It should have intercommunication
+with lead vehicle and signals vehicle to provide
+information such as used in the “Sitrep”, altimeter settings, surface
+wind speeds, etc, required for air supply drop and landings.
+(c) Forecasts should be delivered to the Meteorological Officer for his
+interpretation. He should then advise the Force Commander of
+the anticipated weather.
+(d) A forecast issued late at night and at mid-day would be more
+useful in preparing and breaking camp.
+(e) Instruments which can be read from inside the vehicle are
+recommended for this type of travel. An astrodome fitted on the
+top of the vehicle would improve observations.
+15 Due to the nature of terrain in the winter and the numerous lakes, the force was
+able to pick out a landing strip for aircraft rapidly, with little or no preparation.
+Generally speaking, the higher the latitude the less snow cover was experienced and,
+therefore, less preparation was necessary.
+16 Selection and Training of Personnel
+A crew of an oversnow vehicle should consist of a minimum of three, one of
+whom should be a mechanic, one a wireless operator and all capable of driving.
+17 It should be stressed that normal training must be completed prior to the
+specialized training for this type of climate.
+18 Signal personnel, preferably volunteers, must be carefully selected for ability and
+physical fitness. Operators must be top rate code men, able to send and receive with
+gloves on and copy code in vehicles on the move. Instrument mechanics and
+electricians must be familiar with the wireless sets being used. Signal personnel 
+35
+should be trained in their duties prior to an exercise to enable them to participate in
+the complete general training given to other members of the expedition.
+LESSONS LEARNED - EQUIPMENT
+19 Modification to Existing Equipment
+Although it is advisable that troops operating in the barren grounds during winter
+should be trained in the cutting of snow blocks and construction of shelters and
+igloos, and efficient tent will give ample protection. The size of this tent depends on
+the number of men required to be housed, but the tent used should have the
+following modifications:
+(a) Cotton liner.
+(b) Wider snowflap.
+(c) Pegs at door opening.
+20 For more extended tactical manoeuvres or operations in the barren lands further
+shelters for repairs, maintenance and drying of equipment will be essential.
+21 A satisfactory parka for winter motorized operations in the barrens would require:
+(a) Outer material light and flexible, equivalent to “Byrd” cloth.
+(b) A lighter and more flexible liner than that in the RCAF parka.
+(c) Full-length front opening and pockets with windproof closure
+operative with mittens.
+(d) Modified drawstring assembly to permit easy adjustment when
+wearing mittens.
+(e) A closure at bottom of hood that gives greater protection from
+wind than the present buttons.
+22 The string vest is a very useful piece of clothing worn by nearly all the men on the
+expedition, but could be improved by fitting to cover a greater area of the body.
+After use they shrank so as to expose a large area of chest.
+36
+23 The neck square is much too short, but would be adequate if made longer.
+24 The following modifications are required for the parka hood:
+(a) Fur having longer, stiffer hair similar to wolverine, so that most of
+the frost can be scraped or beaten off.
+(b) A means of securing the hood snugly around the face and
+manipulating it easily with heavy mittens. Outer edge reinforced
+as in Craft hood.
+(c) A means of holding the front of the hood in place with the least
+possible use of a drawstring.
+25 The following modifications are required for handguns:
+(a) An extremely light outer mitten to be worn over a work mitten
+with a liner, and capable of being slid on and off easily.
+(b) A long, wide stiff gauntlet which can be slipped over the sleave
+and secured with a very short wristlet fitting up inside the sleeve.
+(c) A light gasoline proof mitt that will remain pliable in temperatures
+of -40° F to -50° F.
+26 The mukluk should be modified by lightening of the sole, use of a rubber that
+does not stiffen with cold, strengthening the canvas upper, and permitting a better fit
+over the instep. An all-rubber snowpack should be developed.
+27 Considerable shifting of the sleeping-bag material occurred and might be lessened
+by inserting partitions in the tubes.
+28 The knife and fork issue was seldom used. Most of the cutting was done with
+spoons and pocket or sheath knives.
+29 The issue snow knife was used a great deal, but would be improved by making a
+longer handle similar to the Eskimo knife.
+30 The snow now could be improved by making a pointed end, providing easier
+penetration into the hard-packed snow and a longer handle opening for use with
+mittens.
+37
+31 The following modifications are necessary in order that the Penguin snowmobiles
+can be used on exercises in northern Canada:
+(a) The cooling system must be redesigned to permit operation with a
+safe margin at ambients of 80ºF.
+(b) A suitable air cleaner should be provided for for spring and
+summer operations.
+(c) The overall gear ratio should be altered to reduce the minimum
+speed in top gear by about 25%. This would permit continuous
+operation in higher gears and should reduce hunting.
+(d) Mechanical advantage of steering linkage should be reduced and
+all steering brake band adjusting yokes should be replaced by the
+modified part.
+(e) The pitching characteristic of the vehicle should be reduced if
+practical.
+(f) The cab should be completely redesigned with due attention to
+physiological consideration of personal comfort, riding position,
+location of instruments and controls and ingress and egress.
+Appearance is un-important. Rear vision, heating, windshield
+cleaning, and protection from toxic fumes are essential.
+(g) The generator should be fitted with charging voltage at idling
+speed.
+32 The following conclusions may be drawn from the performance of sleds on this
+exercise:
+(a) Net weight payload and drawbar ratio was poor.
+(b) Runners are too short for drifts on sea ice and barren lands,
+causing excessive pitching.
+(c) Runners are too weak for hard drifts and rocky country.
+(d) Suspension system and method of attachment of runners are
+excellent from the point of view of shock resistance and
+replacement.
+38
+33 Night driving brought out the need for a reliable lighting system. Whether
+because of inferior quality bulbs, high voltage, vibration of the vehicle, or the extreme
+cold cannot be said, but the replacement rate of spotlight bulbs of 60 watt rating
+became troublesome.
+34 The following recommendations are made with regard to eye glasses:
+(a) Neutral density glass should be used.
+(b) Should be more strongly constructed as the present issue crack and
+break easily in extreme cold.
+35 The present oversnow vehicle has the mobility required for winter operations in
+this country but is not completely satisfactory. A series of vehicles ranging from light
+reconnaissance to heavy load carriers is required before operations in all seasons will
+be possible. This series should have the oversnow capabilities of the present vehicle
+but should be floatable.
+36 New Developments Required
+The issue flash light was inconvenient to use because of the long battery cord.
+Low-temperature batteries should be developed.

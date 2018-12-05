@@ -1,0 +1,336 @@
+GENERAL
+1 This was a non-tactical exercise carried out in two phases with an intervening day
+for refitting of equipment at Fort Churchill.
+2 (a) Date: 20 Jul - 2 Aug 1950
+(b) Area: CAPE CHURCHILL and DUCK LAKE
+(c) Troops Participating:
+One officer and ten other ranks of the Royal Canadian
+Regiment.
+(d) Observers: Five officers representing Directorate of Military Training,
+Directorate of Inter-service Development, Defence
+Research Board, and the British Army.
+(e) RCAF: One Canso (Phase II)
+Norseman from JSES Unit (Phase I & II)
+83
+(f) Aim: The aim of the exercise as laid down by the Directorate of Military
+Training, was as follows:
+(i) Investigate the tactical movement of an infantry section in the
+reconnaissance role.
+(ii) Determine the clothing and equipment requirements of an infantry
+section operating for a period of two weeks.
+(iii) Conduct engineering trials on certain items of clothing and
+equipment.
+(iv) In addition to the above, observers took the opportunity insofar as
+the scope of the exercise permitted, to evaluate the problems of
+northern summer operations.
+LESSONS LEARNED - OPERATIONAL
+3 Planning and Preparation
+The environmental conditions encountered presented few problems in the
+conduct of small scale operations beyond those inherent to any undeveloped region
+arising from the great distances, lack of all forms of developed communications and
+the difficulty of their provision. These would necessitate reliance to a great extent
+upon air transport and supply. In turn it will be of importance to reduce the weight,
+bulk and quantity of equipment and stores of all kinds by design, by hard living and
+by the elimination of the non-essential.
+4 Transport Support
+A light aircraft, preferably a helicopter, working integrally with the ground troops
+would materially increase their effectiveness. Its primary purpose would be to act as
+the eyes for the ground force for route finding and distant reconnaissance. Other
+uses would be for wireless communication with base, for the rapid transport over
+short (in terms of movement by air) distances of small groups of men, small
+quantities of stores, and for forward casualty evacuation.
+5 Neither the Norseman nor Canso aircraft were entirely suitable in their role on
+the exercise. The major disadvantage of the first in its limited payload (375 lbs) with
+full fuel load and survival equipment), and of the second the restrictions on the water
+bodies suitable for landing. Both problems might be overcome by employment of 
+84
+gliders. It appeared probable that landing zones on the tundra could be selected
+without difficulty wherever required, although this requires confirmation by experts
+to ensure both landing and snatching are feasible without damage.
+6 The construction of operational airstrips, given gliders suitable for the transport of
+plant, appears feasible. Large gravel deposits exist throughout the area. Level runway
+sites can be found in the vicinity of many.
+7 It is recommended that the feasibility of employing gliders be the subject of expert
+investigation.
+8 Logistics
+Range is limited by the weight and bulk of rations which can be carried by the
+individual in addition to his operational scale of arms and equipment. Using the US
+Arctic Trail ration (AT 1) a range of three days was practical and five days possible
+and feasible by going on to half rations.
+9 Reconnaissance
+It would be of value in future exercises if a light aircraft could be made available
+for tactical employment and reconnaissance in conjunction with ground troops.
+10 Mobility
+The uneven hummocky moss and marsh slow down the rate of marching. For fit
+troops 1½ mph is normal. In a day 10 map miles may be expected on the average, 15
+- 20 for a forced march.
+11 Water transport (canoe or other means) suffers from several disadvantages. The
+major objection to its tactical use is in the difficulty both of obtaining surprise and of
+guarding against it. Freedom of action is restricted by the necessity to follow the
+water-way. Movement upstream would usually be slow and difficult. Consequently
+the use of canoes by a section in a reconnaissance role, air landed in proximity to the
+enemy as envisaged in the exercise, would rarely be warranted. They might, in
+favourable circumstances, be used for the transport of troops and supplies in a
+support role. However, they are difficult to transport by air, relatively unstable, and
+require considerable skill in their use. It is possible that more generally suitable craft
+might be found from existing military patterns. A rough guide to canoe moves,
+obviously widely variable with conditions of weather, wind, current, number of
+rapids, is given below. Figures are for a 16 foot canoe carrying three men and their
+equipment.
+85
+Item Miles in the hour Miles per day
+On lakes 3 24
+Rivers - upstream 5 40
+Rivers - downstream 1 7-10
+12 Movement
+Movement on foot is possible without difficulty throughout the area. Most
+swamps and sloughs can be waded. Those sections which cannot are easily by-passed.
+Swamp shoes or other artificial aids to movement are necessary. The comparatively
+few rivers or creeks which cannot be forded may be easily crossed by many
+improvised methods - the inflatable mattress which is an item of individual
+equipment is useful for this purpose.
+13 Study of the country traversed and observation of oversnow vehicles and tractors
+in the area FORT CHURCHILL - CAPE CHURCHILL suggest that the film and
+report on CHURCHILL Vehicle Trials 1946 may have exaggerated the difficulties of
+movement. While the use of wheeled transport cannot be envisaged it is considered
+probable that standard tracked vehicles could move without great restriction in many
+areas and that passable routes could be found over most. Conditions might
+deteriorate appreciably later in the season as the permafrost table lowers.
+14 Assault Tactics
+Accepted tactical principles apply without change and operational techniques and
+procedures call for little modification.
+15 Navigation
+The lack of accurate large scale maps makes accurate route finding and land
+navigation most difficult. In coastal plain areas the difficulty is further increased by
+the multitude of lakes and water ways, restricted observation and lack of visible or
+charted land marks. Air mosaics would be of material assistance and are considered
+requisite to successful operation where direct air reconnaissance for ground troops can
+not be provided.
+16 It is recommended that air mosaics of the exercise area be prepared and issued
+prior to any future exercises so that the degree of assistance they afford in map
+reading and route finding can be determined. They should, if possible, be gridded.
+86
+17 Camouflage, Concealment and Deception
+The olive drab provided for cold weather clothing and equipment is most suitable
+for summer use. It should be extended to all items. Disruptive camouflage in
+clothing and equipment is not required. It is of interest that landing counts of
+mosquitos and flies were appreciably less on the Canadian experimental clothing of
+olive drab nylon than on materials of different colour and texture.
+18 For dismounted troops concealment is easily achieved. For vehicles it would be
+more difficult, but no more so than in temperate theatres. While there would be
+little difficulty in concealing vehicles in creek beds, willow or spruce clumps, tracks
+remain clearly visible and track discipline is as important as elsewhere.
+19 Communications
+A problem was presented in providing communication between the
+reconnaissance section and base. A possible solution with existing wireless equipment
+is to establish a suitable high-powered rear link with relays of man-pack sets working
+forward. Obvious disadvantages are the increased size of group required, complexity,
+and added danger to security. A preferable alternative eliminating the necessity for
+separate rear link and relay system is, as already mentioned, to employ a light aircraft
+or helicopter as an integral part of the group.
+20 It is understood a wireless set exists which is man-portable and of the same range
+as the No 29. It is suggested this be investigated with a view to its provision in future
+exercises. Such a set is required to provide communication between the
+reconnaissance element and its advanced base if communication through an aircraft
+in tactical support is not available.
+21 Medical
+No particular medical problems arose during the exercise. It is possible, however,
+that over a longer period the incidence of respiratory diseases and foot casualties
+might be greater than normal since wet feet must be accepted as routine and
+immersion to the waist or higher of frequent occurrence.
+22 Selection and Training of Personnel
+Men classified medically fit for active service are acceptable for northern summer
+operations. Special selection is not required.
+87
+23 Training, additional to normal corps training, is necessary in those subjects
+classified under the general heading of bush or woodcraft. Two weeks is adequate for
+individual training. An additional week or two weeks for sub-unit and unit training
+might be necessary for operations on a larger scale. While it is not essential that such
+training should be carried out in the north, it is desirable when possible in order that
+preconceived misconceptions concerning the hardships and difficulties encountered
+in the Arctic should be dispelled and the correct mental approach ensured prior to the
+operation.
+24 There is no doubt that the average individual has a mental picture of the Arctic
+greatly exaggerating its difficulties and hazards. While the problems of summer are
+not such as to demand special training in the north, it is recommended that summer
+indoctrination courses at Fort Churchill be continued. The object in so doing would
+be to build up a nucleus of officers and NCOs in all units able to disseminate
+balanced and factual information on the Arctic and its problems and thus counteract
+the exaggerated views so widely held. The same purpose would be achieved through
+continued exercises.
+25 Administration
+A light weight trail ration is essential for operations of the nature envisaged during
+the exercise. That tested, the US AT 1 experimental Arctic trail ration, while
+basically satisfactory was considered to be too heavy, too bulky and lacking in
+[palatability].
+26 For operations of longer duration ration packs suitable for use in temperate
+regions would be equally suitable for Arctic summer use. It is essential however that
+they should be waterproof and desirable that they be floatable if wastage is to be kept
+within reasonable limits.
+27 In case of emergency small groups could usually live off the country although this
+is not recommended as an administrative principle. A shot gun and fish net make the
+task easier and form useful adjuncts to catering equipment when carrying capacity
+permits.
+28 The US 5-1 B Pack Ration is generally satisfactory except that the inner container
+which holds the cigarettes, salt, sugar, etc, is not waterproof and that tea should be
+provided.
+29 For small operations of isolated groups up to platoon strength the provision of
+stoves and fuel for cooking is unnecessary. For larger groups the gasoline stoves and
+fuel as used for winter operations are required. Fuel expenditure approximates 1 
+88
+gallon weekly for each five man tent group when using the Coleman mountain type
+stove.
+30 All repellants used were satisfactory as was the spray for tent use. No appreciable
+difference in the effectiveness of repellants was observed, although in some cases eye
+and skin irritation was reported in minor degree. None were sufficiently factual to
+warrant a firm recommendation and investigation under controlled conditions is
+required.
+31 No suitable 24 hr trail ration or 5 man pack ration is yet available. It is
+recommended that an adequate trail and pack ration be made available as soon as
+possible.
+LESSONS LEARNED - EQUIPMENT
+32 Equipment satisfactory
+With few exceptions suitable clothing either exists or requires only minor
+modification to be quite acceptable.
+33 The experimental insect-proof suits tested performed satisfactorily and a desirable
+feature is the quick drying property of the nylon used. The screened vests were,
+however, unnecessary and the type of combat clothing assembly as being developed
+for use in all theatres by Great Britain and the United States would be equally
+suitable, with minor modifications, for Arctic summer.
+34 Personal and group equipment used on the exercise was generally suitable and
+requires little modification. With few exceptions, equipment presently available as
+normal issue, is considered acceptable for future summer operations.
+35 The headnet X-50 is considered too heavy and bulky and is difficult to pack or
+carry. It is recommended that issue headnet be retained and that no further
+development of this item is necessary.
+36 There is no requirement for an anti-insect glove. However, it is recommended
+that the Gloves Anti-Contact K-50 be issued for wear on cold days, for cooking and
+for handling cordage, etc.
+37 Holders, candle, X-50 are considered satisfactory.
+38 The machete US pattern is satisfactory.
+89
+39 Pads inflatable, X-50 are satisfactory and it is recommended they be adopted for
+northern operations in summer.
+40 Shirts flannel w/collar are satisfactory.
+41 Socks, GS, are satisfactory.
+42 Tents Arctic 5-man insect proof, without floor, are considered satisfactory.
+43 Vests, string, nylon, are satisfactory.
+44 Bags, sleeping X-50 w/liner, combined with the inner bag and cover is considered
+satisfactory.
+45 Insoles SARAN are recommended for summer use due to their quick drying
+properties.
+46 Tablets, water purifying, are considered satisfactory, because of the taste removing
+tablets included.
+47 Modification to Existing Equipment
+It is recommended that the carrier be given further trial under typical Arctic
+summer conditions. It is known that going can be found to immobilize it. The
+object of the trials would be to determine to what extent the prevalence of such going
+destroyed its operational value. It is considered this would be much less than is at
+present believed. Carriers under trial should be equipped with flotation equipment.
+48 Standard military craft of the assault or inflatable type are considered to have
+advantages over the canoe in terms of airportability, stability, and ease of handling by
+untrained troops. Since there would be occasions when such light craft might be
+valuable in a support role their trial on lakes and fast running waters is suggested both
+with and without outboard motors.
+49 Clothing designed especially for northern operations is not required. It is
+considered that clothing developed for summer operational use in other areas can be
+utilized for future northern operations. However, the present issue battledress is not
+satisfactory due to its water absorbent qualities and difficulty of drying. Ideally,
+future Canadian winter clothing, with insulating liners removed, should be capable of
+summer wear in northern regions. Detailed scale of issue of clothing for summer
+operations is found at Appendix “A”.
+90
+50 There appears to be no requirement for anti-insect clothing as such. However, a
+combat suit of similar design and of the same material as the Jacket and Trousers
+Anti-insect is a desirable item. The normal issue battle dress does not provide
+suitable protection from climatic conditions and its colour is such that it attracts large
+hordes of insects. Insects are attracted by certain colours and repelled by others.
+Technical investigation should be instigated in order to determine proper type of
+material.
+51 Both Paddles Maple and Paddles Spruce proved satisfactory. Due to the lighter
+weight of the spruce paddle it is recommended that this type be adopted. All paddles
+should be painted OD 7 in colour.
+52 The Poncho w/hood is considered satisfactory with the addition of press studs on
+all four edges.
+53 Pots cooking w/lid are satisfactory, but would be improved if made of a lighter
+material.
+54 Pots tea X 50 are unsatisfactory. A requirement exists for a suitable tea pot and it
+is felt that by improving the spout and handle of this item, a suitable pot might be
+obtained.
+55 Shoepac, US pattern; Boots rubber bottom, leather top, US pattern; and Boots
+rubber bottom, leather top, Cdn pattern, were all generally unsatisfactory because of
+their weight and the fact that they were uncomfortable and too hot. It is
+recommended that investigation be commenced on the issue of an oil tanned boot of
+design similar to the Boots Battle Dress of World War II.
+56 Bowls 1 qt X-50 were unsatisfactory because mess tin cooking was not feasible
+without a handle. Issue mess tins were preferred.
+57 It is indicated that the canvas canoe is superior to the fiberglass canoe because of
+its sturdier construction and flexibility. Further study is required before it can be
+established if there is a requirement for canoes in northern summer operations.
+58 The Caps peaked, service general pattern, [are] too heavy and [do] not retain its
+shape after becoming wet. It is recommended that a cap of a design similar to the
+British or US winter cap be adopted.
+91
+59 Cases Saw Knife and File X 50 are considered unsatisfactory. The saw would not
+cut green wood and the knife was too light for use as a machete. A requirement exists
+for a suitable saw and machete.
+60 All the various types of repellant issued appeared suitable, however, it is
+recommended that a technical study be made to establish which is best and an
+unbreakable container be provided.
+61 The match box waterproof is a definite requirement in summer operation. The
+type used did not hold enough matches. It is recommended that a larger box be
+obtained.
+62 The cookers, US mountain type 1942, are satisfactory for summer use but should
+be superceded by the latest US type available. Petrol consumption averaged one
+gallon per 5 men per week.
+63 New Developments Required
+A candle provides adequate illumination for summer use. The candle, Arctic,
+edible, is not considered satisfactory as it does not retain its shape in warm weather
+and does not burn for a sufficient length of time.
+64 A requirement exists for a suitable 2-man tent.
+65 There is no requirement for the snowshoe in summer operations. After numerous
+trials it was established that any type of snow or mud shoe would only hinder
+movement.
+Appendix A
+CLOTHING & EQUIPMENT
+SCALE OF ISSUE
+CLOTHING
+The following scale of issue is recommended for future short term operational use:
+(a) Headgear
+(i) Cap light weight 1
+(ii) Headnet 1
+(iii) Necksquare 1
+92
+(b) Handgear
+Gloves anti-contact 1 pair
+(c) Footgear
+(i) Oil-tanned leather boots 1 pair
+(ii) Socks GS 4 pair[s]
+(iii)Insoles saran 1 pair
+(d) Body Clothing
+(i) String vest 1
+(ii) Pyjama trouser 1 pair
+(iii) Shirts flannel w/collar 1
+(iv) Sweater high neck 1
+(v) Combat clothing complete 1
+(vi) Suspenders 1 pair
+EQUIPMENT PERSONAL
+In addition to personal clothing the following personal equipment is required:
+(a) Battle Jerkin DIDX-50 mod. (rucksack in lieu) 1
+(b) Eating utensils 1 set
+(c) Mess tins 1 pair
+(d) Mug enamel 1
+(e) Water purification tablets 1 box
+(f) Water bottle 1
+(g) Emergency ration 1
+(h) First field dressing 1
+(j) Housewife 1
+(k) Knives clasp 1
+(l) Match box waterproof 1
+(m) Nylon cord 25 feet
+(n) Repellant insect 1 bottle
+(o) Pads sleeping inflatable 1
+(p) Sleeping bag (inner) w/ cover 1
+(q) Poncho 1
+(r) Entrenching tool 1
+(s) Lypsol 1

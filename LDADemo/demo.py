@@ -32,7 +32,7 @@ def annoyingSnake(directory_name):
 
     lol = []
     for file in file_arr:
-        with open('MilitaryTextFiles/' + file, 'r', encoding='ISO-8859-1') as myfile:
+        with open('NewMilitaryTextFiles/' + file, 'r', encoding='ISO-8859-1') as myfile:
             lol.append(myfile.read().replace('\n', ' '))
     return lol
 
@@ -57,7 +57,7 @@ def bag_of_words(processed_documents):
     # appear in less than 15 documents
     # appear in more than 0.5 documents
     # keep only first 100 000 frequent tokens after the above two filtering steps
-    dictionary.filter_extremes(no_below=0, no_above=0.5, keep_n=100000)
+    dictionary.filter_extremes(no_below=0, no_above=0.5)
     bow_corpus = [dictionary.doc2bow(doc) for doc in processed_documents]
 
     return dictionary, bow_corpus
@@ -70,7 +70,8 @@ def visualize_model(model, corpus, dictionary):
 
 def main():
     # Retrieve training data
-    documents = annoyingSnake('/home/hassheez/PycharmProjects/machine-learning-textual-analysis/LDADemo/MilitaryTextFiles')
+    #documents = annoyingSnake('/home/hassheez/PycharmProjects/machine-learning-textual-analysis/LDADemo/NewMilitaryTextFiles')
+    documents = annoyingSnake('NewMilitaryTextFiles')
     print('Number of Articles: {}'.format(len(documents)))
     #print('First five documents:\n{}\n'.format(documents[:5]))
 

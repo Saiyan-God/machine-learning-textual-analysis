@@ -1,0 +1,125 @@
+GENERAL
+1. Exercise “LOUP GAROU” was a two-sided, joint exercise.
+(a) Dates: 18 Feb 54 to 1 Mar 54
+(b) Area: Seven Islands, Quebec
+(c) Troops Participating
+(i) Friendly Force (Army)
+1 R22eR (Bn HQ and two coy gps)
+Tp Z Bty,1 RCHA
+167
+1 AB Tp, RCE
+Tp 1 AB Sqn, RC Sigs
+Sec 1 AB P1, RCASC
+Sub-Sec 1 AB Med Sec, RCAMC
+4 Coy Cdn Rangers
+(ii) Friendly Force (RCAF)
+9 C-119 aircraft - 436 & 438 Sqns
+8 Mitchell Bombers - 406 & 418 Sqns
+2 Lancasters - 408 (P) Sqn
+2 Otters - ATC
+4 Dakotas - ATC & 1 TAC
+ACT (less GLO)
+APIS (from 408 Sqn)
+RPS (from 408 Sqn)
+(iii)Enemy Force
+One coy - 1 RCR
+(d) Aim: The aims of the exercise were as follows:
+(i) To test the standard of training of 1 R22eR and certain MSF supporting
+arms and services in an airborne operation, under climatic conditions
+encountered in the Canadian North in winter;
+(ii) To exercise the RCAF in tactical and transport air support;
+(iii)To test further the SOP for MSF operations and examine certain
+modifications therein suggested as a result of previous exercises;
+(iv)To exercise Quebec Command and 1 Tactical Air Command Staffs in
+carrying out their respective roles in the event of MSF operations.
+LESSONS LEARNED
+2. Planning and Preparation
+ Planning and preparation for a northern airborne operation must be complete
+before the operation commences. In temperate climates the omissions of the planners 
+168
+can often be rectified in the field. This is seldom possible in the Arctic, where reinforcement
+and resupply depend largely upon the coincidence of favourable flying
+weather. Likewise, the initial launching of the operation is also dependent upon good
+flying weather. Its timeliness will often depend very largely on the readiness of the
+force to seize fleeting opportunities. From this it follows that an operation must be
+mounted from the very start in adequate strength, adequately equipped and with the
+troops prepared to assault on very short notice at the earliest advent of favourable
+flying weather. This involves lifting the total force to be employed in one lift,
+together with its immediate resupply, tactically loaded from the start in aircraft which
+had no other prior commitments. No reloading of these aircraft should be necessary
+between war station and assault area otherwise the force will not be capable of seizing
+the fleeting opportunities of good weather which present themselves, nor will the
+troops gain the maximum rest en route.
+3. It is axiomatic that Headquarters should be split to prevent the total loss of
+command and control if aircraft become unserviceable for any reason. This principle,
+which is so well understood in amphibious combined operations, must be applied
+equally to MSF airborne operations.
+4. As a guide it may be taken that a force consisting of battalion headquarters and
+two inf coy groups, with supporting arms and services, will be required in the assault
+lift whenever the enemy lodgement is estimated as being between platoon and
+company strength.
+5. Reconnaissance
+ Very early and accurate information on the location and strength of the enemy is
+essential to ensure the effort expended in mounting the operation is commensurate
+with the task in hand. This is of prime importance since it has proved necessary to
+employ at least battalion headquarters and two inf coy groups, together with their
+requisite supporting arms and services, to destroy an enemy lodgement in greater than
+platoon strength. To estimate the enemy strength as quickly as possible, the
+following action is necessary:
+(a) very early air recce, both photographic and visual;
+(b) the dropping of a wireless team into the area during the information
+phase to contact the local defence force and provide detailed
+information to orbiting aircraft;
+(c) the establishment of a simple ground/air code for use by the local
+defence force prior to the arrival of the air dropped wireless team.
+169
+6. The importance of early and accurate information cannot be overstressed.
+7. Mobility
+ Once on the ground, an urgent requirement exists for a prime mover, droppable
+and capable of towing full loaded sleds. The carrying forward of equipment,
+ammunition and casualties places a great strain on personnel and depletes the
+available fighting strength of a company. Further, in the gaining of contact phase,
+the towing of sleds by each sub-unit of the forward element, advancing under tactical
+development, is difficult, slow and most dangerous.
+8. Medical
+ This exercise again emphasized the requirement for aircraft evacuation of
+casualties. It is recommended that the Otter aircraft be used. Casualty evacuation
+aircraft should be based on or near the DZ and should evacuate casualties to the
+nearest airstrip or lake where a heavier type of aircraft could be used to carry out the
+evacuation to the advanced Base. Fuel for the Otter aircraft should be included in the
+resupply or brought in by heavier evacuation aircraft. If the distance to the airstrip or
+lake is too great, refuelling points could be established at intervening points where
+Otters could stop and refuel en route. It is considered that evacuation of casualties
+should be speedy and immediate, not only for the morale factor, but also to free the
+assault force of this additional responsibility with the least possible delay.
+9. Rations
+ It was again confirmed on this exercise that efforts must be made to reduce the
+bulk and weight of pack rations. For short periods a reduction of calorie intake may
+be accepted without ill effect or drop in efficiency.
+10. Communications
+ The need for communications between the local defence force already in the target
+area and the airborne MSF force has already been emphasized under the heading
+“Reconnaissance”. Past experience has shown that reliance upon air reconnaissance
+alone is not likely to be sufficient. The assault force commander needs reports from
+the local defence force if he is to make a sound plan prior to leaving the Advanced
+Base. In particular, information from the local defence force will confirm the
+strength of the enemy lodgement. This is most essential in order to ensure either that
+adequate force is used against the lodgement or alternatively, that too much force is
+not wastefully expended against small parties of enemy.
+170
+11. Long Range Communications
+ It is clear that efforts must be made to reduce delays in transmission of messages
+between Advanced Base and Main Base, and also between Main Base (Montreal) and
+1 Tactical Air Command. The major causes of delay are
+(a) Between Advanced and Main Base
+(i) Enciphering and Deciphering
+(ii) Ionispheric conditions
+(b) Between Main Base (Montreal) and 1 Tactical Air Command
+(i) Enciphering and Deciphering
+12. The use of pre-arranged code words, slidex cards and other similar expedients
+will reduce in part the use of cipher. Apart from this, especially on peace time
+exercises where long term security must be enforced, little else can be done other than
+intensive training of cipher personnel to speed traffic. Cipher personnel must not be
+required to operate a set at the same time that they are employed on cipher work.
+13. To overcome ionispheric conditions development work must continue on a set
+capable of producing reliable communications.
