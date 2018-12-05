@@ -91,7 +91,7 @@ def main():
     print('\n')
 
     # Read LL File
-    with open('LLDocument.txt', 'r') as myfile:
+    with open('Exercise_Prairie_Tundra.txt', 'r') as myfile:
         lldata = myfile.read().replace('\n', '')
 
     # Test model with LL Document
