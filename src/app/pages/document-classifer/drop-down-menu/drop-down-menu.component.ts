@@ -59,9 +59,9 @@ export class DropDownMenuComponent implements OnInit {
        if (err) console.log(err, err.stack); // an error occurred
        else   {
         console.log(data);  
-        var arr = data.Body;
-        var byteArray = new Uint8Array(arr);
-        document.getElementById("lda-iframe")["src"] = window.URL.createObjectURL(new Blob([byteArray], { type: 'text/html' }));
+        var arr = data.Body.toString();
+        //var byteArray = new Uint8Array(arr);
+        document.getElementById("lda-iframe")["src"] = window.URL.createObjectURL(new Blob([arr], { type: 'text/html' }));
        }         // successful response
        /*
        data = {
