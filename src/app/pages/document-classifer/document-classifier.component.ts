@@ -72,9 +72,9 @@ export class DocumentClassifierComponent implements OnInit {
       Bucket: "sagemaker-us-east-2-612969343006", 
       Key: "LDA_Visualization.html"
      };
-     s3.getSignedUrl('getObject', params, function (err, url) {
-      console.log('The URL is', url);
-      });
+    //  s3.getSignedUrl('getObject', params, function (err, url) {
+    //   console.log('The URL is', url);
+    //   });
     //  s3.getObject(params, function(err, data) {
     //    if (err) console.log(err, err.stack); // an error occurred
     //    else     console.log(data);           // successful response

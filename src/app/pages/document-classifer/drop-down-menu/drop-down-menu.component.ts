@@ -25,22 +25,7 @@ export class DropDownMenuComponent implements OnInit {
 
   constructor(public _sanitationService: DomSanitizer) { 
 
-    // var params = {
-    //   Bucket: 'sagemaker-us-east-2-612969343006',
-    //   Key: 'mykey.txt',
-    //   Body: "HelloWorld"
-    // };
-
-    var s3 = new AWS.S3();
-    
-    var params = {
-      Bucket: "sagemaker-us-east-2-612969343006", 
-      Key: "LDA_Visualization.html"
-     };
-     s3.getSignedUrl('getObject', params, (err, url) => {
-      console.log('The URL is', url);
-      this.ldaURL = url;
-      });
+   
   }
 
   cleanURL(oldURL: string): SafeResourceUrl  {
@@ -48,6 +33,50 @@ export class DropDownMenuComponent implements OnInit {
    }
 
   ngOnInit() {
+     // var params = {
+    //   Bucket: 'sagemaker-us-east-2-612969343006',
+    //   Key: 'mykey.txt',
+    //   Body: "HelloWorld"
+    // };
+
+    var s3 = new AWS.S3();
+    
+    // var params = {
+    //   Bucket: "sagemaker-us-east-2-612969343006", 
+    //   Key: "LDA_Visualization.html"
+    //  };
+    //  s3.getSignedUrl('getObject', params, (err, url) => {
+    //   console.log('The URL is', url);
+    //   this.ldaURL = url;
+    //   });
+
+    var params = {
+      Bucket: "sagemaker-us-east-2-612969343006", 
+      Key: "LDA_Visualization.html"
+     };
+
+    s3.getObject(params, function(err, data) {
+       if (err) console.log(err, err.stack); // an error occurred
+       else   {
+        console.log(data);  
+        var arr = data.Body;
+        var byteArray = new Uint8Array(arr);
+        document.getElementById("lda-iframe")["src"] = window.URL.createObjectURL(new Blob([byteArray], { type: 'text/html' }));
+       }         // successful response
+       /*
+       data = {
+        AcceptRanges: "bytes", 
+        ContentLength: 3191, 
+        ContentType: "image/jpeg", 
+        ETag: "\"6805f2cfc46c0f04559748bb039d69ae\"", 
+        LastModified: <Date Representation>, 
+        Metadata: {
+        }, 
+        TagCount: 2, 
+        VersionId: "null"
+       }
+       */
+     });
   }
 
 }
