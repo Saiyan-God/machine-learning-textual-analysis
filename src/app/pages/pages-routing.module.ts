@@ -6,6 +6,8 @@ import { DashboardComponent } from './dashboard/dashboard.component';
 import { ECommerceComponent } from './e-commerce/e-commerce.component';
 import { NotFoundComponent } from './miscellaneous/not-found/not-found.component';
 import { DocumentClassifierComponent } from './document-classifer/document-classifier.component';
+import { ViewModelsComponent } from './view-models/view-models.component';
+import { ModelTrainerComponent } from './model-trainer/model-trainer.component';
 
 const routes: Routes = [{
   path: '',
@@ -13,6 +15,15 @@ const routes: Routes = [{
   children: [{
     path: 'dashboard',
     component: ECommerceComponent,
+  }, {
+    path: 'view-models',
+    component: ViewModelsComponent,
+  }, {
+    path: 'model-trainer',
+    component: ModelTrainerComponent,
+  }, {
+    path: 'predict',
+    component: ModelTrainerComponent,
   }, {
     path: 'document-classifier',
     component: DocumentClassifierComponent,

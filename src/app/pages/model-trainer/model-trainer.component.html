@@ -1,0 +1,38 @@
+<h1>Training New Models</h1>
+<div class="row">
+	<div class="col-md-6">
+		<nb-card size="small">
+			<nb-card-header>
+				List of Documents
+			</nb-card-header>
+			<nb-card-body>
+				<nb-list>
+					<nb-list-item *ngFor="let item of items">{{ item }}</nb-list-item>
+				</nb-list>
+			</nb-card-body>
+		</nb-card>
+	</div>
+	<div class="col-md-6">
+		<nb-card size="small">
+			<nb-card-header>
+				<div class="form-group">
+					<h3>Models:</h3>
+					<select class="form-control">
+						<option>Available models</option>
+						<option>model one</option>
+						<option>model two</option>
+					</select>
+				</div>
+			</nb-card-header>
+			<nb-card-body>
+				<h3>Model Parameters: </h3>
+				<p>Number of topics: <input type="text" nbInput fieldSize="small" status="info"></p>
+				<p>Max Term Frequency: <input type="text" nbInput fieldSize="small" status="info"></p>
+				<p>Min Term Frequency: <input type="text" nbInput fieldSize="small" status="info"></p>
+			</nb-card-body>
+			<nb-card-footer>
+				<button nbButton status="success">Train</button>
+			</nb-card-footer>
+		</nb-card>
+	</div>
+</div>

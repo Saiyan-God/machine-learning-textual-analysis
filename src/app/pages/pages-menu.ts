@@ -6,10 +6,22 @@ export const MENU_ITEMS: NbMenuItem[] = [
     icon: 'nb-e-commerce',
     link: '/pages/dashboard',
   }, {
+    title: 'View Trained Models',
+    icon: 'nb-list',
+    link: '/pages/view-models',
+    home: true,
+  }, {
+    title: 'Train New Models',
+    icon: 'nb-home',
+    link: '/pages/model-trainer',
+  }, {
+    title: 'Predict',
+    icon: 'nb-bar-chart',
+    link: '/pages/predict',
+  }, {
     title: 'Document Classifier',
     icon: 'nb-home',
     link: '/pages/document-classifier',
-    home: true,
   }, {
     title: 'IoT Dashboard',
     icon: 'nb-home',
