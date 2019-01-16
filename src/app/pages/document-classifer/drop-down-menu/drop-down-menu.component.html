@@ -21,14 +21,13 @@
                         <div class="form-group">
                             <h3>Model Select</h3>
                             <select class="form-control">
-                                <option>model one</option>
-                                <option>model two</option>
+                                <option *ngFor="let a of algorithms">{{a.AlgorithmName}}</option>
                             </select>
                         </div>
                     </div>
-                    <div class="col-md-6">
+                    <!-- <div class="col-md-6">
                         <iframe id="lda-iframe"  frameborder="0" width="580" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
-                    </div>
+                    </div> -->
                 </div>
             </div>
 

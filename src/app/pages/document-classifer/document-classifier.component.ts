@@ -19,6 +19,12 @@ export class DocumentClassifierComponent implements OnInit {
     //   Body: "HelloWorld"
     // };
 
+    AWS.config.update({
+      accessKeyId: "",
+      secretAccessKey: '',
+      region: "us-east-2"
+    });
+
     var s3 = new AWS.S3();
 
     // s3.putObject(params, function (err, res) {

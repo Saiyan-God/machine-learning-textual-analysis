@@ -7,6 +7,8 @@ const URL = 'path_to_api';
 
 import * as AWS from 'aws-sdk';
 
+require('../../../../../node_modules/aws-sdk/clients/sagemaker')
+
 @Component({
   selector: 'ngx-drop-down-menu',
   templateUrl: './drop-down-menu.component.html',
@@ -18,6 +20,7 @@ export class DropDownMenuComponent implements OnInit {
   public uploader: FileUploader = new FileUploader({url: URL});
   public hasBaseDropZoneOver: boolean = false;
   public hasAnotherDropZoneOver: boolean = false;
+  public algorithms = [];
 
   public fileOverBase(e: any): void {
     this.hasBaseDropZoneOver = e;
@@ -38,8 +41,20 @@ export class DropDownMenuComponent implements OnInit {
     //   Key: 'mykey.txt',
     //   Body: "HelloWorld"
     // };
-
+    
+    AWS.config.update({
+      accessKeyId: "",
+      secretAccessKey: '',
+      region: "us-east-2"
+    });
+    
     var s3 = new AWS.S3();
+    var sage = new AWS.SageMaker();
+
+    sage.listAlgorithms({}, (a, d) => {
+      console.log(a, d)
+      this.algorithms = d.AlgorithmSummaryList;
+    });
     
     // var params = {
     //   Bucket: "sagemaker-us-east-2-612969343006", 
@@ -61,7 +76,7 @@ export class DropDownMenuComponent implements OnInit {
         console.log(data);  
         var arr = data.Body.toString();
         //var byteArray = new Uint8Array(arr);
-        document.getElementById("lda-iframe")["src"] = window.URL.createObjectURL(new Blob([arr], { type: 'text/html' }));
+        //document.getElementById("lda-iframe")["src"] = window.URL.createObjectURL(new Blob([arr], { type: 'text/html' }));
        }         // successful response
        /*
        data = {

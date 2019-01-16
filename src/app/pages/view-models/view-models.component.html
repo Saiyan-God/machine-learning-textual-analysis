@@ -12,10 +12,8 @@
 			<nb-card-header>
 				<div class="form-group">
 					<h3>View Models</h3>
-					<select class="form-control">
-						<option>Dropdown of trained models</option>
-						<option>model one</option>
-						<option>model two</option>
+					<select [ngModel]="selectedModel" class="form-control" (change)="modelSelectChanged($event.target.value)">
+						<option *ngFor="let m of models">{{m.ModelName}}</option>
 					</select>
 				</div>
 			</nb-card-header>
