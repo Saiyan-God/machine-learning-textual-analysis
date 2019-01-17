@@ -29,8 +29,8 @@ export class ViewModelsComponent implements OnInit {
 	private hyperparameters = {};
 	constructor() {
 		AWS.config.update({
-			accessKeyId: "AKIAIALBRCV52LA63MXA",
-			secretAccessKey: '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',
+			accessKeyId: "AKIAIMYBBXCZE6OU6FWQ",
+			secretAccessKey: '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',
 			region: "us-east-2"
 		});
 		this.sage = new AWS.SageMaker();
