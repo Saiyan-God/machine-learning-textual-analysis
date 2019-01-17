@@ -20,8 +20,8 @@ export class DocumentClassifierComponent implements OnInit {
     // };
 
     AWS.config.update({
-      accessKeyId: "",
-      secretAccessKey: '',
+      accessKeyId: "AKIAIALBRCV52LA63MXA",
+      secretAccessKey: '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',
       region: "us-east-2"
     });
 

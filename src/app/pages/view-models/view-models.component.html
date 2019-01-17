@@ -3,7 +3,7 @@
 	<div class="col-md-6">
 		<nb-card>
 			<nb-card-body>
-				iframe of model - cluster chart or interactive 3d model
+				<iframe  id="lda-iframe"  frameborder="0" width="780" height="669" ></iframe>
 			</nb-card-body>
 		</nb-card>
 	</div>
@@ -19,9 +19,9 @@
 			</nb-card-header>
 			<nb-card-body>
 				<h3>Model Parameters: </h3>
-				<p>Number of topics: {{ numTopics }}</p>
-				<p>Max Term Frequency: {{ maxTermFreq }}</p>
-				<p>Min Term Frequency: {{ minTermFreq }}</p>
+				<p>Number of topics: {{hyperparameters.num_of_topics}}</p>
+				<p>Number of features: {{hyperparameters.num_features}}</p>
+				<p>Number of top words: {{ hyperparameters.num_top_words }}</p>
 			</nb-card-body>
 		</nb-card>
 	</div>
