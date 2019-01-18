@@ -42,11 +42,11 @@ export class DropDownMenuComponent implements OnInit {
     //   Body: "HelloWorld"
     // };
     
-    AWS.config.update({
-      accessKeyId: "AKIAIALBRCV52LA63MXA",
-      secretAccessKey: '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',
-      region: "us-east-2"
-    });
+		AWS.config.update({
+			accessKeyId: "AKIAIJLLUPEITWHVD4DQ",
+			secretAccessKey: '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',
+			region: "us-east-2"
+		});
     
     var s3 = new AWS.S3();
     var sage = new AWS.SageMaker();

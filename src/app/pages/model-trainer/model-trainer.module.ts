@@ -6,6 +6,7 @@ import { NbCardModule } from '@nebular/theme';
 import { NbListModule } from '@nebular/theme';
 import { NbButtonModule } from '@nebular/theme';
 import { NbInputModule } from '@nebular/theme';
+import { ToasterModule } from 'angular2-toaster';
 
 @NgModule({
   imports: [
@@ -15,6 +16,7 @@ import { NbInputModule } from '@nebular/theme';
     NbListModule,
     NbButtonModule,
     NbInputModule,
+    ToasterModule.forRoot()
   ],
   declarations: [ModelTrainerComponent],
 })

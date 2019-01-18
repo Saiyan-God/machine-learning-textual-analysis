@@ -23,7 +23,7 @@ const PAGES_COMPONENTS = [
     MiscellaneousModule,
     DocumentClassiferModule,
     ViewModelsModule,
-    ModelTrainerModule,
+    ModelTrainerModule
   ],
   declarations: [
     ...PAGES_COMPONENTS,

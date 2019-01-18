@@ -23,11 +23,14 @@ export class HeaderComponent implements OnInit {
               private userService: UserService,
               private analyticsService: AnalyticsService,
               private layoutService: LayoutService) {
+                this.toggleSidebar()
+                this.toggleSettings()
   }
 
   ngOnInit() {
     this.userService.getUsers()
       .subscribe((users: any) => this.user = users.nick);
+      
   }
 
   toggleSidebar(): boolean {
