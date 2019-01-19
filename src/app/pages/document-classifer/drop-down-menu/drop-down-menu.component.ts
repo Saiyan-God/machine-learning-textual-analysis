@@ -4,6 +4,7 @@ import { DomSanitizer, SafeUrl, SafeResourceUrl } from '@angular/platform-browse
 
 const URL = 'path_to_api';
 
+import { environment } from '../../../../environments/environment';
 
 import * as AWS from 'aws-sdk';
 
@@ -43,9 +44,9 @@ export class DropDownMenuComponent implements OnInit {
     // };
     
 		AWS.config.update({
-			accessKeyId: "AKIAIJLLUPEITWHVD4DQ",
-			secretAccessKey: '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',
-			region: "us-east-2"
+			accessKeyId: environment.accessKeyId,
+			secretAccessKey: environment.secretAccessKey,
+			region: environment.region
 		});
     
     var s3 = new AWS.S3();

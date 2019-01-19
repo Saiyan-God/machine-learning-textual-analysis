@@ -5,6 +5,8 @@ import * as AWS from 'aws-sdk';
 
 require('../../../../node_modules/aws-sdk/clients/sagemaker')
 
+import {environment} from '../../../environments/environment'
+
 @Component({
 	selector: 'app-model-trainer',
 	templateUrl: './model-trainer.component.html',
@@ -12,15 +14,6 @@ require('../../../../node_modules/aws-sdk/clients/sagemaker')
 })
 
 export class ModelTrainerComponent implements OnInit {
-	items = [
-		'doc 1',
-		'doc 2',
-		'doc 3',
-		'doc 4',
-		'doc 5',
-		'doc 6',
-	];
-
 	config: ToasterConfig;
 
 	position = 'toast-top-right';
@@ -42,14 +35,15 @@ export class ModelTrainerComponent implements OnInit {
 	private traningJob: AWS.SageMaker.CreateTrainingJobRequest;
 	private algorithms: Array<AWS.SageMaker.DescribeAlgorithmOutput>;
 	private jobsInTraining;
+	private documents = []
 
 	private model = { name: "", hyperparameters: {}, algorithmName: "" };
 
 	constructor(private toasterService: ToasterService) {
 		AWS.config.update({
-			accessKeyId: "AKIAIJLLUPEITWHVD4DQ",
-			secretAccessKey: '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',
-			region: "us-east-2"
+			accessKeyId: environment.accessKeyId,
+			secretAccessKey: environment.secretAccessKey,
+			region: environment.region
 		});
 
 		this.s3 = new AWS.S3();
@@ -74,11 +68,22 @@ export class ModelTrainerComponent implements OnInit {
 		this.sage.listTrainingJobs({ StatusEquals: 'InProgress' }, (a, b) => {
 			this.jobsInTraining = b.TrainingJobSummaries;
 		})
+
+		this.s3.listObjects({Bucket: "lda-sklearn", Prefix: "training-input/"}, (a,b) => {
+			console.log(a,b)
+			b.Contents.splice(0,1)
+			this.documents = b.Contents
+			this.documents = this.documents.map((a) => {
+				a.Key = a.Key.split('/')[1]
+				return a
+			})
+		})
+
 		setInterval(() => { 
 			let storedTraningJobs = JSON.parse(window.localStorage.getItem('jobsInTraining'))
 			if (storedTraningJobs && storedTraningJobs["jobs"] && storedTraningJobs["jobs"].length != 0) {
-				storedTraningJobs["jobs"] = storedTraningJobs["jobs"].filter((j, i) => {
-					return this.sage.describeTrainingJob({ TrainingJobName: j["TrainingJobName"] }, (a, b) => {
+				storedTraningJobs["jobs"].forEach((j, i) => {
+					this.sage.describeTrainingJob({ TrainingJobName: j["TrainingJobName"] }, (a, b) => {
 						if (b.TrainingJobStatus == "Completed") {
 							let modelInput: AWS.SageMaker.CreateModelInput = {} as AWS.SageMaker.CreateModelInput
 							modelInput.ModelName = j["model"]["name"];
@@ -88,15 +93,18 @@ export class ModelTrainerComponent implements OnInit {
 								ModelDataUrl: b.ModelArtifacts.S3ModelArtifacts,
 								Image: "612969343006.dkr.ecr.us-east-2.amazonaws.com/lda-sklearn:latest"
 							}]
-							this.sage.createModel(modelInput, (a,b)=> {console.log(a,b)})
+							this.sage.createModel(modelInput, (a,b)=> {
+								console.log(a,b)
+								// if(a.message.includes("Cannot create already existing model")){
+								// 	return false
+								// }
+							})
 							console.log(modelInput)
-							storedTraningJobs["jobs"] = storedTraningJobs["jobs"].splice(i, 1)
-							return false
+							storedTraningJobs["jobs"].splice(i, 1)
+							window.localStorage.setItem('jobsInTraining', JSON.stringify(storedTraningJobs))
 						}
-						return true;
 					})
 				})
-				window.localStorage.setItem('jobsInTraining', JSON.stringify(storedTraningJobs))
 			}
 		}, 3000)
 	}
@@ -127,7 +135,7 @@ export class ModelTrainerComponent implements OnInit {
 			DataSource: {
 				S3DataSource: {
 					S3DataType: "S3Prefix",
-					S3Uri: "s3://sagemaker-us-east-2-612969343006/lda-sklearn/training-input",
+					S3Uri: "s3://lda-sklearn/training-input",
 				}
 			}
 		}]
@@ -163,5 +171,9 @@ export class ModelTrainerComponent implements OnInit {
 		this.toasterService.popAsync(toast);
 	}
 
-
+	documentSelectChange(){
+		console.log(this.documents)
+		let checkedDocuments = this.documents.filter((d) => d.checked).map((d) => d.Key)
+		this.model.hyperparameters["training_documents"] = JSON.stringify(checkedDocuments)		
+	}
 }

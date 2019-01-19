@@ -2,6 +2,8 @@ import { Component, OnInit } from '@angular/core';
 
 import * as AWS from 'aws-sdk';
 
+import { environment } from '../../../environments/environment';
+
 @Component({
   selector: 'ngx-document-classifier',
   templateUrl: './document-classifier.component.html',
@@ -20,9 +22,9 @@ export class DocumentClassifierComponent implements OnInit {
     // };
 
 		AWS.config.update({
-			accessKeyId: "AKIAIJLLUPEITWHVD4DQ",
-			secretAccessKey: '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',
-			region: "us-east-2"
+			accessKeyId: environment.accessKeyId,
+			secretAccessKey: environment.secretAccessKey,
+			region: environment.region
 		});
 
     var s3 = new AWS.S3();

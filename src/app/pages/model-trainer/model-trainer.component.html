@@ -7,7 +7,9 @@
 			</nb-card-header>
 			<nb-card-body>
 				<nb-list>
-					<nb-list-item *ngFor="let item of items">{{ item }}</nb-list-item>
+					<nb-list-item *ngFor="let d of documents">
+						<nb-checkbox [(ngModel)]="d.checked" (change)="documentSelectChange()">{{d.Key}}</nb-checkbox>
+					</nb-list-item>
 				</nb-list>
 			</nb-card-body>
 		</nb-card>

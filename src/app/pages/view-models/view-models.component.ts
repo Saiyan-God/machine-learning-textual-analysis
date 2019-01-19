@@ -1,5 +1,6 @@
 import { Component, OnInit } from '@angular/core';
 import * as AWS from 'aws-sdk';
+import {environment} from '../../../environments/environment';
 
 require('../../../../node_modules/aws-sdk/clients/sagemaker')
 
@@ -30,9 +31,9 @@ export class ViewModelsComponent implements OnInit {
 
 	constructor() {
 		AWS.config.update({
-			accessKeyId: "AKIAIMYBBXCZE6OU6FWQ",
-			secretAccessKey: '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',
-			region: "us-east-2"
+			accessKeyId: environment.accessKeyId,
+			secretAccessKey: environment.secretAccessKey,
+			region: environment.region
 		});
 		this.sage = new AWS.SageMaker();
 		this.s3 = new AWS.S3();

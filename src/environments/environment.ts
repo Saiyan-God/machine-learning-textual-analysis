@@ -10,4 +10,7 @@
 
 export const environment = {
   production: false,
+  accessKeyId: 'xxx',
+  secretAccessKey: 'xxx',
+  region: "us-east-2"
 };
