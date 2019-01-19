@@ -83,6 +83,9 @@ export class ViewModelsComponent implements OnInit {
 	}
 
 	setHyperparameters(b) {
+		if(b["training_documents"]) {
+			b["training_documents"] = JSON.parse(b["training_documents"].replace(/'/g, '"'))
+		}
 		this.hyperparameters = { ...b }
 	}
 
