@@ -10,7 +10,8 @@
 
 export const environment = {
   production: false,
-  accessKeyId: 'xxx',
-  secretAccessKey: 'xxx',
+  accessKeyId: '',
+  secretAccessKey: '',
+  uploadBucket: 'sagemaker-us-east-2-612969343006',
   region: "us-east-2"
 };

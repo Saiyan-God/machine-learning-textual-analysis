@@ -1,11 +1,7 @@
 import { Component, OnInit } from '@angular/core';
 import { FileUploader } from 'ng2-file-upload';
 import { DomSanitizer, SafeUrl, SafeResourceUrl } from '@angular/platform-browser';
-
-const URL = 'path_to_api';
-
 import { environment } from '../../../../environments/environment';
-
 import * as AWS from 'aws-sdk';
 
 require('../../../../../node_modules/aws-sdk/clients/sagemaker')
@@ -18,7 +14,7 @@ require('../../../../../node_modules/aws-sdk/clients/sagemaker')
 export class DropDownMenuComponent implements OnInit {
   ldaURL:any;
 
-  public uploader: FileUploader = new FileUploader({url: URL});
+  public uploader: FileUploader = new FileUploader({disableMultipart: true});
   public hasBaseDropZoneOver: boolean = false;
   public hasAnotherDropZoneOver: boolean = false;
   public algorithms = [];
@@ -29,7 +25,6 @@ export class DropDownMenuComponent implements OnInit {
 
   constructor(public _sanitationService: DomSanitizer) { 
 
-   
   }
 
   cleanURL(oldURL: string): SafeResourceUrl  {
@@ -37,62 +32,40 @@ export class DropDownMenuComponent implements OnInit {
    }
 
   ngOnInit() {
-     // var params = {
-    //   Bucket: 'sagemaker-us-east-2-612969343006',
-    //   Key: 'mykey.txt',
-    //   Body: "HelloWorld"
-    // };
-    
+
 		AWS.config.update({
 			accessKeyId: environment.accessKeyId,
-			secretAccessKey: environment.secretAccessKey,
+      secretAccessKey: environment.secretAccessKey,
 			region: environment.region
 		});
-    
+
     var s3 = new AWS.S3();
     var sage = new AWS.SageMaker();
 
-    sage.listAlgorithms({}, (a, d) => {
-      console.log(a, d)
-      this.algorithms = d.AlgorithmSummaryList;
-    });
-    
-    // var params = {
-    //   Bucket: "sagemaker-us-east-2-612969343006", 
-    //   Key: "LDA_Visualization.html"
-    //  };
-    //  s3.getSignedUrl('getObject', params, (err, url) => {
-    //   console.log('The URL is', url);
-    //   this.ldaURL = url;
-    //   });
-
+    /*
     var params = {
-      Bucket: "sagemaker-us-east-2-612969343006", 
-      Key: "LDA_Visualization.html"
-     };
+      Bucket: 'sagemaker-us-east-2-612969343006', 
+    };
+    s3.listObjects(params, function(err, data) {
+      if (err) console.log(err, err.stack); // an error occurred
+      else     console.log(data);           // successful response
+    }); 
+    */
 
-    s3.getObject(params, function(err, data) {
-       if (err) console.log(err, err.stack); // an error occurred
-       else   {
-        console.log(data);  
-        var arr = data.Body.toString();
-        //var byteArray = new Uint8Array(arr);
-        //document.getElementById("lda-iframe")["src"] = window.URL.createObjectURL(new Blob([arr], { type: 'text/html' }));
-       }         // successful response
-       /*
-       data = {
-        AcceptRanges: "bytes", 
-        ContentLength: 3191, 
-        ContentType: "image/jpeg", 
-        ETag: "\"6805f2cfc46c0f04559748bb039d69ae\"", 
-        LastModified: <Date Representation>, 
-        Metadata: {
-        }, 
-        TagCount: 2, 
-        VersionId: "null"
-       }
-       */
-     });
+    this.uploader.onAfterAddingFile= function(item) {
+      const param = {
+        Bucket: environment.uploadBucket,
+        Key: item._file.name,
+      };
+      s3.getSignedUrl('putObject', param, function (err, url) {
+            if (err) {
+              console.log("The error is: " + err);
+            }else {
+              item.url = url;
+              item.method = "PUT";
+              item.withCredentials = false;
+            }
+      });
+    }
   }
-
 }
