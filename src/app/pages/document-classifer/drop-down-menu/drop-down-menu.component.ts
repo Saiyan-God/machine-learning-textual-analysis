@@ -6,18 +6,21 @@ import * as AWS from 'aws-sdk';
 
 require('../../../../../node_modules/aws-sdk/clients/sagemaker')
 
+const allowedUploadTypes = ['application/pdf', 'text/plain'];
+
 @Component({
   selector: 'ngx-drop-down-menu',
   templateUrl: './drop-down-menu.component.html',
   styleUrls: ['./drop-down-menu.component.scss'],
 })
 export class DropDownMenuComponent implements OnInit {
-  ldaURL:any;
 
-  public uploader: FileUploader = new FileUploader({disableMultipart: true});
+  public uploader: FileUploader = new FileUploader({
+    disableMultipart: true,
+    allowedMimeType: allowedUploadTypes
+  });
   public hasBaseDropZoneOver: boolean = false;
   public hasAnotherDropZoneOver: boolean = false;
-  public algorithms = [];
 
   public fileOverBase(e: any): void {
     this.hasBaseDropZoneOver = e;
@@ -26,10 +29,6 @@ export class DropDownMenuComponent implements OnInit {
   constructor(public _sanitationService: DomSanitizer) { 
 
   }
-
-  cleanURL(oldURL: string): SafeResourceUrl  {
-    return this._sanitationService.bypassSecurityTrustResourceUrl(oldURL);
-   }
 
   ngOnInit() {
 
@@ -52,10 +51,24 @@ export class DropDownMenuComponent implements OnInit {
     }); 
     */
 
-    this.uploader.onAfterAddingFile= function(item) {
+    this.uploader.onWhenAddingFileFailed = function(item) {
+      if (!allowedUploadTypes.includes(item.type)) {
+        alert('Invalid file format, must be a pdf or text file');
+      }
+    }
+
+    this.uploader.onAfterAddingFile = function(item) {
+  
+      var lastChar = environment.uploadFolder[environment.uploadFolder.length - 1];
+      if (lastChar == '/') {
+        var itemPath = environment.uploadFolder + item._file.name;
+      }else {
+        var itemPath = environment.uploadFolder + '/' + item._file.name;
+      }
+
       const param = {
         Bucket: environment.uploadBucket,
-        Key: item._file.name,
+        Key: itemPath,
       };
       s3.getSignedUrl('putObject', param, function (err, url) {
             if (err) {
