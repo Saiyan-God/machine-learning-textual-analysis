@@ -1,0 +1,61 @@
+<h1>Predict Document Content</h1>
+<toaster-container [toasterconfig]="config"></toaster-container>
+<div class="row">
+	<div class="col-md-6">
+		<nb-card size="medium">
+			<nb-card-header>
+				List of Documents to predict
+			</nb-card-header>
+			<nb-card-body>
+				<nb-list>
+					<nb-list-item *ngFor="let d of documents">
+						<nb-checkbox [(ngModel)]="d.checked" (change)="documentSelectChange()">{{d.Key}}</nb-checkbox>
+					</nb-list-item>
+				</nb-list>
+			</nb-card-body>
+		</nb-card>
+	</div>
+	<div class="col-md-6">
+        <nb-card>
+			<nb-card-header>
+				<div class="form-group">
+					<h3>Select Model</h3>
+					<select [ngModel]="selectedModel" class="form-control" (change)="modelSelectChanged($event.target.value)">
+						<option *ngFor="let m of models">{{m.ModelName}}</option>
+					</select>
+				</div>
+			</nb-card-header>
+			<nb-card-body>
+				<h3>Model Parameters: </h3>
+				<p>Number of topics: {{hyperparameters.num_of_topics}}</p>
+				<p>Number of features: {{hyperparameters.num_features}}</p>
+				<p>Number of top words: {{ hyperparameters.num_top_words }}</p>
+            </nb-card-body>
+            <nb-card-footer>
+				<button nbButton status="success" (click)="predict()">Predict</button>
+			</nb-card-footer>
+		</nb-card>
+	</div>
+	<div class="col-md-12">
+		<nb-card size="xs-small">
+			<nb-card-header>
+				List of Batch Predictions
+			</nb-card-header>
+			<nb-card-body>
+				<nb-list>
+					<nb-list-item *ngFor="let j of batchTransformJobs">
+						<div class="row">
+							<a href="/#/pages/predictions/{{j.TransformJobName}}">{{ j.TransformJobName }}</a>&nbsp;&nbsp;&nbsp;&nbsp;
+							<span>{{j.CreationTime}} &nbsp;&nbsp;&nbsp;&nbsp;</span>
+							<span>{{j.TransformJobStatus}}</span>
+						</div>
+					</nb-list-item>
+				</nb-list>
+			</nb-card-body>
+		</nb-card>
+		<nb-card-body>
+			<ng2-smart-table [settings]="settings" [source]="source" (deleteConfirm)="onDeleteConfirm($event)">
+			</ng2-smart-table>
+		</nb-card-body>
+	</div>
+</div>

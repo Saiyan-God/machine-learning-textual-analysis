@@ -50,8 +50,10 @@ export class ViewModelsComponent implements OnInit {
 			this.sage.describeModel({ ModelName: this.selectedModel }, (a, b) => {
 				this.sage.describeTrainingJob({ TrainingJobName: (b.PrimaryContainer || b.Containers[0]).ModelDataUrl.split("/")[4] }, (a, b) => {
 					console.log(a, b);
-					this.setHyperparameters(b.HyperParameters);
-					this.setModelDisplay(b);
+					if(b){
+						this.setHyperparameters(b.HyperParameters);
+						this.setModelDisplay(b);
+					}
 				})
 			})
 		}

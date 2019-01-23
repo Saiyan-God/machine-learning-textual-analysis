@@ -6,6 +6,8 @@ import { ThemeModule } from '../@theme/theme.module';
 import { DocumentClassiferModule } from './document-classifer/document-classifer.module';
 import { ViewModelsModule } from './view-models/view-models.module';
 import { ModelTrainerModule } from './model-trainer/model-trainer.module';
+import { PredictorModule } from './predictor/predictor.module';
+import { PredictionsModule } from './predictions/predictions.module';
 
 const PAGES_COMPONENTS = [
   PagesComponent,
@@ -17,10 +19,12 @@ const PAGES_COMPONENTS = [
     ThemeModule,
     DocumentClassiferModule,
     ViewModelsModule,
-    ModelTrainerModule
+    PredictorModule,
+    ModelTrainerModule,
+    PredictionsModule
   ],
   declarations: [
-    ...PAGES_COMPONENTS,
+    ...PAGES_COMPONENTS
   ],
 })
 export class PagesModule {

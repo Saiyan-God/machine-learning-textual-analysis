@@ -5,6 +5,8 @@ import { PagesComponent } from './pages.component';
 import { DocumentClassifierComponent } from './document-classifer/document-classifier.component';
 import { ViewModelsComponent } from './view-models/view-models.component';
 import { ModelTrainerComponent } from './model-trainer/model-trainer.component';
+import { PredictorComponent } from './predictor/predictor.component';
+import { PredictionsComponent } from './predictions/predictions.component'
 
 const routes: Routes = [{
   path: '',
@@ -23,8 +25,13 @@ const routes: Routes = [{
     pathMatch: 'full'
   }, {
     path: 'predict',
-    component: ModelTrainerComponent,
+    component: PredictorComponent,
+    pathMatch: 'full'
   }, 
+  {
+    path: 'predictions/:name',
+    component: PredictionsComponent
+  },
   {
     path: '**',
     component: DocumentClassifierComponent,
