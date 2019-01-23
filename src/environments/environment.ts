@@ -12,6 +12,7 @@ export const environment = {
   production: false,
   accessKeyId: '',
   secretAccessKey: '',
-  uploadBucket: 'sagemaker-us-east-2-612969343006',
+  uploadBucket: 'lda-sklearn',
+  uploadFolder: 'training-input/',
   region: "us-east-2"
 };
