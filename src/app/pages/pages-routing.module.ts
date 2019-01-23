@@ -13,7 +13,7 @@ const routes: Routes = [{
   component: PagesComponent,
   children: [
   {
-      path: 'document-classifier',
+      path: 'data-sets',
       component: DocumentClassifierComponent,
   },
   {
