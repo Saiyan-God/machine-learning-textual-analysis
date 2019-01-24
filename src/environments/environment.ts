@@ -16,3 +16,4 @@ export const environment = {
   uploadFolder: 'training-input/',
   region: "us-east-2"
 };
+
