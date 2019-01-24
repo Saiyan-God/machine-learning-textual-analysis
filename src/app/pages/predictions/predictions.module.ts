@@ -9,6 +9,8 @@ import { NbInputModule } from '@nebular/theme';
 import { ToasterModule } from 'angular2-toaster';
 import { Ng2SmartTableModule } from 'ng2-smart-table';
 import { NbDialogModule, NbWindowModule } from '@nebular/theme';
+import { NgxEchartsModule } from 'ngx-echarts';
+import { BarChartComponent } from './bar-chart/bar-chart.component';
 
 @NgModule({
   imports: [
@@ -22,7 +24,8 @@ import { NbDialogModule, NbWindowModule } from '@nebular/theme';
     ToasterModule.forRoot(),
     NbDialogModule.forChild(),
     NbWindowModule.forChild(),
+    NgxEchartsModule,
   ],
-  declarations: [PredictionsComponent],
+  declarations: [PredictionsComponent, BarChartComponent],
 })
 export class PredictionsModule { }

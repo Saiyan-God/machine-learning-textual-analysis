@@ -60,6 +60,7 @@
     "ckeditor": "4.7.3",
     "classlist.js": "1.1.20150312",
     "core-js": "2.5.1",
+    "csvtojson": "^2.0.8",
     "echarts": "^4.0.2",
     "intl": "1.2.5",
     "ionicons": "2.0.1",
