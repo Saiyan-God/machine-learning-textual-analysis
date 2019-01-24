@@ -2,9 +2,9 @@ import { NbMenuItem } from '@nebular/theme';
 
 export const MENU_ITEMS: NbMenuItem[] = [
   {
-    title: 'Document Classifier',
+    title: 'Data Sets',
     icon: 'nb-home',
-    link: '/pages/document-classifier',
+    link: '/pages/data-sets',
   },
   {
     title: 'View Trained Models',

@@ -13,6 +13,7 @@ export const environment = {
   accessKeyId: '',
   secretAccessKey: '',
   uploadBucket: 'lda-sklearn',
+  //uploadFolder should be terminated with a forward slash. Ex. "my/pathway/"
   uploadFolder: 'training-input/',
   region: "us-east-2"
 };

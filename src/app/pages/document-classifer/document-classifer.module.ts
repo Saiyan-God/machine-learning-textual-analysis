@@ -4,12 +4,20 @@ import { DocumentClassifierComponent } from './document-classifier.component';
 import { FileUploadModule } from 'ng2-file-upload';
 import { DropDownMenuComponent } from './drop-down-menu/drop-down-menu.component';
 import { ThemeModule } from '../../@theme/theme.module';
+import { NbCardModule } from '@nebular/theme';
+import { NbListModule } from '@nebular/theme';
+import { NbButtonModule } from '@nebular/theme';
+import { NbInputModule } from '@nebular/theme';
 
 @NgModule({
   imports: [
     CommonModule,
     FileUploadModule,
     ThemeModule,
+    NbCardModule,
+    NbListModule,
+    NbButtonModule,
+    NbInputModule,
   ],
   declarations: [DocumentClassifierComponent, DropDownMenuComponent],
 })

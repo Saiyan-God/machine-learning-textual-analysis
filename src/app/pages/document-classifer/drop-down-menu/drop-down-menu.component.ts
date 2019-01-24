@@ -1,6 +1,6 @@
 import { Component, OnInit } from '@angular/core';
 import { FileUploader } from 'ng2-file-upload';
-import { DomSanitizer, SafeUrl, SafeResourceUrl } from '@angular/platform-browser';
+import { DomSanitizer } from '@angular/platform-browser';
 import { environment } from '../../../../environments/environment';
 import * as AWS from 'aws-sdk';
 
@@ -21,6 +21,8 @@ export class DropDownMenuComponent implements OnInit {
   });
   public hasBaseDropZoneOver: boolean = false;
   public hasAnotherDropZoneOver: boolean = false;
+  private uploadFolderContents  = [];
+  private checkedDocs = [];
 
   public fileOverBase(e: any): void {
     this.hasBaseDropZoneOver = e;
@@ -39,40 +41,17 @@ export class DropDownMenuComponent implements OnInit {
 		});
 
     var s3 = new AWS.S3();
-    var sage = new AWS.SageMaker();
-
-    /*
-    var params = {
-      Bucket: 'sagemaker-us-east-2-612969343006', 
-    };
-    s3.listObjects(params, function(err, data) {
-      if (err) console.log(err, err.stack); // an error occurred
-      else     console.log(data);           // successful response
-    }); 
-    */
-
-    this.uploader.onWhenAddingFileFailed = function(item) {
-      if (!allowedUploadTypes.includes(item.type)) {
-        alert('Invalid file format, must be a pdf or text file');
-      }
-    }
+    
+    this.listDocs(s3);
 
     this.uploader.onAfterAddingFile = function(item) {
-  
-      var lastChar = environment.uploadFolder[environment.uploadFolder.length - 1];
-      if (lastChar == '/') {
-        var itemPath = environment.uploadFolder + item._file.name;
-      }else {
-        var itemPath = environment.uploadFolder + '/' + item._file.name;
-      }
-
       const param = {
         Bucket: environment.uploadBucket,
-        Key: itemPath,
+        Key: environment.uploadFolder + item._file.name
       };
       s3.getSignedUrl('putObject', param, function (err, url) {
             if (err) {
-              console.log("The error is: " + err);
+              console.log(err, err.stack);
             }else {
               item.url = url;
               item.method = "PUT";
@@ -80,5 +59,61 @@ export class DropDownMenuComponent implements OnInit {
             }
       });
     }
+
+    this.uploader.onWhenAddingFileFailed = function(item) {
+      if (!allowedUploadTypes.includes(item.type)) {
+        alert('Invalid file format, must be a pdf or text file');
+      }
+    }
+  }
+  
+  selectAll() {
+    for(var i = 0; i < this.uploadFolderContents.length; i++) {
+      this.uploadFolderContents[i].checked = true;
+    }
+  }
+  
+	documentSelectChange(){
+    this.checkedDocs = this.uploadFolderContents.filter((d) => d.checked).map((d) => d.Key);
+	}
+
+  removeSelected() {
+    
+    var s3 = new AWS.S3();
+    var keys = [];
+    for (var i = 0; i < this.checkedDocs.length; i++) {
+      keys.push( {Key: environment.uploadFolder + this.checkedDocs[i]});
+    }
+    var params = {
+      Bucket: environment.uploadBucket, 
+      Delete: {
+       Objects: keys, 
+       Quiet: false
+      }
+     };
+     s3.deleteObjects(params, function(err, data) {
+       if (err) console.log(err, err.stack); // an error occurred
+     });
+
+     //this.listDocs(s3);
+  }
+
+  listDocs(s3) {
+    const param = {
+      Bucket: environment.uploadBucket,
+      Prefix: environment.uploadFolder
+    };
+    s3.listObjects(param, (err, data) => {
+      if (err) {
+        console.log(err, err.stack);
+      }else {
+        data.Contents.splice(0,1);
+        this.uploadFolderContents = data.Contents;
+        this.uploadFolderContents.map(function(a) {
+          a.Key = a.Key.split('/')[1];
+          return a;
+        });
+      }
+    });
   }
 }
