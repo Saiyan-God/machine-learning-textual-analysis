@@ -68,7 +68,6 @@ export class PredictorComponent implements OnInit {
       })
 
       this.s3.listObjects({Bucket: "lda-sklearn", Prefix: "training-input/"}, (a,b) => {
-        console.log(a,b)
         b.Contents.splice(0,1)
         this.documents = b.Contents
         this.documents = this.documents.map((a) => {
@@ -99,7 +98,6 @@ export class PredictorComponent implements OnInit {
 		if (this.selectedModel) {
 			this.sage.describeModel({ ModelName: this.selectedModel }, (a, b) => {
 				this.sage.describeTrainingJob({ TrainingJobName: (b.PrimaryContainer || b.Containers[0]).ModelDataUrl.split("/")[4] }, (a, b) => {
-          console.log(a, b);
           if(b){
             this.setHyperparameters(b.HyperParameters);
             this.setModelDisplay(b);
