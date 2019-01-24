@@ -8,6 +8,7 @@ import { NbCardModule } from '@nebular/theme';
 import { NbListModule } from '@nebular/theme';
 import { NbButtonModule } from '@nebular/theme';
 import { NbInputModule } from '@nebular/theme';
+import { FilterPipe } from './drop-down-menu/drop-down-filter.pipe';
 
 @NgModule({
   imports: [
@@ -19,6 +20,6 @@ import { NbInputModule } from '@nebular/theme';
     NbButtonModule,
     NbInputModule,
   ],
-  declarations: [DocumentClassifierComponent, DropDownMenuComponent],
+  declarations: [DocumentClassifierComponent, DropDownMenuComponent, FilterPipe],
 })
 export class DocumentClassiferModule { }
