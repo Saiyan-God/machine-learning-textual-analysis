@@ -24,11 +24,30 @@ export class PredictionsComponent implements OnInit {
       secretAccessKey: environment.secretAccessKey,
       region: environment.region
     });
-
-    console.log("the test", AWS.util.isNode());
     
     this.sage = new AWS.SageMaker();
     this.s3 = new AWS.S3();
+
+        
+    const params = {
+      Bucket: 'lda-sklearn',
+      Key: 'batch-transforms/batch-transform-job-model-2-1548209529244/prediction-Articles.csv'
+    };  
+
+    const stream = this.s3.getObject(params, (a,b) => { 
+      console.log(a,b)
+      let body = b.Body.toString();
+      console.log(body)
+      const csv=require('csvtojson')
+      csv({
+        noheader:true,
+        output: "csv"
+      })
+      .fromString(body)
+      .then((csvRow)=>{ 
+        console.log(csvRow)
+      })
+    })
 
     this.route.params.subscribe(params => {
       this.sage.listTransformJobs({NameContains: params["name"]}, (a,b) => {
@@ -41,15 +60,6 @@ export class PredictionsComponent implements OnInit {
   }
 
   ngOnInit() {
-
-    const params = {
-      Bucket: 'lda-sklearn',
-      Key: 'batch-transform-job-model-2-1548209529244/prediction-Articles.csv'
-    };
-    
-    const stream = this.s3.getObject(params);
-    
-    let another = stream.createReadStream();
 
 
     //console.log("this is it", this.s3);
