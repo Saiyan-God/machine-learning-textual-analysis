@@ -2,9 +2,9 @@ import { NbMenuItem } from '@nebular/theme';
 
 export const MENU_ITEMS: NbMenuItem[] = [
   {
-    title: 'Data Sets',
+    title: 'Datasets',
     icon: 'nb-home',
-    link: '/pages/data-sets',
+    link: '/pages/datasets',
   },
   {
     title: 'View Trained Models',

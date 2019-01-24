@@ -81,7 +81,11 @@ export class PredictorComponent implements OnInit {
     }
 
     getTransformJobs() {
-      this.sage.listTransformJobs((a,b) => {
+
+      var param = {
+        'NameContains': 'batch-transform-job'
+      };
+      this.sage.listTransformJobs(param, (a,b) => {
         this.batchTransformJobs = b.TransformJobSummaries
       })
     }

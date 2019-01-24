@@ -13,8 +13,9 @@ export const environment = {
   accessKeyId: '',
   secretAccessKey: '',
   uploadBucket: 'lda-sklearn',
-  //uploadFolder should be terminated with a forward slash. Ex. "my/pathway/"
+  //Folders should be terminated with a forward slash. Ex. "my/pathway/"
   uploadFolder: 'training-input/',
+  batchTransformBucket: 'lda-sklearn',
+  batchTransformsFolder: 'batch-transforms/',
   region: "us-east-2"
 };
-

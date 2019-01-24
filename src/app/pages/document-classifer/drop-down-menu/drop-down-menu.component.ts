@@ -94,8 +94,6 @@ export class DropDownMenuComponent implements OnInit {
      s3.deleteObjects(params, function(err, data) {
        if (err) console.log(err, err.stack); // an error occurred
      });
-
-     //this.listDocs(s3);
   }
 
   listDocs(s3) {
