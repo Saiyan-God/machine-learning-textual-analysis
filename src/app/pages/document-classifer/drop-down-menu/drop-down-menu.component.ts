@@ -68,6 +68,7 @@ export class DropDownMenuComponent implements OnInit {
   }
   
   selectAll() {
+    console.log(this.checkedDocs.length);
     for(var i = 0; i < this.uploadFolderContents.length; i++) {
       this.uploadFolderContents[i].checked = true;
     }

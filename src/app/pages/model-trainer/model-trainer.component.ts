@@ -1,11 +1,11 @@
 import { Component, OnInit } from '@angular/core';
 import { ToasterService, ToasterConfig, Toast, BodyOutputType } from 'angular2-toaster';
+import { NbToastStatus } from '@nebular/theme/components/toastr/model';
+import {environment} from '../../../environments/environment'
 
 import * as AWS from 'aws-sdk';
 
 require('../../../../node_modules/aws-sdk/clients/sagemaker')
-
-import {environment} from '../../../environments/environment'
 
 @Component({
 	selector: 'app-model-trainer',
@@ -22,7 +22,7 @@ export class ModelTrainerComponent implements OnInit {
 	content = `I'm cool toaster!`;
 	timeout = 5000;
 	toastsLimit = 5;
-	type = 'default';
+	type = NbToastStatus.SUCCESS;
 
 	isNewestOnTop = true;
 	isHideOnClick = true;
@@ -69,7 +69,7 @@ export class ModelTrainerComponent implements OnInit {
 			this.jobsInTraining = b.TrainingJobSummaries;
 		})
 
-		this.s3.listObjects({Bucket: "lda-sklearn", Prefix: "training-input/"}, (a,b) => {
+		this.s3.listObjects({Bucket:environment.uploadBucket, Prefix: environment.uploadFolder}, (a,b) => {
 			console.log(a,b)
 			b.Contents.splice(0,1)
 			this.documents = b.Contents
@@ -135,7 +135,7 @@ export class ModelTrainerComponent implements OnInit {
 			DataSource: {
 				S3DataSource: {
 					S3DataType: "S3Prefix",
-					S3Uri: "s3://lda-sklearn/training-input",
+					S3Uri: "s3://lda-sklearn/documents",
 				}
 			}
 		}]

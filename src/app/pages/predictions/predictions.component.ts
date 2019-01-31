@@ -15,6 +15,7 @@ export class PredictionsComponent implements OnInit {
   public batchTransform;
 
   constructor(private route: ActivatedRoute) { 
+    //console.log("this here", route.url);
     this.batchTransform = route.url.value[1].path;
   }
 

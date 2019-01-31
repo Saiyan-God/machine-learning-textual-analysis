@@ -7,15 +7,15 @@ export const MENU_ITEMS: NbMenuItem[] = [
     link: '/pages/datasets',
   },
   {
-    title: 'View Trained Models',
-    icon: 'nb-list',
-    link: '/pages/view-models'
-  }, 
-  {
     title: 'Train New Models',
     icon: 'nb-home',
     link: '/pages/model-trainer',
-  }, 
+  },
+  {
+    title: 'View Trained Models',
+    icon: 'nb-list',
+    link: '/pages/view-models'
+  },
   {
     title: 'Predict',
     icon: 'nb-bar-chart',

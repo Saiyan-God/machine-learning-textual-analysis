@@ -5,15 +5,14 @@ import { NbGlobalLogicalPosition, NbGlobalPhysicalPosition, NbGlobalPosition, Nb
 import { NbToastStatus } from '@nebular/theme/components/toastr/model';
 import { LocalDataSource } from 'ng2-smart-table';
 import { SmartTableService } from '../../@core/data/smart-table.service';
-
 import { NbWindowService } from '@nebular/theme';
 import { WindowFormComponent } from './window-form/window-form.component';
+import {environment} from '../../../environments/environment';
 
 import * as AWS from 'aws-sdk';
 
 require('../../../../node_modules/aws-sdk/clients/sagemaker')
 
-import {environment} from '../../../environments/environment'
 
 @Component({
 	selector: 'ngx-predictor',
@@ -67,7 +66,7 @@ export class PredictorComponent implements OnInit {
         this.setModelAttributes(this.models[0]["ModelName"])
       })
 
-      this.s3.listObjects({Bucket: "lda-sklearn", Prefix: "training-input/"}, (a,b) => {
+      this.s3.listObjects({Bucket: environment.uploadBucket, Prefix: environment.uploadFolder}, (a,b) => {
         b.Contents.splice(0,1)
         this.documents = b.Contents
         this.documents = this.documents.map((a) => {

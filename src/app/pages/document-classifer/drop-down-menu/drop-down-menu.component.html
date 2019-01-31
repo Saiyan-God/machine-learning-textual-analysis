@@ -90,7 +90,7 @@
     <nb-card-body>
         <nb-list>
             <nb-list-item *ngFor="let d of uploadFolderContents | filter: searchText">
-                <nb-checkbox class="boxes" [(ngModel)]="d.checked" (change)="documentSelectChange()">{{d.Key}}</nb-checkbox>
+                <nb-checkbox  [(ngModel)]="d.checked" (change)="documentSelectChange()">{{d.Key}}</nb-checkbox>
             </nb-list-item>
         </nb-list>
     </nb-card-body>

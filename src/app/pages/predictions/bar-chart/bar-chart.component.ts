@@ -54,68 +54,52 @@ export class BarChartComponent implements OnInit {
             rows.splice(0,1);
             console.log(rows);
 
-            var colors = this.colorArrayGenerator(rows[0].length);
-            var topValues = [];
-            var runnerUps = []
-    
+            //Is there a better way to declare this?
+            var seriesData = new Array(rows[0].length);
+            for (var i = 0; i < seriesData.length; i++) {
+              seriesData[i] = new Array();
+            }
+
+            
+            //fill the dataSeries array. Each index of the 2D array corresponds to one topics data.
             for (var i = 0; i < rows.length; i++) {
-    
-              var first = {name: "", value: 0,  itemStyle : { color: colors[0]}};
-              var second = {name: "", value: 0, itemStyle : { color: colors[0]}};
-    
-              for (var j = 0; j < rows[i].length; j++) {
-               
-                var temp = {name: "Topic " + j, value: rows[i][j], itemStyle : { color: colors[j]}};
-               
-                if (temp.value > first.value) {
-    
-                  second.value = first.value;
-                  second.itemStyle.color = first.itemStyle.color
-                  second.name = first.name;
-    
-                  first.value = temp.value;
-                  first.itemStyle.color = temp.itemStyle.color;
-                  first.name = temp.name
-    
-                }else if (temp.value > second.value) {
-    
-                  second.value = temp.value;
-                  second.itemStyle.color = temp.itemStyle.color;
-                  second.name = temp.name;
-    
+              for (var a = 0; a < rows[i].length; a++) {
+                seriesData[a].push(rows[i][a]);
+              }
+            }
+
+            var seriesArray = [];
+            for (var i = 0; i < seriesData.length; i++) {
+              seriesArray.push(
+                {
+                  name: 'Topic ' + (i + 1),
+                  type: 'bar',
+                  stack: 'stack',
+                  data: seriesData[i]
                 }
-              }
-              topValues.push(first);
-              runnerUps.push(second);
+              );
             }
-          
-            var xAxisLabels = [];
-            var topicLabels = [];
-    
-            for (var i = 0; i < topValues.length; i++) {
-    
-              xAxisLabels.push("Doc " + i);
-    
-              if (i < colors.length) {
-                topicLabels.push({name:"Topic " + i});
-              }
-    
+
+            var xAxisLabels = []
+            for (var i = 0; i < seriesData[0].length; i++) {
+              xAxisLabels.push('Doc ' + (i + 1));
             }
+
+            var legendLabels = [];
+            for (var i = 0; i < seriesData.length; i++) {
+              legendLabels.push('Topic ' + (i + 1));
+            }
+
+            //var colors = this.colorArrayGenerator(rows[0].length);
+
             this.options = {
-              title: {
-                text: 'Top Two Topics Per Document',
-              },
-              legend: {
-                show: true,
-                data: ['black', 'white']
-              },
-              color: ['black', 'white'],
               tooltip: {
                 trigger: 'axis',
                 axisPointer: {
                   type: 'shadow',
                 },
               },
+              legend: {},
               xAxis: [
                 {
                   name: "Documents",
@@ -132,24 +116,18 @@ export class BarChartComponent implements OnInit {
                 {
                   type: 'value',
                   name: 'Topic Correlation',
+                  max: 1
                 },
               ],
-              series: [
-                {
-                  type: 'bar',
-                  data: topValues
-                },
-                { 
-                  type: 'bar',
-                  data: runnerUps
-                }
-              ],
+              series: seriesArray
             };
           });
         });
       }
     });
   }
+
+
   colorArrayGenerator(length) {
     var colors = [];
     for (var i = 0; i < length; i++) {
