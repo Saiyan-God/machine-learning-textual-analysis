@@ -1,9 +1,6 @@
 import { Component, OnInit } from '@angular/core';
-import { ActivatedRoute } from '@angular/router'
-import * as AWS from 'aws-sdk';
+import { Router } from '@angular/router'
 require('../../../../node_modules/aws-sdk/clients/sagemaker');
-import {environment} from '../../../environments/environment';
-const csv = require('csvtojson');
 
 @Component({
   selector: 'ngx-predictions',
@@ -14,9 +11,9 @@ export class PredictionsComponent implements OnInit {
 
   public batchTransform;
 
-  constructor(private route: ActivatedRoute) { 
-    //console.log("this here", route.url);
-    this.batchTransform = route.url.value[1].path;
+  constructor(private router: Router) { 
+    var urlArray = router.url.split('/');
+    this.batchTransform = urlArray[urlArray.length - 1];
   }
 
   ngOnInit() {}
