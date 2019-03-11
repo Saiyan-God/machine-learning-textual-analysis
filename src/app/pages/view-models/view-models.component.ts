@@ -49,7 +49,6 @@ export class ViewModelsComponent implements OnInit {
 		if (this.selectedModel) {
 			this.sage.describeModel({ ModelName: this.selectedModel }, (a, b) => {
 				this.sage.describeTrainingJob({ TrainingJobName: (b.PrimaryContainer || b.Containers[0]).ModelDataUrl.split("/")[4] }, (a, b) => {
-					console.log(a, b);
 					if(b){
 						this.setHyperparameters(b.HyperParameters);
 						this.setModelDisplay(b);
@@ -76,7 +75,7 @@ export class ViewModelsComponent implements OnInit {
 		};
 
 		this.s3.getObject(params, function (err, data) {
-			if (err) console.log(err, err.stack); // an error occurred
+			if (err) console.log(err, err.stack, "Here"); // an error occurred
 			else {
 				var arr = data.Body.toString();
 				document.getElementById("lda-iframe")["src"] = window.URL.createObjectURL(new Blob([arr], { type: 'text/html' }));
@@ -89,6 +88,37 @@ export class ViewModelsComponent implements OnInit {
 			b["training_documents"] = JSON.parse(b["training_documents"].replace(/'/g, '"'))
 		}
 		this.hyperparameters = { ...b }
+		var topics = []
+		for (var index = 1; index <= b.num_of_topics; index ++) {
+			topics.push("Topic " + index)
+		}
+		this.hyperparameters["topics"] = topics
+	}
+
+	saveTopics() {
+		this.sage.describeModel({ ModelName: this.selectedModel }, (a, b) => {
+			let name = (b.PrimaryContainer || b.Containers[0]).ModelDataUrl.split("/")[4]
+			let request = {
+				topics: this.hyperparameters.topics
+			}
+			let requestS3Key = `training-jobs/${name}/output/topics.json`
+			let params = {
+				Bucket: environment.uploadBucket,
+				Key: requestS3Key,
+				Body: JSON.stringify(request),
+				ContentType: "application/json",
+			}
+			this.s3.putObject(params, function(err,data) {
+				if (err) {
+					console.log(err, err.stack)
+					alert("Oops, failed to upload custom topic labels")
+				}
+			})
+		})
+	}
+
+	customTrackBy(index: number, obj: any): any {
+		return index;
 	}
 
 }

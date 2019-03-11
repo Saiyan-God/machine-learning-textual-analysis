@@ -26,6 +26,21 @@
 				<p>Number of top words: {{ hyperparameters.num_top_words }}</p>
 			</nb-card-body>
 		</nb-card>
+		<nb-card>
+			<nb-card-header>
+				<h3>Topics</h3>
+			</nb-card-header>
+			<nb-card-body>
+				<nb-list>
+					<nb-list-item *ngFor="let topic of hyperparameters.topics; let i = index; trackBy:customTrackBy">
+						<input nbInput type="text" [(ngModel)]="hyperparameters.topics[i]" fieldSize="small" status="info">
+					</nb-list-item>
+				</nb-list>
+			</nb-card-body>
+			<nb-card-footer>
+				<button nbButton size="small" status="success" (click)="saveTopics()">Save</button>
+			</nb-card-footer>
+		</nb-card>
 	</div>
 </div>
 <nb-card size="small">
