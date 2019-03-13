@@ -27,13 +27,15 @@
 			</nb-card-header>
 			<nb-card-body>
 				<p>Name: <input type="text" [(ngModel)]="model.name" nbInput fieldSize="small" status="info"></p>
-				<h3>Model Parameters: </h3>
-				<p>Number of topics: <input type="text" [(ngModel)]="model.hyperparameters.num_of_topics" nbInput fieldSize="small"
-					 status="info"></p>
-				<p>Number of features: <input type="text" [(ngModel)]="model.hyperparameters.num_features" nbInput fieldSize="small"
-					 status="info"></p>
-				<p>Number of top words: <input type="text" [(ngModel)]="model.hyperparameters.num_top_words" nbInput fieldSize="small"
-					 status="info"></p>
+		        <section *ngIf="!model.algorithmName.includes('gs')">
+					<h3>Model Parameters: </h3>
+					<p>Number of topics: <input type="text" [(ngModel)]="model.hyperparameters.num_of_topics" nbInput fieldSize="small"
+							status="info"></p>
+					<p>Number of features: <input type="text" [(ngModel)]="model.hyperparameters.num_features" nbInput fieldSize="small"
+							status="info"></p>
+					<p>Number of top words: <input type="text" [(ngModel)]="model.hyperparameters.num_top_words" nbInput fieldSize="small"
+							status="info"></p>
+				</section>
 			</nb-card-body>
 			<nb-card-footer>
 				<button nbButton status="success" (click)="createTrainingJob()">Train</button>
@@ -48,6 +50,8 @@
 			<nb-card-body>
 				<nb-list>
 					<nb-list-item *ngFor="let j of jobsInTraining">{{ j.TrainingJobName }}</nb-list-item>
+					<!-- <nb-card [nbSpinner]="loading" nbSpinnerStatus="danger">
+					</nb-card> -->
 				</nb-list>
 			</nb-card-body>
 		</nb-card>

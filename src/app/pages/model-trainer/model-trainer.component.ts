@@ -2,7 +2,6 @@ import { Component, OnInit } from '@angular/core';
 import { ToasterService, ToasterConfig, Toast, BodyOutputType } from 'angular2-toaster';
 import { NbToastStatus } from '@nebular/theme/components/toastr/model';
 import {environment} from '../../../environments/environment'
-
 import * as AWS from 'aws-sdk';
 
 require('../../../../node_modules/aws-sdk/clients/sagemaker')
@@ -69,14 +68,15 @@ export class ModelTrainerComponent implements OnInit {
 			this.jobsInTraining = b.TrainingJobSummaries;
 		})
 
-		this.s3.listObjects({Bucket:environment.uploadBucket, Prefix: environment.uploadFolder}, (a,b) => {
-			console.log(a,b)
+		this.s3.listObjects({Bucket: environment.uploadBucket, Prefix: environment.uploadFolder}, (a,b) => {
+			console.log(b)
 			b.Contents.splice(0,1)
 			this.documents = b.Contents
 			this.documents = this.documents.map((a) => {
 				a.Key = a.Key.split('/')[1]
 				return a
 			})
+			console.log(this.documents)
 		})
 
 		setInterval(() => { 
@@ -90,9 +90,13 @@ export class ModelTrainerComponent implements OnInit {
 							modelInput.ExecutionRoleArn = b.RoleArn
 							modelInput.Containers = [{
 								ContainerHostname: 'Container1',
-								ModelDataUrl: b.ModelArtifacts.S3ModelArtifacts,
-								Image: "612969343006.dkr.ecr.us-east-2.amazonaws.com/lda-sklearn:latest"
+								ModelDataUrl: b.ModelArtifacts.S3ModelArtifacts
 							}]
+							this.algorithms.forEach((a) => {
+								if(a.AlgorithmName == j["AlgorithmSpecification"]["AlgorithmName"]){
+									modelInput.Containers[0].Image = a.TrainingSpecification.TrainingImage
+								}
+							})
 							this.sage.createModel(modelInput, (a,b)=> {
 								console.log(a,b)
 								// if(a.message.includes("Cannot create already existing model")){
@@ -115,7 +119,7 @@ export class ModelTrainerComponent implements OnInit {
 		trainingJob.TrainingJobName = this.model.name + "-training-job-" + Date.now().toString()
 		trainingJob.AlgorithmSpecification = {
 			AlgorithmName: this.model.algorithmName,
-			TrainingInputMode: "File"
+			TrainingInputMode: "File",
 		}
 		trainingJob.EnableNetworkIsolation = false
 		trainingJob.OutputDataConfig = {
@@ -127,7 +131,7 @@ export class ModelTrainerComponent implements OnInit {
 			VolumeSizeInGB: 1
 		}
 		trainingJob.StoppingCondition = {
-			MaxRuntimeInSeconds: 500
+			MaxRuntimeInSeconds: 1000
 		}
 		trainingJob.HyperParameters = this.model.hyperparameters
 		trainingJob.InputDataConfig = [{
