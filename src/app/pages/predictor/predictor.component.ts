@@ -40,6 +40,7 @@ export class PredictorComponent implements OnInit {
 
     private models = []
     private selectedModel = ""
+    private selectedJobName = ""
     private hyperparameters = {};
     private sage: AWS.SageMaker;
     private s3: AWS.S3;
@@ -93,39 +94,23 @@ export class PredictorComponent implements OnInit {
     }
 
     setModelAttributes(modelName) {
-		this.selectedModel = modelName
-		if (this.selectedModel) {
-			this.sage.describeModel({ ModelName: this.selectedModel }, (a, b) => {
-				this.sage.describeTrainingJob({ TrainingJobName: (b.PrimaryContainer || b.Containers[0]).ModelDataUrl.split("/")[4] }, (a, b) => {
-          if(b){
-            this.setHyperparameters(b.HyperParameters);
-            this.setModelDisplay(b);
-          }
-				})
-			})
-		}
+      this.selectedModel = modelName
+      if (this.selectedModel) {
+        this.sage.describeModel({ ModelName: this.selectedModel }, (a, b) => {
+          this.selectedJobName = (b.PrimaryContainer || b.Containers[0]).ModelDataUrl.split("/")[4]
+          this.sage.describeTrainingJob({ TrainingJobName: this.selectedJobName }, (a, b) => {
+            if(b){
+              this.setHyperparameters(b.HyperParameters);
+            }
+          })
+        })
+      }
     }
     
 
   modelSelectChanged(e) {
 		this.setModelAttributes(e)
   }
-
-	setModelDisplay(b) {
-		// var splitModelArtifacts = b.ModelArtifacts.S3ModelArtifacts.split("/")
-		// var params = {
-		// 	Bucket: splitModelArtifacts[2],
-		// 	Key: splitModelArtifacts.slice(3, -1).join('/') + '/LDA_Visualization.html'
-		// };
-
-		// this.s3.getObject(params, function (err, data) {
-		// 	if (err) console.log(err, err.stack); // an error occurred
-		// 	else {
-		// 		var arr = data.Body.toString();
-		// 		document.getElementById("lda-iframe")["src"] = window.URL.createObjectURL(new Blob([arr], { type: 'text/html' }));
-		// 	}         // successful response
-		// });
-	}
 
 	setHyperparameters(b) {
 		if(b["training_documents"]) {
@@ -141,10 +126,10 @@ export class PredictorComponent implements OnInit {
   }
   
   predict() {
-    console.log(this.model, this.documents)
    
     let request = {
       job_name: `batch-transform-job-${this.selectedModel}-${Date.now()}`,
+      model_name: this.selectedJobName,
       predict_documents: this.model.hyperparameters['predict_documents']
     }
     let requestS3Key = `batch-transforms/${request.job_name}/request.json`

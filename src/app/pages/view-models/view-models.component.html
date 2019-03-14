@@ -33,7 +33,7 @@
 			<nb-card-body>
 				<nb-list>
 					<nb-list-item *ngFor="let topic of hyperparameters.topics; let i = index; trackBy:customTrackBy">
-						<input nbInput type="text" [(ngModel)]="hyperparameters.topics[i]" fieldSize="small" status="info">
+						topic {{i+1}}: <input nbInput type="text" [(ngModel)]="hyperparameters.topics[i]" fieldSize="small" status="info">
 					</nb-list-item>
 				</nb-list>
 			</nb-card-body>

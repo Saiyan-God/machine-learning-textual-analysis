@@ -84,17 +84,38 @@ export class ViewModelsComponent implements OnInit {
 		if(b["training_documents"]) {
 			b["training_documents"] = JSON.parse(b["training_documents"].replace(/'/g, '"'))
 		}
+
 		this.hyperparameters = { ...b }
 
-		let topicsKey = `training-jobs/${TrainingJobName}/output/topics.json`
+		if (TrainingJobName.includes("gs") || TrainingJobName.includes("GS")) {
+			let topicsKey = `training-jobs/${TrainingJobName}/output/data.json`
+			let params = {
+				Bucket: environment.uploadBucket, 
+				Key: topicsKey
+			};
+			this.s3.getObject(params, (err, data) => {
+				if (!err) {
+					let numTopics = JSON.parse(data.Body.toString()).n_components
+					this.hyperparameters["num_of_topics"] = numTopics
+					this.setTopics(TrainingJobName, this.hyperparameters["num_of_topics"])
+				}
+			});
+		}else {
+			this.setTopics(TrainingJobName, b.num_of_topics)
+		}
+	}
+
+	setTopics(trainingJobName, numTopics) {
+		//get custom topic labels
+		let topicsKey = `training-jobs/${trainingJobName}/output/topics.json`
 		let params = {
 			Bucket: environment.uploadBucket, 
 			Key: topicsKey
-		   };
+		};
 		this.s3.getObject(params, (err, data) =>{
 			var topics = []
 			if (err) { //Custom labels do not exist
-				for (var index = 1; index <= b.num_of_topics; index ++) {
+				for (var index = 1; index <= numTopics; index ++) {
 					topics.push("Topic " + index)
 				}
 			}else {
@@ -102,14 +123,13 @@ export class ViewModelsComponent implements OnInit {
 			}
 			this.hyperparameters["topics"] = topics
 		});
-
 	}
 
 	saveTopics() {
 		this.sage.describeModel({ ModelName: this.selectedModel }, (a, b) => {
 			let name = (b.PrimaryContainer || b.Containers[0]).ModelDataUrl.split("/")[4]
 			let request = {
-				topics: this.hyperparameters.topics
+				topics: this.hyperparameters["topics"]
 			}
 			let topicsKey = `training-jobs/${name}/output/topics.json`
 			let params = {
