@@ -20,10 +20,19 @@
 				</div>
 			</nb-card-header>
 			<nb-card-body>
-				<h3>Model Parameters: </h3>
-				<p>Number of topics: {{hyperparameters.num_of_topics}}</p>
-				<p>Number of features: {{hyperparameters.num_features}}</p>
-				<p>Number of top words: {{ hyperparameters.num_top_words }}</p>
+				<div *ngIf="!isModelGS;else displayGS">
+					<h3>Model Parameters: </h3>
+					<p>Number of topics: 	{{hyperparameters.numTopics}}</p>
+					<p>Number of features: 	{{hyperparameters.numFeatures}}</p>
+					<p>Number of top words: {{ hyperparameters.numTopWords}}</p>
+				</div>
+				<ng-template #displayGS>
+					<h3>Model Parameters: </h3>
+					<p>Number of topics:	{{hyperparameters.numTopics}}</p>
+					<p>Log likelihood: 		{{hyperparameters.logLiklihood}}</p>
+					<p>Learning decay: 		{{hyperparameters.learningDecay}}</p>
+					<p>Perplexity: 			{{hyperparameters.perplexity}}</p>
+				</ng-template>
 			</nb-card-body>
 		</nb-card>
 		<nb-card>
@@ -49,7 +58,7 @@
 	</nb-card-header>
 	<nb-card-body>
 		<nb-list>
-			<nb-list-item *ngFor="let d of hyperparameters.training_documents">{{ d }}</nb-list-item>
+			<nb-list-item *ngFor="let d of hyperparameters.trainingDocuments">{{ d }}</nb-list-item>
 		</nb-list>
 	</nb-card-body>
 	<nb-card-footer>

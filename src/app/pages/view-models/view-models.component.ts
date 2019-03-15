@@ -23,11 +23,12 @@ export class ViewModelsComponent implements OnInit {
 		'doc 5',
 		'doc 6',
 	];
-	private models = []
-	private selectedModel = ""
-	private sage: AWS.SageMaker;
-	private s3: AWS.S3;
-	private hyperparameters = {};
+	private models 			= []
+	private selectedModel 	= ""
+	private hyperparameters = {}
+	private isModelGS 		= false
+	private sage: AWS.SageMaker
+	private s3: AWS.S3
 
 	constructor() {
 		AWS.config.update({
@@ -45,23 +46,50 @@ export class ViewModelsComponent implements OnInit {
 
 	ngOnInit() {}
 
+	modelSelectChanged(e) {
+		this.setModelAttributes(e)
+	}
+
 	setModelAttributes(modelName) {
 		this.selectedModel = modelName
 		if (this.selectedModel) {
 			this.sage.describeModel({ ModelName: this.selectedModel }, (a, b) => {
 				let jobName = (b.PrimaryContainer || b.Containers[0]).ModelDataUrl.split("/")[4]
-				this.sage.describeTrainingJob({ TrainingJobName: jobName }, (a, b) => {
-					if(b){
-						this.setHyperparameters(b.HyperParameters, jobName);
-						this.setModelDisplay(b);
-					}
-				})
+				if (jobName.includes("gs") || jobName.includes("GS")) {
+					this.isModelGS = true
+					let topicsKey = `training-jobs/${jobName}/output/data.json`
+					let params = {
+						Bucket: environment.uploadBucket, 
+						Key: topicsKey
+					};
+					this.s3.getObject(params, (err, data) => {
+						if (!err) {
+							let gsModelParams = JSON.parse(data.Body.toString())
+							this.hyperparameters["numTopics"] 		= gsModelParams.n_components
+							this.hyperparameters["learningDecay"] 	= gsModelParams.learning_decay.toFixed(2)
+							this.hyperparameters["logLiklihood"] 	= gsModelParams.log_liklihood.toFixed(2)
+							this.hyperparameters["perplexity"] 		= gsModelParams.perplexity.toFixed(2)
+						}
+					});
+				}else {
+					this.isModelGS = false
+					this.sage.describeTrainingJob({ TrainingJobName: jobName }, (a, modelParams) => {
+						if(modelParams) {
+							let hyperparams = modelParams.HyperParameters
+							if (hyperparams["num_of_topics"] && hyperparams["num_top_words"] && hyperparams["num_features"] &&
+							hyperparams["training_documents"]) {
+								this.hyperparameters["numTopics"]			= hyperparams.num_of_topics
+								this.hyperparameters["numTopWords"]			= hyperparams.num_top_words
+								this.hyperparameters["numFeatures"]			= hyperparams.num_features
+								this.hyperparameters["trainingDocuments"]	= JSON.parse(hyperparams.training_documents.replace(/'/g, '"'))
+							}
+						}
+						this.setModelDisplay(modelParams);
+					})
+				}
+				this.setTopics(jobName, this.hyperparameters["numTopics"])
 			})
 		}
-	}
-
-	modelSelectChanged(e) {
-		this.setModelAttributes(e)
 	}
 
 	setModelDisplay(b) {
@@ -80,33 +108,8 @@ export class ViewModelsComponent implements OnInit {
 		});
 	}
 
-	setHyperparameters(b, TrainingJobName) {
-		if(b["training_documents"]) {
-			b["training_documents"] = JSON.parse(b["training_documents"].replace(/'/g, '"'))
-		}
-
-		this.hyperparameters = { ...b }
-
-		if (TrainingJobName.includes("gs") || TrainingJobName.includes("GS")) {
-			let topicsKey = `training-jobs/${TrainingJobName}/output/data.json`
-			let params = {
-				Bucket: environment.uploadBucket, 
-				Key: topicsKey
-			};
-			this.s3.getObject(params, (err, data) => {
-				if (!err) {
-					let numTopics = JSON.parse(data.Body.toString()).n_components
-					this.hyperparameters["num_of_topics"] = numTopics
-					this.setTopics(TrainingJobName, this.hyperparameters["num_of_topics"])
-				}
-			});
-		}else {
-			this.setTopics(TrainingJobName, b.num_of_topics)
-		}
-	}
-
+	//get custom topic labels
 	setTopics(trainingJobName, numTopics) {
-		//get custom topic labels
 		let topicsKey = `training-jobs/${trainingJobName}/output/topics.json`
 		let params = {
 			Bucket: environment.uploadBucket, 
