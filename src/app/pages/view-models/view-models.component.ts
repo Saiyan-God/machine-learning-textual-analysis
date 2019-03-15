@@ -69,6 +69,7 @@ export class ViewModelsComponent implements OnInit {
 							this.hyperparameters["learningDecay"] 	= gsModelParams.learning_decay.toFixed(2)
 							this.hyperparameters["logLiklihood"] 	= gsModelParams.log_liklihood.toFixed(2)
 							this.hyperparameters["perplexity"] 		= gsModelParams.perplexity.toFixed(2)
+							this.setTopics(jobName, this.hyperparameters["numTopics"])
 						}
 					});
 				}else {
@@ -82,12 +83,12 @@ export class ViewModelsComponent implements OnInit {
 								this.hyperparameters["numTopWords"]			= hyperparams.num_top_words
 								this.hyperparameters["numFeatures"]			= hyperparams.num_features
 								this.hyperparameters["trainingDocuments"]	= JSON.parse(hyperparams.training_documents.replace(/'/g, '"'))
+								this.setTopics(jobName, this.hyperparameters["numTopics"])
 							}
 						}
 						this.setModelDisplay(modelParams);
 					})
 				}
-				this.setTopics(jobName, this.hyperparameters["numTopics"])
 			})
 		}
 	}

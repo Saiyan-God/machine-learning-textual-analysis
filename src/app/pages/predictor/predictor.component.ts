@@ -38,16 +38,17 @@ export class PredictorComponent implements OnInit {
     isCloseButton = true;
 
 
-    private models = []
-    private selectedModel = ""
+    private models          = []
+    private selectedModel   = ""
     private selectedJobName = ""
-    private hyperparameters = {};
+    private hyperparameters = {}
+    private isModelGS       = false
+    private documents       = []
+    private source          = new Array();
+    private model           = { name: "", hyperparameters: {}, algorithmName: "" };
     private sage: AWS.SageMaker;
     private s3: AWS.S3;
-    private documents = []
-    private model = { name: "", hyperparameters: {}, algorithmName: "" };
     private batchTransformJobs : AWS.SageMaker.TransformJobSummaries;
-    private source = new Array();
 
     @ViewChild('contentTemplate') contentTemplate: TemplateRef<any>;
     @ViewChild('disabledEsc', { read: TemplateRef }) disabledEscTemplate: TemplateRef<HTMLElement>;
@@ -89,38 +90,53 @@ export class PredictorComponent implements OnInit {
       })
     }
 
-    ngOnInit(){
+    ngOnInit(){}
 
+    modelSelectChanged(e) {
+      this.setModelAttributes(e)
     }
 
     setModelAttributes(modelName) {
       this.selectedModel = modelName
       if (this.selectedModel) {
         this.sage.describeModel({ ModelName: this.selectedModel }, (a, b) => {
-          this.selectedJobName = (b.PrimaryContainer || b.Containers[0]).ModelDataUrl.split("/")[4]
-          this.sage.describeTrainingJob({ TrainingJobName: this.selectedJobName }, (a, b) => {
-            if(b){
-              this.setHyperparameters(b.HyperParameters);
-            }
-          })
+          let jobName = (b.PrimaryContainer || b.Containers[0]).ModelDataUrl.split("/")[4]
+          if (jobName.includes("gs") || jobName.includes("GS")) {
+            this.isModelGS = true
+            let topicsKey = `training-jobs/${jobName}/output/data.json`
+            let params = {
+              Bucket: environment.uploadBucket, 
+              Key: topicsKey
+            };
+            this.s3.getObject(params, (err, data) => {
+              if (!err) {
+                let gsModelParams = JSON.parse(data.Body.toString())
+                this.hyperparameters["numTopics"] 		= gsModelParams.n_components
+                this.hyperparameters["learningDecay"] 	= gsModelParams.learning_decay.toFixed(2)
+                this.hyperparameters["logLiklihood"] 	= gsModelParams.log_liklihood.toFixed(2)
+                this.hyperparameters["perplexity"] 		= gsModelParams.perplexity.toFixed(2)
+              }
+            });
+          }else {
+            this.isModelGS = false
+            this.sage.describeTrainingJob({ TrainingJobName: jobName }, (a, modelParams) => {
+              if(modelParams) {
+                let hyperparams = modelParams.HyperParameters
+                if (hyperparams["num_of_topics"] && hyperparams["num_top_words"] && hyperparams["num_features"] &&
+                hyperparams["training_documents"]) {
+                  this.hyperparameters["numTopics"]			= hyperparams.num_of_topics
+                  this.hyperparameters["numTopWords"]			= hyperparams.num_top_words
+                  this.hyperparameters["numFeatures"]			= hyperparams.num_features
+                  this.hyperparameters["trainingDocuments"]	= JSON.parse(hyperparams.training_documents.replace(/'/g, '"'))
+                }
+              }
+            })
+          }
         })
       }
     }
-    
-
-  modelSelectChanged(e) {
-		this.setModelAttributes(e)
-  }
-
-	setHyperparameters(b) {
-		if(b["training_documents"]) {
-			b["training_documents"] = JSON.parse(b["training_documents"].replace(/'/g, '"'))
-		}
-		this.hyperparameters = { ...b }
-  }
   
   documentSelectChange(){
-		console.log(this.documents)
 		let checkedDocuments = this.documents.filter((d) => d.checked).map((d) => d.Key)
     this.model.hyperparameters["predict_documents"] = checkedDocuments
   }
