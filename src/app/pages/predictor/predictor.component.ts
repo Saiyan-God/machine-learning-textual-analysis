@@ -63,7 +63,7 @@ export class PredictorComponent implements OnInit {
       });
       this.sage = new AWS.SageMaker();
       this.s3 = new AWS.S3();
-      this.sage.listModels({}, (a, b) => {
+      this.sage.listModels({MaxResults: 100}, (a, b) => {
         this.models = b.Models;
         this.setModelAttributes(this.models[0]["ModelName"])
       })
@@ -83,7 +83,8 @@ export class PredictorComponent implements OnInit {
     getTransformJobs() {
 
       var param = {
-        'NameContains': 'batch-transform-job'
+        'NameContains': 'batch-transform-job',
+        'MaxResults': 100
       };
       this.sage.listTransformJobs(param, (a,b) => {
         this.batchTransformJobs = b.TransformJobSummaries

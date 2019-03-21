@@ -38,7 +38,7 @@ export class ViewModelsComponent implements OnInit {
 		});
 		this.sage = new AWS.SageMaker();
 		this.s3 = new AWS.S3();
-		this.sage.listModels({}, (a, b) => {
+		this.sage.listModels({MaxResults: 100}, (a, b) => {
 			this.models = b.Models;
 			this.setModelAttributes(this.models[0]["ModelName"])
 		})
