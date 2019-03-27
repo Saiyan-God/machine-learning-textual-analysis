@@ -143,7 +143,7 @@ export class ModelTrainerComponent implements OnInit {
 				}
 			}
 		}]
-		trainingJob.RoleArn = "arn:aws:iam::612969343006:role/service-role/AmazonSageMaker-ExecutionRole-20181201T132673"
+		trainingJob.RoleArn = environment.ArnRole
 		this.sage.createTrainingJob(trainingJob, (a, b) => {
 			console.log(a, b)
 			this.showToast(this.type, "Training Model Created", `ARN: ${b.TrainingJobArn}`)

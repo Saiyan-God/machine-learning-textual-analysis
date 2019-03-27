@@ -12,6 +12,7 @@ export const environment = {
   production: false,
   accessKeyId: '',
   secretAccessKey: '',
+  ArnRole: "arn:aws:iam::612969343006:role/service-role/AmazonSageMaker-ExecutionRole-20181201T132673",
   uploadBucket: 'lda-sklearn',
   //Folders should be terminated with a forward slash. Ex. "my/pathway/"
   uploadFolder: 'documents/',
