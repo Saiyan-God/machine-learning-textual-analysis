@@ -123,7 +123,7 @@ export class ModelTrainerComponent implements OnInit {
 		}
 		trainingJob.EnableNetworkIsolation = false
 		trainingJob.OutputDataConfig = {
-			S3OutputPath: "s3://lda-sklearn/training-jobs"
+			S3OutputPath: `s3://${environment.uploadBucket}/training-jobs`
 		}
 		trainingJob.ResourceConfig = {
 			InstanceCount: 1,
@@ -139,7 +139,7 @@ export class ModelTrainerComponent implements OnInit {
 			DataSource: {
 				S3DataSource: {
 					S3DataType: "S3Prefix",
-					S3Uri: "s3://lda-sklearn/documents",
+					S3Uri: `s3://${environment.uploadBucket}/documents`,
 				}
 			}
 		}]
